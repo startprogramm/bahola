@@ -1,27 +1,27 @@
 ---
 title: "How AI Grading Works: From Photo to Feedback in Seconds"
 date: "2026-03-17"
-author: "TezTekshir Team"
+author: "Bahola Team"
 language: "en"
 slug: "how-ai-grading-works"
-excerpt: "Curious about what happens when a student submits their work? Here's a simple explanation of how TezTekshir grades — from photo upload to detailed feedback."
+excerpt: "Curious about what happens when a student submits their work? Here's a simple explanation of how Bahola grades — from photo upload to detailed feedback."
 coverImage: "/blog/cover-how-ai-grading-works.png"
 theme: "indigo"
 ---
 
 # From Photo to Feedback in Seconds
 
-A student uploads a photo of their handwritten work. Three minutes later, they have a score and detailed feedback. Here's exactly what TezTekshir does in between.
+A student uploads a photo of their handwritten work. Three minutes later, they have a score and detailed feedback. Here's exactly what Bahola does in between.
 
 ## Step 1: Upload and Check
 
-The student takes photos of their work — one page or several. TezTekshir accepts PNG, JPG, and WebP files. You can drag files in, paste from the clipboard, or click to upload.
+The student takes photos of their work — one page or several. Bahola accepts PNG, JPG, and WebP files. You can drag files in, paste from the clipboard, or click to upload.
 
 Before grading starts, a quick AI scan checks each image. It makes sure the photo shows real work — not a blank page, a blurry shot, or an accident.
 
 ## Step 2: Reading the Handwriting
 
-This is where the real work happens. TezTekshir sends each photo to **Google Gemini**, an AI that can "read" images.
+This is where the real work happens. Bahola sends each photo to **Google Gemini**, an AI that can "read" images.
 
 Gemini reads the student's handwriting and turns it into text. It handles:
 
@@ -34,13 +34,13 @@ The result is a full text version of everything the student wrote.
 
 ## Step 3: Loading the Answer Key
 
-TezTekshir needs to know what a correct answer looks like. When a teacher uploads an answer key — PDF, Word, Excel, or image — TezTekshir reads that too and saves it.
+Bahola needs to know what a correct answer looks like. When a teacher uploads an answer key — PDF, Word, Excel, or image — Bahola reads that too and saves it.
 
 This saved answer key is used for every student in that test. It only needs to be read once.
 
 ## Step 4: Grading
 
-Now the main step. TezTekshir sends both texts — the student's answers and the answer key — to **Gemini**. It also sends the question list and how many marks each question is worth.
+Now the main step. Bahola sends both texts — the student's answers and the answer key — to **Gemini**. It also sends the question list and how many marks each question is worth.
 
 Gemini acts like an experienced teacher marking papers. It:
 - Matches each student answer to the right question

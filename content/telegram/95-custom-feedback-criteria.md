@@ -11,7 +11,7 @@
 
 "Yaxshi emas" yoki "Qayta yozing" — bunday izohlar o'quvchiga hech narsa bermaydi.
 
-TezTekshir'da siz **rubrik asosida** baholasangiz, AI ham *siz kabi* izoh beradi — aniq, mezonlarga asoslangan, foydali.
+Bahola'da siz **rubrik asosida** baholasangiz, AI ham *siz kabi* izoh beradi — aniq, mezonlarga asoslangan, foydali.
 
 **Misol:**
 
@@ -26,12 +26,12 @@ Bu — shunchaki raqam emas. Bu — o'quvchi uchun yo'l xaritasi.
 **Qanday sozlash:**
 - Har bir mezon uchun ta'rif yozing
 - Har xil ball uchun nima kutilishini aniqlashtiring
-- TezTekshir qolganini qiladi
+- Bahola qolganini qiladi
 
 O'quvchilar izohingizni tushunsa — o'sadi. Bu oddiy haqiqat.
 
-👉 teztekshir.uz da sinab ko'ring
+👉 bahola.uz da sinab ko'ring
 
 ---
 
-**CTA:** teztekshir.uz
+**CTA:** bahola.uz

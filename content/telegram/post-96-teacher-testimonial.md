@@ -13,7 +13,7 @@ languages: [uz]
 
 Toshkent maktabining matematika o'qituvchisi Malika opa shunday deydi:
 
-*"Ilgari 30 ta testni tekshirish 2 soat ketardi. Charchab, ba'zan xato ham qilardim. Endi TezTekshir bilan 15 daqiqada tamom — va natijalar aniqroq.*
+*"Ilgari 30 ta testni tekshirish 2 soat ketardi. Charchab, ba'zan xato ham qilardim. Endi Bahola bilan 15 daqiqada tamom — va natijalar aniqroq.*
 
 *Rasmga olaman, yuklayman — AI har bir o'quvchi uchun ball va izoh beradi. Men faqat ko'rib chiqib, tasdiqlaysiz."*
 
@@ -25,4 +25,4 @@ Nima o'zgardi:
 
 Malika opa kabi yuzlab o'qituvchilar allaqachon sinab ko'rdi.
 
-Siz ham bir marta ko'ring 👉 teztekshir.uz
+Siz ham bir marta ko'ring 👉 bahola.uz

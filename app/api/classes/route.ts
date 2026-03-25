@@ -60,7 +60,7 @@ export async function GET(request: NextRequest) {
       },
     };
 
-    // Maktab: directors see all school classes; teztekshir: everyone sees own classes
+    // Maktab: directors see all school classes; bahola: everyone sees own classes
     let isDirectorView = false;
     let directorSchoolId: string | null = null;
     if (isMaktab()) {

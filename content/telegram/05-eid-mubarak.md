@@ -6,7 +6,7 @@ date: 2026-03-28
 
 🌙 **Hayit Muborak!**
 
-Muborak Ramazon oyi yakunlanayotgan bu kunlarda TezTekshir jamoasi bir lahza to'xtab, sizga yuzlanmoqchi.
+Muborak Ramazon oyi yakunlanayotgan bu kunlarda Bahola jamoasi bir lahza to'xtab, sizga yuzlanmoqchi.
 
 Har kuni o'z o'quvchilaringiz uchun kelgan, yo'l ko'rsatgan, ilhom bergan — ko'pchiligingiz bularni ro'za tutgan holda qilgan — barcha o'qituvchilarga rahmat.
 
@@ -14,13 +14,13 @@ Bu Hayit sizga dam olish, quvonch va sevganlaringiz bilan birga bo'lish vaqtini 
 
 **Hayit Muborak! Uylaringiz iliqlikka, dasturxonlaringiz ne'matga to'lsin.**
 
-— TezTekshir jamoasi
+— Bahola jamoasi
 
 ---
 
 🌙 **Hayit Muborak!**
 
-В эти последние дни священного Рамадана команда TezTekshir хочет обратиться лично к вам.
+В эти последние дни священного Рамадана команда Bahola хочет обратиться лично к вам.
 
 Каждый день вы приходили к своим ученикам — направляли, поддерживали, вдохновляли. Многие из вас делали это, соблюдая пост. Спасибо вам за это.
 
@@ -28,4 +28,4 @@ Bu Hayit sizga dam olish, quvonch va sevganlaringiz bilan birga bo'lish vaqtini 
 
 **Hayit Muborak! Пусть ваши дома будут полны тепла, а столы — изобилием.**
 
-— Команда TezTekshir
+— Команда Bahola

@@ -14,7 +14,7 @@ Vaqtingizni tejashni xohlaysizmi? Mana to'liq jarayon 👇
 "Topshiriq" bo'limiga o'ting → "Ishlarni yuklash" → bir nechta rasmni bir vaqtda tanlab yuklang. O'quvchi ishlarini bitta paket sifatida yuboring.
 
 **2-qadam: AI avtomatik baholaydi**
-TezTekshir har bir ishni baholash sxemasiga qarab baholaydi. Siz kutasiz — AI ishni bajaradi.
+Bahola har bir ishni baholash sxemasiga qarab baholaydi. Siz kutasiz — AI ishni bajaradi.
 
 **3-qadam: Diqqatga sazovor natijalarga qarang**
 Baholash tugagach, past ball olgan yoki noaniq ishlar ajratib ko'rsatiladi. Faqat shularni tekshiring.
@@ -31,4 +31,4 @@ Baholash tugagach, past ball olgan yoki noaniq ishlar ajratib ko'rsatiladi. Faqa
 
 Sinab ko'rdingizmi? Tajribangizni quyida yozing 👇
 
-#TezTekshir #OmmaviyBaholash #VaqtTejash #AIBaholash
+#Bahola #OmmaviyBaholash #VaqtTejash #AIBaholash

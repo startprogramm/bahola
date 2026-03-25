@@ -11,7 +11,7 @@ duration: 45s
 # Reel 74 — The eMaktab 9PM Deadline Problem (45 Seconds)
 
 ## Concept
-Dramatizes the pain of the eMaktab 9PM grading deadline — a real financial consequence for Uzbek teachers. Shows how TezTekshir eliminates this stress. Targets both teachers (daily pain) and directors (accountability, staff retention). Urgent, relatable, practical.
+Dramatizes the pain of the eMaktab 9PM grading deadline — a real financial consequence for Uzbek teachers. Shows how Bahola eliminates this stress. Targets both teachers (daily pain) and directors (accountability, staff retention). Urgent, relatable, practical.
 
 ## Hook (0–4s)
 Phone screen showing a clock ticking toward 21:00.
@@ -34,19 +34,19 @@ Heartbeat sound effect or urgent tick.
 - Teacher face: dejected, exhausted
 - Voiceover (UZ): "Bu muammo ko'p o'qituvchi uchun har kuni takrorlanaveradi"
 
-**[14–26s] — TezTekshir bilan / С TezTekshir**
+**[14–26s] — Bahola bilan / С Bahola**
 - Phone camera opens — teacher photographs student work quickly
-- Screen: TezTekshir upload interface — progress bar fills
+- Screen: Bahola upload interface — progress bar fills
 - Overlay: "📸 Rasm olasiz..."
 - Overlay: "🤖 Sun'iy intellekt tekshiradi..."
 - Overlay: "✅ Baho tayyor — 2 daqiqada"
 - Clock on screen: 20:08. Still plenty of time.
-- Voiceover (UZ): "TezTekshir bilan butun sinfni 10 daqiqada baholash mumkin"
+- Voiceover (UZ): "Bahola bilan butun sinfni 10 daqiqada baholash mumkin"
 
 **[26–36s] — Natija / Результат**
 - Side-by-side: "Ilgari" (Before) vs "Hozir" (Now)
 - Before: 3 hours of manual checking, stress, missed deadline
-- Now: 10 minutes, TezTekshir, done by 20:15
+- Now: 10 minutes, Bahola, done by 20:15
 - Overlay: "⏰ 3 soat → 10 daqiqa"
 - Overlay (RU): "3 часа → 10 минут"
 - Teacher visible: relaxed, phone down, smiling
@@ -55,18 +55,18 @@ Heartbeat sound effect or urgent tick.
 - Brief screen: Director dashboard showing all teacher compliance green
 - Overlay: "📊 Direktor ko'radi: barcha o'qituvchilar o'z vaqtida"
 - Overlay (RU): "Директор видит: все учителя в срок"
-- Voiceover (RU): "TezTekshir защищает и учителей, и репутацию школы"
+- Voiceover (RU): "Bahola защищает и учителей, и репутацию школы"
 
 **[41–45s] — End card**
 - Bold text: **"eMaktab muhlati — endi muammo emas"**
 - Subtext (RU): "Дедлин eMaktab — больше не проблема"
-- TezTekshir logo + "teztekshir.uz"
+- Bahola logo + "bahola.uz"
 
 ## Caption
 ```
 Soat 21:00 — eMaktab muhlati. Qo'lda tekshirish esa hali tugamagan… 😰
 
-Bu vaziyatni bilamiz. TezTekshir buni o'zgartiradi.
+Bu vaziyatni bilamiz. Bahola buni o'zgartiradi.
 
 📸 Rasm ol
 🤖 AI tekshiradi
@@ -78,11 +78,11 @@ Jarima emas. Stress emas. Faqat natija.
 
 Дедлин eMaktab 21:00 — а ручная проверка ещё не закончена?
 
-TezTekshir решает это. 10 минут — весь класс оценён.
+Bahola решает это. 10 минут — весь класс оценён.
 
-👉 teztekshir.uz — бесплатно
+👉 bahola.uz — бесплатно
 
-#TezTekshir #eMaktab #AIGrading #DigitalSchool #UzbekistanEdu #OʻqituvchilarUchun
+#Bahola #eMaktab #AIGrading #DigitalSchool #UzbekistanEdu #OʻqituvchilarUchun
 ```
 
 ## Production Notes
@@ -92,4 +92,4 @@ TezTekshir решает это. 10 минут — весь класс оценё
 - Director dashboard: brief shot, shows compliance status — all green
 - Audio: ticking clock in first half transitions to calm/productive sound in second half
 - Subtitles in both Uzbek and Russian — essential for this audience
-- CTA: "teztekshir.uz" — free registration emphasis
+- CTA: "bahola.uz" — free registration emphasis

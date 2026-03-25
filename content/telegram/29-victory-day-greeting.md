@@ -12,4 +12,4 @@ Aziz o'qituvchilar, siz ham o'z sinfingizdagi har bir o'quvchi uchun kundalik ja
 
 С праздником Победы! Учителя — тоже герои, каждый день побеждающие невежество ради наших детей. 🇺🇿
 
-👉 TezTekshir bilан bu yilgi o'quvchilaringizning yutuqlari bilan g'ururlanin!
+👉 Bahola bilан bu yilgi o'quvchilaringizning yutuqlari bilan g'ururlanin!

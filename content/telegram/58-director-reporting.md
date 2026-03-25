@@ -8,7 +8,7 @@ campaign: q1-close
 
 📋 Maktab rahbari endi har bir sinf natijalarini ko'rishi mumkin.
 
-TezTekshir Director Dashboard orqali maktab rahbarlari quyidagilarni ko'radi:
+Bahola Director Dashboard orqali maktab rahbarlari quyidagilarni ko'radi:
 
 - Har bir sinf bo'yicha o'rtacha ball
 - Topshirilgan ishlar soni
@@ -22,7 +22,7 @@ Rahbaringiz hali bu haqda bilmaydilarmi?
 
 👇 Ushbu postni maktab rahbaringizga yuboring.
 
-#TezTekshir #MaktabRahbari #DirectorDashboard #Maktab
+#Bahola #MaktabRahbari #DirectorDashboard #Maktab
 
 ---
 

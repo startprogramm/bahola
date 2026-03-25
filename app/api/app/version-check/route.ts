@@ -10,12 +10,12 @@ const APP_CONFIG = {
   android: {
     minVersion: "1.0.0",       // Minimum supported version (force update below this)
     latestVersion: "1.0.0",    // Latest available version
-    updateUrl: "https://play.google.com/store/apps/details?id=uz.teztekshir.app",
+    updateUrl: "https://play.google.com/store/apps/details?id=uz.bahola.app",
   },
   ios: {
     minVersion: "1.0.0",
     latestVersion: "1.0.0",
-    updateUrl: "https://apps.apple.com/app/teztekshir/id000000000",
+    updateUrl: "https://apps.apple.com/app/bahola/id000000000",
   },
 };
 

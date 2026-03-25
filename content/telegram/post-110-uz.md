@@ -1,7 +1,7 @@
 ---
 id: post-110
 lang: uz
-title: "eMaktabda vaqtida baho qo'ymadingizmi? TezTekshir yordam beradi"
+title: "eMaktabda vaqtida baho qo'ymadingizmi? Bahola yordam beradi"
 theme: eMaktab deadline compliance
 week: 37
 campaign: Director Perspective
@@ -16,7 +16,7 @@ Ko'p o'qituvchilar bu muammoni yaxshi biladi:
 — Qo'lda tekshirish soatlab davom etadi
 — Kech qolish — maosh kamayishi
 
-**TezTekshir bilan bu muammo yo'q:**
+**Bahola bilan bu muammo yo'q:**
 
 📸 O'quvchi ishi rasmini yuklaysiz
 🤖 Sun'iy intellekt matnni tanib, bahoni qo'yadi
@@ -24,4 +24,4 @@ Ko'p o'qituvchilar bu muammoni yaxshi biladi:
 
 Soat 21:00 muhlati endi stressga sabab bo'lmaydi.
 
-👉 Bugun bepul sinab ko'ring: teztekshir.uz
+👉 Bugun bepul sinab ko'ring: bahola.uz

@@ -11,7 +11,7 @@
 
 Bayram tugadi, o'quvchilar yangi kuch bilan qaytdi. Siz-chi?
 
-Birinchi bayramdan keyingi testni baholash uchun 20 daqiqa yetarli — TezTekshir bilan. Rasmlarni yuklang, AI qolganini qiladi.
+Birinchi bayramdan keyingi testni baholash uchun 20 daqiqa yetarli — Bahola bilan. Rasmlarni yuklang, AI qolganini qiladi.
 
 Yangi haftaga kuchli boshlang! 💪
 
@@ -21,7 +21,7 @@ Yangi haftaga kuchli boshlang! 💪
 
 Они вернулись с новыми силами. Самое время провести первую проверочную работу.
 
-С TezTekshir вы проверите целый класс за 20 минут. Загружайте фотографии — ИИ сделает остальное.
+С Bahola вы проверите целый класс за 20 минут. Загружайте фотографии — ИИ сделает остальное.
 
 Начните новую неделю уверенно! 💪
 

@@ -20,8 +20,8 @@ Semester oxirida berilgan so'z uzoq vaqt esda qoladi. Qanday yozish kerak?
 - 🔭 Kelajakka yo'naltiring: *"Keyingi yil ushbu ko'nikmani yanada chuqurlashtira olasiz"*
 - ❌ Faqat xatolarni sanashdan saqlaning
 
-TezTekshir har bir o'quvchiga alohida, batafsil fikr-mulohaza tayyorlaydi — siz shablonni belgilaysiz, AI qolganini qiladi.
+Bahola har bir o'quvchiga alohida, batafsil fikr-mulohaza tayyorlaydi — siz shablonni belgilaysiz, AI qolganini qiladi.
 
 Sinfdagi har bir o'quvchi yilni rag'batlantirilgan holda yakunlasin 🌟
 
-👉 teztekshir.uz
+👉 bahola.uz

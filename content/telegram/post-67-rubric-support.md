@@ -8,7 +8,7 @@ campaign: feature-deep-dive
 
 📋 O'zingizning baholash mezonlarini belgilang — AI shu mezonlar bo'yicha baholaydi.
 
-TezTekshir faqat umumiy AI emas. U SIZNING qoidalaringizga muvofiq ishlaydi.
+Bahola faqat umumiy AI emas. U SIZNING qoidalaringizga muvofiq ishlaydi.
 
 **3 qadam:**
 
@@ -27,11 +27,11 @@ Matematikami? Fanmi? O'zbek tilimi? Har bir fan uchun alohida rubrika.
 
 🔗 teztek.uz
 
-#TezTekshir #Rubrika #AIGrading #OqituvchiUchun #PresidentSchool #UzbekTaʼlim #BaholashMezoni
+#Bahola #Rubrika #AIGrading #OqituvchiUchun #PresidentSchool #UzbekTaʼlim #BaholashMezoni
 
 ---
 
-**Visual suggestion:** 3-step flow graphic. Step icons: pencil (create) → link (assign) → checkmark (AI applies). Clean numbered layout with TezTekshir brand colors.
+**Visual suggestion:** 3-step flow graphic. Step icons: pencil (create) → link (assign) → checkmark (AI applies). Clean numbered layout with Bahola brand colors.
 
 ---
 
@@ -39,7 +39,7 @@ Matematikami? Fanmi? O'zbek tilimi? Har bir fan uchun alohida rubrika.
 
 📋 Задайте свои критерии оценивания — ИИ будет работать по ним.
 
-TezTekshir — это не просто общий ИИ. Он работает ПО ВАШИМ правилам.
+Bahola — это не просто общий ИИ. Он работает ПО ВАШИМ правилам.
 
 **3 шага:**
 
@@ -58,4 +58,4 @@ TezTekshir — это не просто общий ИИ. Он работает �
 
 🔗 teztek.uz
 
-#TezTekshir #Рубрика #AIGrading #ДляУчителей #PresidentSchool #КритерииОценивания
+#Bahola #Рубрика #AIGrading #ДляУчителей #PresidentSchool #КритерииОценивания

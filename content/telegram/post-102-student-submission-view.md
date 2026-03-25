@@ -27,9 +27,9 @@ Aziz natijani ochdi. Ball bor. Izoh bor. Hech qanday muammo yo'q.
 
 O'qituvchi uchun bu oddiy tuyulishi mumkin — lekin o'quvchi uchun bu katta farq. Darhol javob, darhol fikr-mulohaza. Ertaga emas, hozir.
 
-TezTekshir bilan o'quvchilaringiz yuborgan ishlarni **darhol** baholash mumkin 🚀
+Bahola bilan o'quvchilaringiz yuborgan ishlarni **darhol** baholash mumkin 🚀
 
-#TezTekshir #OquvchiUchun #TezBaholash
+#Bahola #OquvchiUchun #TezBaholash
 
 ---
 

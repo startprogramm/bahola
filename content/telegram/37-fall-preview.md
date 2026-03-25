@@ -6,7 +6,7 @@ week: 12
 status: draft
 ---
 
-👀 Kuzda TezTekshir'da yangi narsa keladi.
+👀 Kuzda Bahola'da yangi narsa keladi.
 
 Hozircha sir. Lekin siz birinchilar orasida bilishingiz uchun — obuna bo'lib qoling.
 
@@ -16,7 +16,7 @@ Tayyor bo'ling. 🍂
 
 —
 
-👀 Осенью в TezTekshir появится кое-что новое.
+👀 Осенью в Bahola появится кое-что новое.
 
 Пока — тайна. Но если вы здесь — значит, узнаете первыми.
 
@@ -25,4 +25,4 @@ Tayyor bo'ling. 🍂
 Оставайтесь с нами. 🍂
 
 —
-🔗 app.teztekshir.uz
+🔗 app.bahola.uz

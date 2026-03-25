@@ -8,13 +8,13 @@ date: 2026-03-27
 
 *"Avval har yakshanba kechqurun daftarlar tekshirishga o'tirardim. 2-3 soat. Oilam uxlab qolganida men hali ham qizil qalam bilan ishlab o'tirardim.*
 
-*Endi TezTekshir bor. O'quvchilar ish fotosuratini yuborishadi — men ertasi kunda tayyor natijalarni ko'raman. Izohlar batafsil, balllar aniq.*
+*Endi Bahola bor. O'quvchilar ish fotosuratini yuborishadi — men ertasi kunda tayyor natijalarni ko'raman. Izohlar batafsil, balllar aniq.*
 
 *Endi yakshanba kechalari oilam bilan o'tkazaman."*
 
 — Matematika o'qituvchisi, Prezident maktabi
 
-Siz ham vaqtingizni tejang 👉 teztekshir.uz
+Siz ham vaqtingizni tejang 👉 bahola.uz
 
 ---
 
@@ -22,10 +22,10 @@ Siz ham vaqtingizni tejang 👉 teztekshir.uz
 
 *«Раньше каждое воскресенье вечером я садилась проверять тетради. 2-3 часа. Семья уже спала, а я всё ещё сидела с красной ручкой.*
 
-*Теперь есть TezTekshir. Ученики отправляют фото работ — на следующий день я вижу готовые результаты. Комментарии подробные, оценки точные.*
+*Теперь есть Bahola. Ученики отправляют фото работ — на следующий день я вижу готовые результаты. Комментарии подробные, оценки точные.*
 
 *Теперь воскресные вечера я провожу с семьёй.»*
 
 — Учитель математики, Президентская школа
 
-Сэкономьте своё время 👉 teztekshir.uz
+Сэкономьте своё время 👉 bahola.uz

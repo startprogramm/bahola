@@ -1,17 +1,17 @@
 # Post 117 — Telegram (Uzbek)
 **Campaign:** Week 40 — Platform Integrations: eMaktab Connection Deep Dive
 **Language:** Uzbek
-**Theme:** eMaktab integratsiyasi — TezTekshir milliy tizim bilan qanday sinxronlashadi
+**Theme:** eMaktab integratsiyasi — Bahola milliy tizim bilan qanday sinxronlashadi
 
 ---
 
-🔗 **TezTekshir + eMaktab: bir marta bosing, ish tayyor**
+🔗 **Bahola + eMaktab: bir marta bosing, ish tayyor**
 
-Ko'pchilik o'qituvchilar bir xil baholarni ikki tizimga kiritadi — TezTekshir'ga va eMaktab'ga. Bu ikki marta sarflangan vaqt.
+Ko'pchilik o'qituvchilar bir xil baholarni ikki tizimga kiritadi — Bahola'ga va eMaktab'ga. Bu ikki marta sarflangan vaqt.
 
 Endi bunday qilmang.
 
-✅ TezTekshir'da baholash tugagandan so'ng, "eMaktab'ga yuborish" tugmasini bosing
+✅ Bahola'da baholash tugagandan so'ng, "eMaktab'ga yuborish" tugmasini bosing
 ✅ Baholar avtomatik ravishda sinxronlanadi — qo'lda hech narsa kiritilmaydi
 ✅ Vaqt tamg'asi ham avtomatik — soat 21:00 muddatini hech qachon o'tkazib yubormaysiz
 
@@ -19,7 +19,7 @@ Endi bunday qilmang.
 
 💡 Birinchi marta sinxronlashdan oldin sozlamalarni tekshiring: maktab identifikatori to'g'ri bog'langan bo'lishi kerak. Muammo bo'lsa — qo'llab-quvvatlash bo'limiga murojaat qiling.
 
-📲 TezTekshir — bir tizim, ikki vazifa.
+📲 Bahola — bir tizim, ikki vazifa.
 
-#TezTekshir #eMaktab #Integratsiya #VaqtniTejash
+#Bahola #eMaktab #Integratsiya #VaqtniTejash
 

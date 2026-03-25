@@ -6,7 +6,7 @@ campaign: onboarding-easy-start
 
 ## 🇺🇿 Uzbek
 
-📱 TezTekshir bilan baholash — 2 daqiqa ichida.
+📱 Bahola bilan baholash — 2 daqiqa ichida.
 
 Ko'p o'qituvchilar birinchi marta eshitganda: "Bu qanday ishlaydi?" deb so'rashadi.
 
@@ -14,7 +14,7 @@ Javob juda oddiy:
 
 1️⃣ Smartfoningizni oling
 2️⃣ O'quvchi ishini suratga oling
-3️⃣ TezTekshirga yuklang
+3️⃣ Baholaga yuklang
 4️⃣ AI baholab, fikr-mulohaza yozib beradi
 
 Hammasi shu. Hech qanday maxsus qurilma kerak emas. Hech qanday dastur o'rnatish shart emas. Faqat telefon va internet.
@@ -25,7 +25,7 @@ Birinchi natijani 2 daqiqa ichida ko'rasiz.
 
 🔗 Sinab ko'ring — bio'dagi havoladan.
 
-#TezTekshir #AIGrading #OqituvchiUchun #OsonBoshlang #SmartfondanGrading #PresidentSchool #UzbekTaʼlim
+#Bahola #AIGrading #OqituvchiUchun #OsonBoshlang #SmartfondanGrading #PresidentSchool #UzbekTaʼlim
 
 ---
 
@@ -35,7 +35,7 @@ Birinchi natijani 2 daqiqa ichida ko'rasiz.
 
 ## 🇷🇺 Russian
 
-📱 Проверить работу с TezTekshir — за 2 минуты.
+📱 Проверить работу с Bahola — за 2 минуты.
 
 Многие учителя, слыша о нас впервые, спрашивают: «Как это работает?»
 
@@ -43,7 +43,7 @@ Birinchi natijani 2 daqiqa ichida ko'rasiz.
 
 1️⃣ Возьмите смартфон
 2️⃣ Сфотографируйте работу ученика
-3️⃣ Загрузите в TezTekshir
+3️⃣ Загрузите в Bahola
 4️⃣ ИИ проверит и напишет отзыв
 
 Вот и всё. Не нужно специального оборудования. Не нужно устанавливать программы. Только телефон и интернет.
@@ -54,4 +54,4 @@ Birinchi natijani 2 daqiqa ichida ko'rasiz.
 
 🔗 Попробуйте сами — ссылка в Bio.
 
-#TezTekshir #AIGrading #ДляУчителей #ЛёгкийСтарт #ПроверкаСТелефона #PresidentSchool
+#Bahola #AIGrading #ДляУчителей #ЛёгкийСтарт #ПроверкаСТелефона #PresidentSchool

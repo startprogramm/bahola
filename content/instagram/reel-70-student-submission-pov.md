@@ -11,7 +11,7 @@ duration: 45s
 # Reel 70 — Student Submission POV (45 Seconds)
 
 ## Concept
-First-person POV from a student's perspective: student photographs their completed assignment, uploads it to TezTekshir, and watches the processing. Clean, relatable, satisfying. Shows teachers exactly what their students experience.
+First-person POV from a student's perspective: student photographs their completed assignment, uploads it to Bahola, and watches the processing. Clean, relatable, satisfying. Shows teachers exactly what their students experience.
 
 ## Hook (0–3s)
 Text on screen: **"O'quvchi ko'zi bilan ko'ring"**
@@ -23,7 +23,7 @@ Phone camera aimed at a handwritten assignment on a desk.
 - Overhead shot: neatly completed written assignment on a school desk
 - Student hand picks up phone
 - Overlay: "👩‍🎓 O'quvchi: 'Ish tayyor!'"
-- Quick cut to: TezTekshir app open, assignment visible in class stream
+- Quick cut to: Bahola app open, assignment visible in class stream
 
 **[10–22s] — Yuborish**
 - Student taps "Ish yuborish" (Submit Work)
@@ -48,7 +48,7 @@ Phone camera aimed at a handwritten assignment on a desk.
 
 **[42–45s] — End card**
 - Text: **"Bu — sizning o'quvchilaringiz tajribasi"**
-- TezTekshir logo + "teztekshir.uz"
+- Bahola logo + "bahola.uz"
 
 ## Caption
 ```
@@ -58,9 +58,9 @@ O'quvchingiz topshiriq yuborganda nima ko'radi? 👀
 
 Faqat ball emas — aniq AI izohlari ham. Darhol.
 
-TezTekshir bilan boshlang 👆 bio'dagi havola
+Bahola bilan boshlang 👆 bio'dagi havola
 
-#TezTekshir #OquvchiTajribasi #AIBaholash #UzbekistanTeachers #DigitalSchool
+#Bahola #OquvchiTajribasi #AIBaholash #UzbekistanTeachers #DigitalSchool
 ```
 
 ## Production Notes
@@ -69,4 +69,4 @@ TezTekshir bilan boshlang 👆 bio'dagi havola
 - Assignment on desk should look like real student work (neat handwriting, school notebook)
 - Status flip animation: smooth card flip or slide transition
 - Music: calm lo-fi, transitions to slightly more energetic when result appears
-- End card: TezTekshir logo + "teztekshir.uz" + CTA "Bio'dagi havola"
+- End card: Bahola logo + "bahola.uz" + CTA "Bio'dagi havola"

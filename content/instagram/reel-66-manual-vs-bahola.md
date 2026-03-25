@@ -1,4 +1,4 @@
-# Reel 66 — Manual Grading vs TezTekshir (Side-by-Side Time Comparison)
+# Reel 66 — Manual Grading vs Bahola (Side-by-Side Time Comparison)
 
 **Campaign:** Week 33 — Teacher Success Stories & Testimonials (Jan 18-22, 2027)
 **Duration:** 45-55 seconds
@@ -22,52 +22,52 @@ Split screen: LEFT — teacher hunched over papers at 10 PM, pen in hand, stack 
 | 4-8s | LEFT side: Stack of 30 papers shown. Timer starts: 00:00 | "❌ An'anaviy usul" | "30 ta ish. Qo'lda tekshirish..." |
 | 9-14s | LEFT: Fast-forward animation — teacher writing notes, flipping pages. Timer: 02:30 | "2+ soat..." | "Har bir ish: o'qish, baholash, izoh yozish" |
 | 15-18s | LEFT: Teacher finally finishes, clock shows 22:15 at night | "Yarim tun. Charchagan." | "...va ertasi sinfga borish kerak" |
-| 19-23s | RIGHT side: Same stack of 30 papers. Teacher takes photo with phone. Timer starts: 00:00 | "✅ TezTekshir bilan" | "Xuddi shu 30 ta ish..." |
-| 24-30s | RIGHT: Photos uploading to TezTekshir UI — progress bar. Timer: 00:45 | "Yuklanmoqda..." | "...fotosuratlarga tushiring va yuboring" |
-| 31-36s | RIGHT: AI grading animation — scores and feedback appearing for each submission. Timer: 02:15 | "ИИ baholayapti" | "TezTekshir har birini tekshirib, izoh yozdi" |
+| 19-23s | RIGHT side: Same stack of 30 papers. Teacher takes photo with phone. Timer starts: 00:00 | "✅ Bahola bilan" | "Xuddi shu 30 ta ish..." |
+| 24-30s | RIGHT: Photos uploading to Bahola UI — progress bar. Timer: 00:45 | "Yuklanmoqda..." | "...fotosuratlarga tushiring va yuboring" |
+| 31-36s | RIGHT: AI grading animation — scores and feedback appearing for each submission. Timer: 02:15 | "ИИ baholayapti" | "Bahola har birini tekshirib, izoh yozdi" |
 | 37-42s | RIGHT: Teacher reviews results screen — all 30 graded. Timer: 14:22 total | "14 daqiqa!" | "30 ta ish — 14 daqiqada tayyor" |
 | 43-47s | Side-by-side comparison: "2 soat 30 daqiqa" vs "14 daqiqa". WINNER badge on RIGHT. | "90% vaqt tejash" | "Siz nima qilasiz bu vaqt bilan?" |
-| 48-52s | Teacher on RIGHT side shown relaxing, then preparing next lesson | "Muhim narsalarga e'tibor bering" | "TezTekshir bilan o'qitish — ish emas, quvonch" |
-| 53-57s | TezTekshir UI: Upload → Grade → Done flow (3 quick cuts) | "Bugun sinab ko'ring" | — |
-| 58-60s | End card: TezTekshir logo + "teztekshir.uz" | "Bepul. Hoziroq." | — |
+| 48-52s | Teacher on RIGHT side shown relaxing, then preparing next lesson | "Muhim narsalarga e'tibor bering" | "Bahola bilan o'qitish — ish emas, quvonch" |
+| 53-57s | Bahola UI: Upload → Grade → Done flow (3 quick cuts) | "Bugun sinab ko'ring" | — |
+| 58-60s | End card: Bahola logo + "bahola.uz" | "Bepul. Hoziroq." | — |
 
 ---
 
 ## Caption (Uzbek)
 
-30 ta ish. Qo'lda tekshirish — 2,5 soat. TezTekshir bilan — 14 daqiqa. ⏱️
+30 ta ish. Qo'lda tekshirish — 2,5 soat. Bahola bilan — 14 daqiqa. ⏱️
 
 Bu sehrgarlik emas. Bu sun'iy intellekt.
 
 📸 Ishlarni suratga tushurasiz
-🤖 TezTekshir baholaydi va izoh yozadi
+🤖 Bahola baholaydi va izoh yozadi
 ✅ Siz faqat natijalarni ko'rasiz
 
 Ko'p o'qituvchilar har haftada 3-5 soat tejayapti. Bu vaqtni darsga tayyorgarlikka yoki o'zingizga sarflang.
 
-📲 teztekshir.uz — bepul sinab ko'ring
+📲 bahola.uz — bepul sinab ko'ring
 
 ---
 
 ## Caption (Russian)
 
-30 работ. Проверка вручную — 2,5 часа. С TezTekshir — 14 минут. ⏱️
+30 работ. Проверка вручную — 2,5 часа. С Bahola — 14 минут. ⏱️
 
 Это не магия. Это искусственный интеллект.
 
 📸 Фотографируете работы
-🤖 TezTekshir проверяет и добавляет комментарии
+🤖 Bahola проверяет и добавляет комментарии
 ✅ Вы только смотрите на результаты
 
 Многие учителя экономят 3-5 часов в неделю. Используйте это время на подготовку к урокам или просто на отдых.
 
-📲 teztekshir.uz — попробуйте бесплатно
+📲 bahola.uz — попробуйте бесплатно
 
 ---
 
 ## Hashtags
 
-#TezTekshir #OʻqituvchilarUchun #VaqtTejamoq #AIBaholash #PresidentSchools #Uzbekistan #EdTech #TeacherLife #SmartGrading #UzbekEducation #BeforeAfter #TeacherTools #ClassroomTech #GradingSmarter
+#Bahola #OʻqituvchilarUchun #VaqtTejamoq #AIBaholash #PresidentSchools #Uzbekistan #EdTech #TeacherLife #SmartGrading #UzbekEducation #BeforeAfter #TeacherTools #ClassroomTech #GradingSmarter
 
 ---
 

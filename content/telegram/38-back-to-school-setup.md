@@ -6,7 +6,7 @@ campaign: back-to-school
 
 ## 🇺🇿 Uzbek
 
-📚 Yangi o'quv yili boshlanmoqda — TezTekshirni tayyorlash vaqti!
+📚 Yangi o'quv yili boshlanmoqda — Baholani tayyorlash vaqti!
 
 Maktab eshiklari ochilishidan oldin bir necha daqiqa ajrating va platformangizni yangi yilga sozlang:
 
@@ -19,13 +19,13 @@ Bularni hoziroq qilsangiz — sentyabr oyida vaqtingiz ancha bo'shaydi.
 
 👉 Maktab boshlanishidan oldin boshlang — bu bepul!
 
-#TezTekshir #YangiOquvYili #MaktabgaTayyor
+#Bahola #YangiOquvYili #MaktabgaTayyor
 
 ---
 
 ## 🇷🇺 Russian
 
-📚 Новый учебный год на пороге — самое время настроить TezTekshir!
+📚 Новый учебный год на пороге — самое время настроить Bahola!
 
 Потратьте несколько минут до начала занятий и подготовьте платформу к новому году:
 
@@ -38,4 +38,4 @@ Bularni hoziroq qilsangiz — sentyabr oyida vaqtingiz ancha bo'shaydi.
 
 👉 Начните до начала школы — это бесплатно!
 
-#TezTekshir #НовыйУчебныйГод #ГотовыКШколе
+#Bahola #НовыйУчебныйГод #ГотовыКШколе

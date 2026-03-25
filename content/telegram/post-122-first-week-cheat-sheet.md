@@ -6,7 +6,7 @@ language: uz
 date: 2027-03-17
 ---
 
-✅ **TezTekshir'da birinchi hafta: 3 ta muhim qadam**
+✅ **Bahola'da birinchi hafta: 3 ta muhim qadam**
 
 Yangi boshlaganlar uchun eng oddiy yo'riq 👇
 
@@ -21,9 +21,9 @@ Sinfga kiring → "Yangi topshiriq" → baholash sxemasini qo'shing (matn yoki f
 
 ---
 
-Shundan keyin TezTekshir o'zi ishlaydi:
+Shundan keyin Bahola o'zi ishlaydi:
 📸 O'quvchi ish yuboradi → 🤖 AI baholaydi → 📊 Siz natijani ko'rasiz.
 
 Birinchi haftani muvaffaqiyatli o'tkazing! 🎉
 
-#TezTekshir #YangiOʻqituvchi #BirinchiQadam
+#Bahola #YangiOʻqituvchi #BirinchiQadam

@@ -14,13 +14,13 @@ Ikkinchi chorakda — bu bilimni yanada ko'proq ishlatish imkoni bor.
 
 Yangi testlar. Yangi tushunchalar. Yangi imkoniyatlar.
 
-TezTekshir bilan — tayyor bo'ling.
+Bahola bilan — tayyor bo'ling.
 
 ---
 
 🔔 Ikkinchi chorak yangiliklari uchun kuzatib boring. Ko'p narsalar kutmoqda!
 
-#TezTekshir #IkkinchiChorak #OqituvchiUchun #Yangiliklar
+#Bahola #IkkinchiChorak #OqituvchiUchun #Yangiliklar
 
 ---
 

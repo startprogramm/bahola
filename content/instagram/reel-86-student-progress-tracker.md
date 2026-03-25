@@ -11,13 +11,13 @@ duration: 45s
 # Reel 86 — "Who Is Falling Behind? You'll Know Before It's Too Late"
 
 ## Concept
-A teacher's moment of realization: instead of discovering a student is struggling at exam time, they catch it week 3. The reel shows the TezTekshir analytics dashboard in action — scrolling through student scores, spotting the pattern, acting on it. The emotional hook is relief: "I caught this early." Target: teachers at Presidential Schools who grade regularly but don't track trends across time.
+A teacher's moment of realization: instead of discovering a student is struggling at exam time, they catch it week 3. The reel shows the Bahola analytics dashboard in action — scrolling through student scores, spotting the pattern, acting on it. The emotional hook is relief: "I caught this early." Target: teachers at Presidential Schools who grade regularly but don't track trends across time.
 
 ## Hook (0–5s)
 Teacher at desk, looking at a paper grade book, flipping pages. Expression: slightly stressed.
 Bold overlay (UZ): **"Kim orqada qolayotganini bilasizmi?"**
 Overlay (RU): **"Вы знаете, кто отстаёт?"**
-Cut to phone — TezTekshir analytics view opens instantly.
+Cut to phone — Bahola analytics view opens instantly.
 
 ## Scene Breakdown
 
@@ -31,9 +31,9 @@ Cut to phone — TezTekshir analytics view opens instantly.
 Overlay (UZ): "Ko'p o'qituvchilar imtihon oldidan bilib olishadi."
 Overlay (RU): "Большинство учителей узнают об этом перед экзаменом."
 
-**[6–18s] — TezTekshirda haqiqiy surat / Реальная картина в TezTekshir**
+**[6–18s] — Baholada haqiqiy surat / Реальная картина в Bahola**
 
-- Teacher opens TezTekshir on phone → taps "Sinf analitikasi"
+- Teacher opens Bahola on phone → taps "Sinf analitikasi"
 - Student list appears with color-coded performance bars
   - Green: consistently scoring 85+
   - Yellow: variable — some highs, some lows
@@ -41,8 +41,8 @@ Overlay (RU): "Большинство учителей узнают об это�
 - Teacher taps the red-flagged student's name
 - Popup shows: "3 ta ketma-ket past natija. Mavzu: kasrlar."
 
-Overlay (UZ): "TezTekshir past natijalarni avtomatik belgilaydi."
-Overlay (RU): "TezTekshir автоматически помечает слабые результаты."
+Overlay (UZ): "Bahola past natijalarni avtomatik belgilaydi."
+Overlay (RU): "Bahola автоматически помечает слабые результаты."
 
 **[18–30s] — Erta bilish = erta yordam / Раннее знание = ранняя помощь**
 
@@ -73,7 +73,7 @@ Bold overlay (RU): **"Узнал вовремя — помог вовремя."*
 **[40–45s] — End card**
 - Bold (UZ): **"Bugun sinfingiz analitikasini oching."**
 - Bold (RU): **"Откройте аналитику своего класса сегодня."**
-- TezTekshir logo + "teztekshir.uz"
+- Bahola logo + "bahola.uz"
 
 ## Caption
 
@@ -81,7 +81,7 @@ Bold overlay (RU): **"Узнал вовремя — помог вовремя."*
 Qaysi o'quvchi orqada qolayotganini bilasizmi? 📊
 
 Ko'p o'qituvchilar buni faqat imtihon oldidan bilib olishadi.
-TezTekshir bilan — siz 3-haftada ko'rasiz.
+Bahola bilan — siz 3-haftada ko'rasiz.
 
 Nima ko'rasiz:
 ✅ Har bir o'quvchining ballar dinamikasi
@@ -91,14 +91,14 @@ Nima ko'rasiz:
 
 Erta bilish = erta yordam. Imtihongacha vaqt bor.
 
-👉 teztekshir.uz — bepul boshlang
+👉 bahola.uz — bepul boshlang
 
 ---
 
 Вы знаете, кто из учеников отстаёт? 📊
 
 Большинство учителей узнают об этом перед экзаменом.
-С TezTekshir — вы видите это на 3-й неделе.
+С Bahola — вы видите это на 3-й неделе.
 
 Что вы увидите:
 ✅ Динамика оценок каждого ученика
@@ -108,9 +108,9 @@ Erta bilish = erta yordam. Imtihongacha vaqt bor.
 
 Знать раньше = помочь раньше. До экзамена ещё есть время.
 
-👉 teztekshir.uz — начните бесплатно
+👉 bahola.uz — начните бесплатно
 
-#TezTekshir #O'quvchiAnalitikasi #StudentProgress #AIGrading #PresidentialSchool #TeacherTips #ОтслеживаниеУспеваемости #ЭффективностьУчителя
+#Bahola #O'quvchiAnalitikasi #StudentProgress #AIGrading #PresidentialSchool #TeacherTips #ОтслеживаниеУспеваемости #ЭффективностьУчителя
 ```
 
 ## Production Notes

@@ -9,7 +9,7 @@ languages: [uz]
 
 ## Uzbek
 
-🎉 **2027 yilda TezTekshir yangilanishlar keladi!**
+🎉 **2027 yilda Bahola yangilanishlar keladi!**
 
 Yangi yil — yangi imkoniyatlar. Biz nima tayyorlamoqdamiz:
 
@@ -21,4 +21,4 @@ Yangi yil — yangi imkoniyatlar. Biz nima tayyorlamoqdamiz:
 
 Kanalga obuna bo'ling va birinchilar orasida biling 👆
 
-👉 teztekshir.uz
+👉 bahola.uz

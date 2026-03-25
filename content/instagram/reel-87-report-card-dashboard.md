@@ -17,7 +17,7 @@ Fast, satisfying screen-capture demo. A teacher closes out a quarter and generat
 Text appears word by word, punchy:
 Bold (UZ): **"Chorak tugadi. Tabellarga 3 kun ketadimi?"**
 Bold (RU): **"Четверть закончилась. Три дня на табели?"**
-Cut hard to: TezTekshir dashboard. Timer starts in corner: 00:00.
+Cut hard to: Bahola dashboard. Timer starts in corner: 00:00.
 
 ## Scene Breakdown
 
@@ -30,7 +30,7 @@ Cut hard to: TezTekshir dashboard. Timer starts in corner: 00:00.
 
 **[4–14s] — Dashboard navigatsiyasi / Навигация по дашборду**
 
-- Teacher opens TezTekshir → navigates to "Chorak hisoboti / Отчёт за четверть"
+- Teacher opens Bahola → navigates to "Chorak hisoboti / Отчёт за четверть"
 - Screen shows: class dropdown → select class → select quarter
 - Student list populates automatically — all names, all scores, color-coded
 - Timer corner: 00:12
@@ -67,14 +67,14 @@ Overlay (RU): "Одним нажатием — директору."
 - Timer stops: 00:29
 - Bold (UZ): **"3 kun → 29 soniya."**
 - Bold (RU): **"3 дня → 29 секунд."**
-- TezTekshir logo + "teztekshir.uz"
+- Bahola logo + "bahola.uz"
 
 ## Caption
 
 ```
 Chorak oxiri — va siz hali tabellar bilan kurashasizmi? 📋
 
-TezTekshir bilan chorak hisoboti 29 soniyada tayyor.
+Bahola bilan chorak hisoboti 29 soniyada tayyor.
 
 Nima avtomatik bo'ladi:
 ✅ Har bir o'quvchining barcha baholari to'plangan
@@ -85,13 +85,13 @@ Nima avtomatik bo'ladi:
 Endi Excel kerak emas. Qo'l bilan hisoblash kerak emas.
 Faqat aniq ma'lumotlar — to'g'ri vaqtda.
 
-👉 teztekshir.uz — bepul boshlang
+👉 bahola.uz — bepul boshlang
 
 ---
 
 Конец четверти — и вы всё ещё воюете с табелями? 📋
 
-С TezTekshir табель готов за 29 секунд.
+С Bahola табель готов за 29 секунд.
 
 Что делается автоматически:
 ✅ Все оценки каждого ученика собраны в одном месте
@@ -102,9 +102,9 @@ Faqat aniq ma'lumotlar — to'g'ri vaqtda.
 Больше никакого Excel. Никакого ручного подсчёта.
 Только чёткие данные — в нужный момент.
 
-👉 teztekshir.uz — начните бесплатно
+👉 bahola.uz — начните бесплатно
 
-#TezTekshir #ReportCard #Tabel #ChorakHisoboti #AIGrading #PresidentialSchool #TeacherEfficiency #DirectorDashboard #ОтчётЗаЧетверть #ЭффективностьУчителя
+#Bahola #ReportCard #Tabel #ChorakHisoboti #AIGrading #PresidentialSchool #TeacherEfficiency #DirectorDashboard #ОтчётЗаЧетверть #ЭффективностьУчителя
 ```
 
 ## Production Notes

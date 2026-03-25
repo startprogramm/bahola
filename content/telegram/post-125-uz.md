@@ -36,4 +36,4 @@ Bu — qaysi ball qanday baho berishi. Masalan: 90–100 = "A'lo", 70–89 = "Ya
 
 💬 Sizda qanday chegarmalar o'rnatilgan? Pastda ulashing 👇
 
-#TezTekshir #BaholashShablon #OʻqituvchiMaslahati #AIBaholash
+#Bahola #BaholashShablon #OʻqituvchiMaslahati #AIBaholash

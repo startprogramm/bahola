@@ -1,7 +1,7 @@
 ---
-title: "Getting Started with TezTekshir: Your First AI-Graded Class in 10 Minutes"
+title: "Getting Started with Bahola: Your First AI-Graded Class in 10 Minutes"
 date: "2026-03-17"
-author: "TezTekshir Team"
+author: "Bahola Team"
 language: "en"
 slug: "getting-started-guide"
 excerpt: "A step-by-step guide for new teachers: create your account, set up a class, create your first test, and get your first AI-graded results — all in under 10 minutes."
@@ -15,24 +15,24 @@ This guide takes you from zero to your first AI-graded results. It takes about 1
 
 ## Step 1: Create Your Account
 
-Go to [teztekshir.uz](https://teztekshir.uz) and click **Get started free**. You need your name, email, and a password. Pick **Teacher** as your role.
+Go to [bahola.uz](https://bahola.uz) and click **Get started free**. You need your name, email, and a password. Pick **Teacher** as your role.
 
-![TezTekshir sign-in page — takes 30 seconds to register](/blog/app-login.jpg)
+![Bahola sign-in page — takes 30 seconds to register](/blog/app-login.jpg)
 
-If your school is already on TezTekshir, check your email. Your director may have sent an invite link — use that instead.
+If your school is already on Bahola, check your email. Your director may have sent an invite link — use that instead.
 
 ## Step 2: Create Your First Class
 
 After signing in, you'll see your dashboard. Click the **+** button at the top right.
 
-![Creating a new class in TezTekshir](/blog/app-create-class.jpg)
+![Creating a new class in Bahola](/blog/app-create-class.jpg)
 
-Type your class name (like "10A English" or "9B Mathematics") and click **Create Class**. TezTekshir gives you a **join code** — your students use this to join your class.
+Type your class name (like "10A English" or "9B Mathematics") and click **Create Class**. Bahola gives you a **join code** — your students use this to join your class.
 
 ## Step 3: Invite Your Students
 
 Share the join code with your students. They need to:
-1. Create a student account at teztekshir.uz
+1. Create a student account at bahola.uz
 2. Click **Join Class** and type in the code
 
 Once they join, they show up in your **Members** tab.
@@ -59,7 +59,7 @@ Click **Create Assessment**. The answer key is ready right away.
 
 When students finish the test:
 1. They photograph their written answers (one page per photo, good lighting)
-2. Open the test in TezTekshir
+2. Open the test in Bahola
 3. Upload their photos and click **Submit**
 
 The system grades everything on its own. A class of 30 is done in 1–2 minutes.
@@ -83,7 +83,7 @@ Open the **Grades** tab in your class. You get a full table — every student, e
 - **Good photos = better accuracy.** One page per image, flat on a desk, steady lighting.
 - **Detailed answer keys work better.** Vague criteria give vague feedback.
 - **Match feedback language to your class.** Students learn better in their own language.
-- **You're always in charge.** Change any score, any time. TezTekshir suggests; you decide.
+- **You're always in charge.** Change any score, any time. Bahola suggests; you decide.
 
 ---
 

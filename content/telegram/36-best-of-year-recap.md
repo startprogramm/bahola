@@ -6,7 +6,7 @@ week: 12
 status: draft
 ---
 
-🎉 Bu o'quv yili yakunlandi. Va bu yil TezTekshir o'qituvchilari uchun katta yil bo'ldi.
+🎉 Bu o'quv yili yakunlandi. Va bu yil Bahola o'qituvchilari uchun katta yil bo'ldi.
 
 📊 **2025–2026 o'quv yili yakunlari:**
 
@@ -22,4 +22,4 @@ Agar hali sinab ko'rmagan bo'lsangiz — kuz semestri boshlanishiga qadar ro'yxa
 Yangi o'quv yilida yanada kuchliroq qaytamiz. 🚀
 
 —
-🔗 app.teztekshir.uz
+🔗 app.bahola.uz

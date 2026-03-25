@@ -10,7 +10,7 @@ campaign: back-to-school
 
 O'qituvchilik — bu shunchaki dars o'tish emas. Bu har bir o'quvchi bilan individual ishlash, ularga vaqt sarflash.
 
-Ammo baholar tekshirish ko'p vaqt oladi. TezTekshir shu muammoni hal qiladi:
+Ammo baholar tekshirish ko'p vaqt oladi. Bahola shu muammoni hal qiladi:
 
 ⏱ Bir ish vaqtini solishtirsak: avval 40 daqiqa, hozir 5 daqiqa
 💬 AI batafsil va aniq fikr-mulohazalar beradi
@@ -18,9 +18,9 @@ Ammo baholar tekshirish ko'p vaqt oladi. TezTekshir shu muammoni hal qiladi:
 
 Yangi yilda vaqtingizni o'qitishga sarflang — baholashga emas.
 
-👉 TezTekshirni bepul sinab ko'ring!
+👉 Baholani bepul sinab ko'ring!
 
-#TezTekshir #YangiYil #VaqtniTejaymiz
+#Bahola #YangiYil #VaqtniTejaymiz
 
 ---
 
@@ -30,7 +30,7 @@ Yangi yilda vaqtingizni o'qitishga sarflang — baholashga emas.
 
 Быть учителем — это не только проводить уроки. Это индивидуальная работа с каждым учеником, внимание и поддержка.
 
-Но проверка работ отнимает слишком много времени. TezTekshir решает эту проблему:
+Но проверка работ отнимает слишком много времени. Bahola решает эту проблему:
 
 ⏱ Сравнение: раньше 40 минут, теперь 5 минут
 💬 ИИ даёт подробную и точную обратную связь
@@ -38,6 +38,6 @@ Yangi yilda vaqtingizni o'qitishga sarflang — baholashga emas.
 
 В новом году тратьте время на преподавание — не на проверку работ.
 
-👉 Попробуйте TezTekshir бесплатно!
+👉 Попробуйте Bahola бесплатно!
 
-#TezTekshir #НовыйГод #ЭкономимВремя
+#Bahola #НовыйГод #ЭкономимВремя

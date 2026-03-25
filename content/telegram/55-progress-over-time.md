@@ -24,7 +24,7 @@ Bu tasodif emas. Bu muntazam, aniq fikr-mulohazaning kuchi.
 
 Sizning o'quvchilaringizning taraqqiyot hikoyasini bizing bilan ulashing 👇
 
-#TezTekshir #Taraqqiyot #OquvchiNatijasi
+#Bahola #Taraqqiyot #OquvchiNatijasi
 
 ---
 

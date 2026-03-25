@@ -2,7 +2,7 @@
 
 **Campaign:** Week 29 — Holiday / New Year (Dec 21-25, 2026)
 **Duration:** 15-20 seconds
-**Theme:** Warm seasonal greeting from TezTekshir to all teachers in Uzbekistan
+**Theme:** Warm seasonal greeting from Bahola to all teachers in Uzbekistan
 
 ---
 
@@ -23,8 +23,8 @@ Black screen. Single snowflake drifts down from top center.
 | 6-8s | Card unfolds: gold border, navy center | No text yet — anticipation |
 | 9-12s | Text writes itself on card: "Yangi Yil muborak! 🎉" | Handwriting animation |
 | 13-15s | Second line appears: "Sizning mehribonligingiz o'quvchilarga ilhom beradi" | Fade in |
-| 16-18s | TezTekshir logo appears below text, glows gently | Logo reveal |
-| 19-20s | Final frame: full holiday card + "teztekshir.uz" | Hold on end card |
+| 16-18s | Bahola logo appears below text, glows gently | Logo reveal |
+| 19-20s | Final frame: full holiday card + "bahola.uz" | Hold on end card |
 
 ---
 
@@ -36,13 +36,13 @@ Sizning har bir saboqingiz, har bir baholagan ishingiz — o'quvchilarga kelajak
 
 Bu yangi yilda ham yoningizda bo'lamiz.
 
-💙 TezTekshir jamoasi
+💙 Bahola jamoasi
 
 ---
 
 ## Hashtags
 
-#TezTekshir #YangiYilMuborak #OʻqituvchilarUchun #Uzbekistan #HappyNewYear2027 #EdTech #PresidentSchools #Holidays #UzbekEducation #❄️
+#Bahola #YangiYilMuborak #OʻqituvchilarUchun #Uzbekistan #HappyNewYear2027 #EdTech #PresidentSchools #Holidays #UzbekEducation #❄️
 
 ---
 

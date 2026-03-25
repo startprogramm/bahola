@@ -8,7 +8,7 @@
 
 ## Concept
 
-Screen-recording style reel showing a teacher creating a full custom rubric on TezTekshir in real time — compressed to 60 seconds. Fast cuts, every step visible. Empowering, not tutorial-heavy. The message: it's actually this simple. Tone: crisp, confident, satisfying. Like a "you can do this" moment.
+Screen-recording style reel showing a teacher creating a full custom rubric on Bahola in real time — compressed to 60 seconds. Fast cuts, every step visible. Empowering, not tutorial-heavy. The message: it's actually this simple. Tone: crisp, confident, satisfying. Like a "you can do this" moment.
 
 ---
 
@@ -25,12 +25,12 @@ Screen-recording style reel showing a teacher creating a full custom rubric on T
 | # | Timestamp | Shot | Visual | Text Overlay | Audio |
 |---|-----------|------|--------|--------------|-------|
 | 1 | 0:00–0:03 | Hook | Bold white text on dark teal bg. Countdown timer starts at corner. | "Baholash mezoni — 60 soniyada." | Countdown beep, then upbeat track drops |
-| 2 | 0:03–0:10 | Open assessment | Screen recording: teacher opens TezTekshir, taps "Yangi baholash" (New Assessment). Class name filled in. Assessment title typed fast. | "Baholash nomi → Sinf → Mezon" | Click sounds, fast-paced typing |
+| 2 | 0:03–0:10 | Open assessment | Screen recording: teacher opens Bahola, taps "Yangi baholash" (New Assessment). Class name filled in. Assessment title typed fast. | "Baholash nomi → Sinf → Mezon" | Click sounds, fast-paced typing |
 | 3 | 0:10–0:20 | Add mark scheme | Teacher types or pastes mark scheme text (e.g. "1. Muammo aniqlash: 0–5 ball. 2. Argument: 0–5 ball. 3. Xulosa: 0–5 ball."). Or uploads a Word doc in 2 taps. | "Mezon matnini kiriting yoki faylni yuklang" | Upload sound effect |
 | 4 | 0:20–0:30 | Set marks per question | Teacher sets point values per criterion: 5, 5, 5, 5. Total auto-calculates: 20. | "Balllar → Avtomatik hisob: 20/20" | Satisfying click sounds per criterion |
 | 5 | 0:30–0:40 | Language + activate | Dropdown: "Baholash tili: O'zbek". Toggle: Assessment → ACTIVE. | "Til → Faollashtirish → Tayyor ✅" | Toggle click + confirmation sound |
 | 6 | 0:40–0:52 | Timer reveal | Timer stops: 0:58. Assessment live — share code visible on screen. Teacher taps "Kodni nusxalash" (Copy code). | "58 soniya. Mezon tayyor. Ulashing!" | Timer stop sound, triumphant chime |
-| 7 | 0:52–0:60 | CTA | TezTekshir logo. Tagline and link. | "Siz ham sinab ko'ring — bepul 👇" | Music fade |
+| 7 | 0:52–0:60 | CTA | Bahola logo. Tagline and link. | "Siz ham sinab ko'ring — bepul 👇" | Music fade |
 
 ---
 
@@ -64,9 +64,9 @@ Aslida: uch qadam. Bir daqiqa.
 Shunday. O'quvchilar ishlari avtomat baholanadi.
 Har bir ish. Har bir mezon bo'yicha.
 
-TezTekshir — bepul boshlang. Bio'dagi havola 👇
+Bahola — bepul boshlang. Bio'dagi havola 👇
 
-#TezTekshir #AIGrading #OqituvchiUchun #BaholashMezoni
+#Bahola #AIGrading #OqituvchiUchun #BaholashMezoni
 #UzbekTaʼlim #SmartOqituvchi #EduTech #OsonBaholash
 #PresidentSchool #60Soniya #MaktabHayoti
 ```
@@ -76,7 +76,7 @@ TezTekshir — bepul boshlang. Bio'dagi havola 👇
 ## Hashtags
 
 ```
-#TezTekshir #AIGrading #OqituvchiUchun #BaholashMezoni
+#Bahola #AIGrading #OqituvchiUchun #BaholashMezoni
 #UzbekTaʼlim #SmartOqituvchi #EduTech #OsonBaholash
 #PresidentSchool #60Soniya #MaktabHayoti #AITaʼlim
 #BepulBoshlang #Uzbekiston #MezonTuzish
@@ -86,7 +86,7 @@ TezTekshir — bepul boshlang. Bio'dagi havola 👇
 
 ## Production Notes
 
-- **This is a screen-recording reel.** Use actual TezTekshir UI — no mockups. Real device, real app, real steps. Authenticity is the whole point.
+- **This is a screen-recording reel.** Use actual Bahola UI — no mockups. Real device, real app, real steps. Authenticity is the whole point.
 - **Timer in corner:** Start counting from 0:00 when the teacher first taps "Yangi baholash." Stop when the share code appears. If real time is >60 seconds, speed up to 1.3–1.5x — should still feel achievable, not impossibly fast.
 - **Shot 3 (mark scheme input):** Show either text typing OR file upload — whichever is faster in real use. If uploading a pre-written Word doc (2 taps), that's the most impressive version. If typing manually works for the 60-second frame, that's also fine.
 - **Shot 4 (setting marks):** Each criterion click should feel satisfying. If there's a subtle animation when the total updates, make sure it's visible. "20/20" appearing automatically = strong product moment.

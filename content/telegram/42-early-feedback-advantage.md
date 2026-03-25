@@ -16,13 +16,13 @@ Birinchi topshiriqda nima sodir bo'ladi:
 ❌ Qayerda xato qilganini tushunadi
 🎯 Keyingi topshiriqda nimalarga e'tibor berishni biladi
 
-TezTekshir bilan birinchi topshiriqni tekshiring — va AI har bir o'quvchiga shaxsiy, batafsil fikr-mulohaza beradi.
+Bahola bilan birinchi topshiriqni tekshiring — va AI har bir o'quvchiga shaxsiy, batafsil fikr-mulohaza beradi.
 
 Bu nafaqat baho — bu o'rganish yo'l xaritasi.
 
 👉 Birinchi topshiriqni tekshiring va fikr-mulohaza sifatini ko'ring!
 
-#TezTekshir #SifatliTaʼlim #OʻquvchiRivoji
+#Bahola #SifatliTaʼlim #OʻquvchiRivoji
 
 ---
 
@@ -38,10 +38,10 @@ Bu nafaqat baho — bu o'rganish yo'l xaritasi.
 ❌ Понимает, где допустил ошибку
 🎯 Знает, на что обратить внимание в следующий раз
 
-Проверьте первое задание с TezTekshir — и ИИ даст каждому ученику личную, подробную обратную связь.
+Проверьте первое задание с Bahola — и ИИ даст каждому ученику личную, подробную обратную связь.
 
 Это не просто оценка — это дорожная карта для обучения.
 
 👉 Проверьте первое задание и оцените качество обратной связи!
 
-#TezTekshir #КачественноеОбразование #РазвитиеУченика
+#Bahola #КачественноеОбразование #РазвитиеУченика

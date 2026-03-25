@@ -18,10 +18,10 @@ status: draft
 
 🌷 **1-may — Mehnat bayrami muborak!**
 
-Siz har kuni erta uyg'onib, darsga tayyorlanasiz, o'quvchilaringiz uchun o'zingizni berasiz. Bu — haqiqiy mehnat. TezTekshir aynan shu sababdan yaratildi: o'qituvchiga vaqtini qaytarish uchun. Baholash — biz zimmamizdagi ish. Ilhom berish — sizning san'atingiz.
+Siz har kuni erta uyg'onib, darsga tayyorlanasiz, o'quvchilaringiz uchun o'zingizni berasiz. Bu — haqiqiy mehnat. Bahola aynan shu sababdan yaratildi: o'qituvchiga vaqtini qaytarish uchun. Baholash — biz zimmamizdagi ish. Ilhom berish — sizning san'atingiz.
 
 Bugun dam oling. Siz uni haqiqatan ham miqyossiz darajada topishingizga loyiqsiz. 🙏
 
-📲 @teztekshir_uz
+📲 @bahola_uz
 
-#MehnatBayrami #OqituvchilarKuni #TezTekshir #MaktabUzbekiston
+#MehnatBayrami #OqituvchilarKuni #Bahola #MaktabUzbekiston

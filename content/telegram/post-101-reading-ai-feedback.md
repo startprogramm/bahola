@@ -8,7 +8,7 @@ date: 2027-01-29
 
 🧠 **AI izohlarini qanday o'qish va keyingi darsni rejalashtirish?**
 
-TezTekshir faqat baho qo'ymaydi — u sizga o'qitishni yaxshilashga yordam beradi.
+Bahola faqat baho qo'ymaydi — u sizga o'qitishni yaxshilashga yordam beradi.
 
 Mana amaliy usul 👇
 
@@ -28,4 +28,4 @@ Umumiy xato bo'lgan mavzuni qayta tushuntiring. Maqsadli mashq qo'shing.
 
 Sinab ko'ring va o'zgarishni his eting! 💪
 
-#TezTekshir #OʻqituvchiUchun #AIIzoh #TaʼlimTexnologiyasi
+#Bahola #OʻqituvchiUchun #AIIzoh #TaʼlimTexnologiyasi

@@ -10,7 +10,7 @@ campaign: first-week-of-school
 
 Yangi o'quv yili boshlanishi bilan o'quvchilar darhol topshiriqlar topshirishni boshlaydi. Ko'pchilik o'qituvchilar birinchi haftadayoq yuzlab ishlarni tekshirish bilan qolib ketishadi.
 
-TezTekshir bilan birinchi haftani osonlashtiring:
+Bahola bilan birinchi haftani osonlashtiring:
 
 📸 Ishni suratga oling — 30 soniyada yuklang
 🤖 AI avtomatik tekshiradi va ball qo'yadi
@@ -21,7 +21,7 @@ Birinchi hafta shablonini o'rnatib oling — qolgan yil oson o'tadi.
 
 👉 Bugun birinchi partiyangizni yuklang!
 
-#TezTekshir #BirinchiHafta #VaqtniTejaymiz
+#Bahola #BirinchiHafta #VaqtniTejaymiz
 
 ---
 
@@ -31,7 +31,7 @@ Birinchi hafta shablonini o'rnatib oling — qolgan yil oson o'tadi.
 
 С началом нового учебного года ученики сразу начинают сдавать задания. Многие учителя уже в первую неделю оказываются завалены сотнями работ.
 
-Упростите первую неделю с TezTekshir:
+Упростите первую неделю с Bahola:
 
 📸 Сфотографируйте работу — загрузка за 30 секунд
 🤖 ИИ автоматически проверяет и выставляет баллы
@@ -42,4 +42,4 @@ Birinchi hafta shablonini o'rnatib oling — qolgan yil oson o'tadi.
 
 👉 Загрузите первую партию уже сегодня!
 
-#TezTekshir #ПерваяНеделя #ЭкономимВремя
+#Bahola #ПерваяНеделя #ЭкономимВремя

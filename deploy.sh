@@ -1,13 +1,13 @@
 #!/bin/bash
 set -e
 
-cd /home/ubuntu/teztekshir/production
+cd /home/ubuntu/bahola/production
 
-echo "=== Building teztekshir.uz ==="
-NEXT_PUBLIC_APP_MODE=teztekshir NEXT_DIST_DIR=.next-teztekshir npm run build
+echo "=== Building bahola.uz ==="
+NEXT_PUBLIC_APP_MODE=bahola NEXT_DIST_DIR=.next-bahola npm run build
 
 echo ""
-echo "=== Building maktab.teztekshir.uz ==="
+echo "=== Building maktab.bahola.uz ==="
 NEXT_PUBLIC_APP_MODE=maktab NEXT_DIST_DIR=.next-maktab npm run build
 
 echo ""

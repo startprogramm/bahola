@@ -24,9 +24,9 @@
 - Sound: camera shutter click
 
 **[0:15–0:22] Scene 3 — Upload**
-- Screen recording: teacher opens TezTekshir app, selects class, taps "Upload"
+- Screen recording: teacher opens Bahola app, selects class, taps "Upload"
 - Photos load into submission screen
-- Text overlay: "3. TezTekshir'ga yuklang"
+- Text overlay: "3. Bahola'ga yuklang"
 
 **[0:22–0:30] Scene 4 — AI Grades**
 - Screen recording: progress bar / "AI grading..." animation
@@ -40,8 +40,8 @@
 - Cut to wide classroom shot — teacher back to teaching, not marking
 
 **[0:38–0:42] CTA Slate**
-- TezTekshir logo on white background
-- Text: "Bepul boshlang → teztekshir.uz"
+- Bahola logo on white background
+- Text: "Bepul boshlang → bahola.uz"
 
 ---
 
@@ -49,7 +49,7 @@
 
 🏫 Sinf xonasidan natijagacha — 20 daqiqada.
 
-Ishlarni yig'ing → rasmga oling → TezTekshir'ga yuklang. AI qolganini qiladi.
+Ishlarni yig'ing → rasmga oling → Bahola'ga yuklang. AI qolganini qiladi.
 
 ✅ Har bir o'quvchi uchun batafsil fikr-mulohaza
 ✅ O'zbek, rus va ingliz tillarida
@@ -57,14 +57,14 @@ Ishlarni yig'ing → rasmga oling → TezTekshir'ga yuklang. AI qolganini qiladi
 
 Hozir bepul. 👇 Sinab ko'ring.
 
-🔗 teztekshir.uz
+🔗 bahola.uz
 
-#TezTekshir #OʻqituvchilarUchun #AIBaholash #Maktab #Uzbekistan #PresidentSchool #EdTech #OʻqituvchiHayoti
+#Bahola #OʻqituvchilarUchun #AIBaholash #Maktab #Uzbekistan #PresidentSchool #EdTech #OʻqituvchiHayoti
 
 ---
 
 ## CTA
 
-**On-screen:** "Bepul boshlang → teztekshir.uz"
-**Caption link:** teztekshir.uz
-**Verbal (if voiceover):** "TezTekshir — bepul sinab ko'ring"
+**On-screen:** "Bepul boshlang → bahola.uz"
+**Caption link:** bahola.uz
+**Verbal (if voiceover):** "Bahola — bepul sinab ko'ring"

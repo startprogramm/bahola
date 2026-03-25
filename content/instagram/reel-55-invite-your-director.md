@@ -8,9 +8,9 @@
 
 ## Concept
 
-A single teacher's journey from solo user to school-wide champion. They've been using TezTekshir alone. Now they realize: the director should know about this. The reel walks through the insight and the simple act of sharing — a message, a link, a conversation. Tone: empowering, light, and slightly conspiratorial. "You know something your school doesn't yet. Here's how to share it."
+A single teacher's journey from solo user to school-wide champion. They've been using Bahola alone. Now they realize: the director should know about this. The reel walks through the insight and the simple act of sharing — a message, a link, a conversation. Tone: empowering, light, and slightly conspiratorial. "You know something your school doesn't yet. Here's how to share it."
 
-Audience: TezTekshir teachers who are using the platform but haven't yet brought in leadership. This is the nudge to become an internal advocate.
+Audience: Bahola teachers who are using the platform but haven't yet brought in leadership. This is the nudge to become an internal advocate.
 
 ---
 
@@ -26,11 +26,11 @@ Audience: TezTekshir teachers who are using the platform but haven't yet brought
 
 | # | Timestamp | Shot | Visual | Text Overlay | Audio |
 |---|-----------|------|--------|--------------|-------|
-| 1 | 0:00–0:04 | Hook | Close-up of a phone screen with TezTekshir open — grading results visible. Teacher holding the phone, small confident smile. | "Siz bilasiz. Direktoringiz bilmaydi." | Upbeat but subtle — light percussion or minimal beat |
+| 1 | 0:00–0:04 | Hook | Close-up of a phone screen with Bahola open — grading results visible. Teacher holding the phone, small confident smile. | "Siz bilasiz. Direktoringiz bilmaydi." | Upbeat but subtle — light percussion or minimal beat |
 | 2 | 0:04–0:10 | The insight | Teacher looks up from their phone as if realizing something. Casual, natural. Maybe typing starts. | "Bir o'qituvchi emas — butun maktab foydalanishi mumkin." | Music steady |
-| 3 | 0:10–0:18 | The action | Screen recording: teacher opens a messaging app, pastes a TezTekshir link, adds a short message to "Direktor". Sends. Done. | "Direktoringizga yuboring 📩" | Light UI tap sounds with music |
+| 3 | 0:10–0:18 | The action | Screen recording: teacher opens a messaging app, pastes a Bahola link, adds a short message to "Direktor". Sends. Done. | "Direktoringizga yuboring 📩" | Light UI tap sounds with music |
 | 4 | 0:18–0:26 | The outcome | Quick cut to a school hallway — other teachers, a classroom, the implication of scale. Montage feel. | "Keyingi semestrda butun maktab birga." | Music builds slightly |
-| 5 | 0:26–0:34 | CTA | Clean text card with TezTekshir logo. | "teztekshir.uz — Direktoringizga ulashing" | Music fades to close |
+| 5 | 0:26–0:34 | CTA | Clean text card with Bahola logo. | "bahola.uz — Direktoringizga ulashing" | Music fades to close |
 
 ---
 
@@ -41,7 +41,7 @@ Shot 1: "Siz bilasiz. Direktoringiz bilmaydi."
 Shot 2: "Bir o'qituvchi emas — butun maktab foydalanishi mumkin."
 Shot 3: "Direktoringizga yuboring 📩"
 Shot 4: "Keyingi semestrda butun maktab birga."
-Shot 5: "teztekshir.uz — Direktoringizga ulashing"
+Shot 5: "bahola.uz — Direktoringizga ulashing"
 ```
 
 ---
@@ -50,7 +50,7 @@ Shot 5: "teztekshir.uz — Direktoringizga ulashing"
 
 **Uzbek:**
 ```
-🏫 Siz TezTekshirdan foydalanyapsiz. Direktoringiz hali bilmaydi.
+🏫 Siz Baholadan foydalanyapsiz. Direktoringiz hali bilmaydi.
 
 Qishki ta'til — o'zgartirish qilish uchun eng yaxshi vaqt.
 
@@ -60,16 +60,16 @@ Bitta xabar. Bitta havola. Shu kifoya.
 
 Keyingi semestrda butun maktab birga ishlaydi. 💪
 
-👉 teztekshir.uz — Direktoringizga ulashing
+👉 bahola.uz — Direktoringizga ulashing
 
-#TezTekshir #Direktor #MaktabRahbari #QishkiTatil
+#Bahola #Direktor #MaktabRahbari #QishkiTatil
 #UzbekTaʼlim #EduTech #MaktabHayoti #OqituvchiHayoti
 #PresidentSchool #AIGrading #ZamonaviyTaʼlim #OkuvchilarUchun
 ```
 
 **Russian:**
 ```
-🏫 Вы используете TezTekshir. Ваш директор ещё не знает.
+🏫 Вы используете Bahola. Ваш директор ещё не знает.
 
 Зимние каникулы — лучшее время для перемен.
 
@@ -79,9 +79,9 @@ Keyingi semestrda butun maktab birga ishlaydi. 💪
 
 В следующем семестре вся школа работает вместе. 💪
 
-👉 teztekshir.uz — Поделитесь с директором
+👉 bahola.uz — Поделитесь с директором
 
-#TezTekshir #Директор #ЗимниеКаникулы #ОбразованиеУзбекистана
+#Bahola #Директор #ЗимниеКаникулы #ОбразованиеУзбекистана
 #EduTech #AIGrading #УчительЖизнь #ШколаБудущего
 ```
 
@@ -90,7 +90,7 @@ Keyingi semestrda butun maktab birga ishlaydi. 💪
 ## Hashtags
 
 ```
-#TezTekshir #Direktor #MaktabRahbari #QishkiTatil
+#Bahola #Direktor #MaktabRahbari #QishkiTatil
 #UzbekTaʼlim #EduTech #MaktabHayoti #OqituvchiHayoti
 #PresidentSchool #AIGrading #ZamonaviyTaʼlim #OkuvchilarUchun
 ```

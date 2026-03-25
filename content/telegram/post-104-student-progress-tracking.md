@@ -26,9 +26,9 @@ U endi biladi — qaysi mavzularda kuchli, qayerda hali ishlash kerak. Har safar
 
 O'qituvchi har bir o'quvchining bu safar qanday o'sganini ko'rishi mumkin. Faqat bir bosmada.
 
-TezTekshir — faqat baholash emas, balki taraqqiyotni kuzatish vositasi ✨
+Bahola — faqat baholash emas, balki taraqqiyotni kuzatish vositasi ✨
 
-#TezTekshir #Taraqqiyot #NatijaKuzatuv #OquvchiOsishi
+#Bahola #Taraqqiyot #NatijaKuzatuv #OquvchiOsishi
 
 ---
 

@@ -8,15 +8,15 @@
 
 ## Concept
 
-Data-driven motion reel showing TezTekshir's adoption across Presidential Schools. No talking head — pure visual storytelling. Map animation, rising numbers, school logos or location pins lighting up one by one. The message: this is not a new tool, it is the new standard. Music-forward, visually striking, text overlays carry the narrative.
+Data-driven motion reel showing Bahola's adoption across Presidential Schools. No talking head — pure visual storytelling. Map animation, rising numbers, school logos or location pins lighting up one by one. The message: this is not a new tool, it is the new standard. Music-forward, visually striking, text overlays carry the narrative.
 
 ---
 
 ## Hook
 
 **On-screen text (first 2 seconds):**
-> **"Maktablar TezTekshirga o'tmoqda."**
-> *(Schools are switching to TezTekshir.)*
+> **"Maktablar Baholaga o'tmoqda."**
+> *(Schools are switching to Bahola.)*
 
 ---
 
@@ -24,12 +24,12 @@ Data-driven motion reel showing TezTekshir's adoption across Presidential School
 
 | # | Shot | Visual | Audio/Text Overlay |
 |---|------|--------|--------------------|
-| 1 | Hook | Bold white title on dark background. Map of Uzbekistan fades in below. | Text: "Maktablar TezTekshirga o'tmoqda." |
+| 1 | Hook | Bold white title on dark background. Map of Uzbekistan fades in below. | Text: "Maktablar Baholaga o'tmoqda." |
 | 2 | Map animation | Uzbekistan map. School location pins drop in one by one — Tashkent, then spreading to other cities. Each pin glows. | Soft pulsing music begins. Counter appears: "1 maktab... 3... 7..." |
 | 3 | Stat card | Full-screen minimal stat card: "100+ o'qituvchi. Bir platformada." | Music builds. Text pulses with each number. |
 | 4 | Teacher montage | Quick cuts: hands photographing student papers, phones uploading, feedback screens populating. All real UI. | Upbeat, forward-moving music. No VO needed. |
 | 5 | Social proof text | Text stacks: "Vaqt tejaldi. ✓" / "O'quvchilar yaxshilandi. ✓" / "Direktorlar mamnun. ✓" | Each line appears with a soft check animation. |
-| 6 | CTA end card | TezTekshir logo centered. Text: "Siz ham qo'shiling — bepul." Map glows in background. | Music peaks and resolves. |
+| 6 | CTA end card | Bahola logo centered. Text: "Siz ham qo'shiling — bepul." Map glows in background. | Music peaks and resolves. |
 
 ---
 
@@ -37,7 +37,7 @@ Data-driven motion reel showing TezTekshir's adoption across Presidential School
 
 **Uzbek:**
 ```
-Maktablar TezTekshirga o'tmoqda.
+Maktablar Baholaga o'tmoqda.
 
 100+ o'qituvchi. Bir platformada.
 
@@ -50,7 +50,7 @@ Siz ham qo'shiling — bepul.
 
 **Russian (secondary overlay, smaller text):**
 ```
-Школы переходят на TezTekshir.
+Школы переходят на Bahola.
 
 100+ учителей. Одна платформа.
 
@@ -69,22 +69,22 @@ Siz ham qo'shiling — bepul.
 ```
 Hamkasblaringiz allaqachon bu yerda. 🏫
 
-Prezident maktablari bo'ylab o'qituvchilar TezTekshirga o'tmoqda — va ularning sinflari natija ko'rmoqda.
+Prezident maktablari bo'ylab o'qituvchilar Baholaga o'tmoqda — va ularning sinflari natija ko'rmoqda.
 
 Siz ham ulaningmi? Bepul ro'yxatdan o'ting 👇 (Bio'dagi havola)
 
-#TezTekshir #PresidentSchool #OqituvchiJamoasi #AIGrading #UzbekEducation #MaktabTaraqqiyoti #EduTech #BepulSinab #OqituvchiUchun #AITaʼlim
+#Bahola #PresidentSchool #OqituvchiJamoasi #AIGrading #UzbekEducation #MaktabTaraqqiyoti #EduTech #BepulSinab #OqituvchiUchun #AITaʼlim
 ```
 
 **Russian:**
 ```
 Ваши коллеги уже здесь. 🏫
 
-Учителя Президентских школ переходят на TezTekshir — и их классы видят результат.
+Учителя Президентских школ переходят на Bahola — и их классы видят результат.
 
 Присоединитесь? Регистрация бесплатна 👇 (Ссылка в Bio)
 
-#TezTekshir #PresidentSchool #СообществоУчителей #AIGrading #ОбразованиеУзбекистан #EduTech #БесплатноПопробовать
+#Bahola #PresidentSchool #СообществоУчителей #AIGrading #ОбразованиеУзбекистан #EduTech #БесплатноПопробовать
 ```
 
 ---
@@ -92,7 +92,7 @@ Siz ham ulaningmi? Bepul ro'yxatdan o'ting 👇 (Bio'dagi havola)
 ## Hashtags (Uzbek post)
 
 ```
-#TezTekshir #PresidentSchool #OqituvchiJamoasi #AIGrading
+#Bahola #PresidentSchool #OqituvchiJamoasi #AIGrading
 #UzbekEducation #MaktabTaraqqiyoti #EduTech #BepulSinab
 #OqituvchiUchun #AITaʼlim #OqituvchiTajribasi #MaktabHayoti
 ```
@@ -102,7 +102,7 @@ Siz ham ulaningmi? Bepul ro'yxatdan o'ting 👇 (Bio'dagi havola)
 ## Production Notes
 
 - **No talking head needed.** This reel is pure motion design — map animation, stat cards, and real product UI. Faster and easier to produce than testimonial reels.
-- **Map asset:** Clean Uzbekistan outline map. School pins should pulse or glow on appear. Use TezTekshir brand colors (indigo/purple accents).
+- **Map asset:** Clean Uzbekistan outline map. School pins should pulse or glow on appear. Use Bahola brand colors (indigo/purple accents).
 - **Numbers:** Keep stats honest. Use actual or conservative estimates. "100+" is safe if confirmed. Do not inflate.
 - **Music:** Confident, forward-moving instrumental. Think "growth story" — not hype, not corporate. Something that builds.
 - **Text readability:** All overlays must be legible at mobile size. High contrast. Key stats in large, bold font.

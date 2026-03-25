@@ -11,7 +11,7 @@ languages: [uz, ru]
 
 🎆 **Yangi yil muborak bo'lsin!**
 
-TezTekshir jamoasi sizga — har kuni o'quvchilar uchun jonini sarflaydigan o'qituvchilarga — chin yurakdan tabrik yo'llaydi.
+Bahola jamoasi sizga — har kuni o'quvchilar uchun jonini sarflaydigan o'qituvchilarga — chin yurakdan tabrik yo'llaydi.
 
 Siz faqat dars o'qitmaysiz. Siz kelajakni shakllantirasiz.
 
@@ -30,7 +30,7 @@ Yangi yil bilan! 🥂
 
 🎆 **С Новым 2027 годом!**
 
-Команда TezTekshir от всей души поздравляет вас — учителей, которые каждый день отдают себя ученикам.
+Команда Bahola от всей души поздравляет вас — учителей, которые каждый день отдают себя ученикам.
 
 Вы не просто преподаёте. Вы строите будущее.
 
@@ -43,4 +43,4 @@ Yangi yil bilan! 🥂
 
 С Новым годом! 🥂
 
-👉 teztekshir.uz
+👉 bahola.uz

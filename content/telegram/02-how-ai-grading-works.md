@@ -4,7 +4,7 @@ channel: telegram
 date: 2026-03-19
 ---
 
-🤖 **TezTekshir qanday ishlaydi?**
+🤖 **Bahola qanday ishlaydi?**
 
 Ko'pchilik so'raydi: "AI qo'l yozuvini o'qiy oladimi?"
 
@@ -19,11 +19,11 @@ Ha — va bu qanday amalga oshadi:
 
 Har bir o'quvchi bir xil standart asosida adolatli baho oladi.
 
-Tekshirib ko'ring 👉 teztekshir.uz
+Tekshirib ko'ring 👉 bahola.uz
 
 ---
 
-🤖 **Как работает TezTekshir?**
+🤖 **Как работает Bahola?**
 
 Многие спрашивают: «ИИ правда читает рукопись?»
 
@@ -38,4 +38,4 @@ Tekshirib ko'ring 👉 teztekshir.uz
 
 Каждый ученик получает справедливую оценку по единому стандарту.
 
-Проверьте сами 👉 teztekshir.uz
+Проверьте сами 👉 bahola.uz

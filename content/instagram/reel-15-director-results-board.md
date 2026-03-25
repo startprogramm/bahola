@@ -10,7 +10,7 @@
 
 ## Concept
 
-A director's end-of-semester power move: log in, see the whole school's grading status on one screen. The reel targets school leaders and shows them — without telling them — that TezTekshir gives them oversight, confidence, and accountability. The tone is authoritative: this is a tool for leaders, not just teachers.
+A director's end-of-semester power move: log in, see the whole school's grading status on one screen. The reel targets school leaders and shows them — without telling them — that Bahola gives them oversight, confidence, and accountability. The tone is authoritative: this is a tool for leaders, not just teachers.
 
 ---
 
@@ -32,7 +32,7 @@ Bold white text on dark background, then cut to dashboard.
 | 0:10–0:16 | Scroll through: teacher names, assessment counts, grading status badges (✅ tugadi / ⏳ davom etmoqda) | **"Kim tugatti? Kim qoldi?"** |
 | 0:17–0:23 | Tap one class → detailed assessment view with score distributions | **"Sinf natijalari — bir zumda"** |
 | 0:24–0:29 | Pan to summary stats: average score, submission rate | **"Hisobot tayyor. Hech qanday ish yo'q."** |
-| 0:30–0:35 | Logo + "Semestr yopilishiga tayyor bo'ling" on clean background | **"TezTekshir — rahbarlar uchun ham."** |
+| 0:30–0:35 | Logo + "Semestr yopilishiga tayyor bo'ling" on clean background | **"Bahola — rahbarlar uchun ham."** |
 
 ---
 
@@ -49,7 +49,7 @@ Bold white text on dark background, then cut to dashboard.
 ```
 Direktor sifatida semestr oxirida hamma narsani bilasizmi? 📊
 
-TezTekshir dashboard bilan:
+Bahola dashboard bilan:
 ✅ Qaysi sinflarda baholash tugadi
 ✅ Qaysi o'qituvchilar natijalarni kiritdi
 ✅ Umumiy maktab ko'rsatkichlari
@@ -57,9 +57,9 @@ TezTekshir dashboard bilan:
 Hamma narsa — 1 ekranda. Real vaqtda.
 
 Semestr yopilishiga tayyor bo'ling 👇
-teztekshir.uz
+bahola.uz
 
-#TezTekshir #MaktabRahbari #Direktor #SemestrOxiri #AIbaho #UzbekistanEdu #PresidentSchool #DigitalMaktab #SchoolLeadership
+#Bahola #MaktabRahbari #Direktor #SemestrOxiri #AIbaho #UzbekistanEdu #PresidentSchool #DigitalMaktab #SchoolLeadership
 ```
 
 ---

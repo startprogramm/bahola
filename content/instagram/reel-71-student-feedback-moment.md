@@ -20,7 +20,7 @@ Phone screen shown face-down on desk — about to be flipped.
 ## Scene Breakdown
 
 **[0–5s] — Уведомление пришло**
-- Phone notification appears: "✅ Ваша работа проверена — TezTekshir"
+- Phone notification appears: "✅ Ваша работа проверена — Bahola"
 - Student hand picks up phone
 - Overlay: "👩‍🎓 Артём получил уведомление"
 
@@ -41,13 +41,13 @@ Phone screen shown face-down on desk — about to be flipped.
 - Overlay: "Не просто ошибка — а как исправить"
 
 **[24–28s] — Сравнение**
-- Quick split: left — red pen marks on paper (old way); right — TezTekshir feedback screen (new way)
+- Quick split: left — red pen marks on paper (old way); right — Bahola feedback screen (new way)
 - Overlay left: "Раньше: красная ручка"
 - Overlay right: "Сейчас: понятная обратная связь"
 
 **[28–30s] — End card**
 - Text: **"Это то, что получает каждый ученик"**
-- TezTekshir logo + "teztekshir.uz"
+- Bahola logo + "bahola.uz"
 
 ## Caption
 ```
@@ -59,15 +59,15 @@ Phone screen shown face-down on desk — about to be flipped.
 
 Мгновенно. Без красной ручки. Без ожидания.
 
-Попробуйте TezTekshir бесплатно 👆 ссылка в профиле
+Попробуйте Bahola бесплатно 👆 ссылка в профиле
 
-#TezTekshir #ОбратнаяСвязь #AIОценивание #УченикВидит #ЦифроваяШкола
+#Bahola #ОбратнаяСвязь #AIОценивание #УченикВидит #ЦифроваяШкола
 ```
 
 ## Production Notes
-- Use real TezTekshir feedback screen — no mock data
+- Use real Bahola feedback screen — no mock data
 - Feedback text should be in Russian (matching the reel language)
 - Zoom-in on feedback panel should be slow and legible — viewer needs to read it
-- Split-screen: use warm red tint for "old way" side, clean white for TezTekshir side
+- Split-screen: use warm red tint for "old way" side, clean white for Bahola side
 - Audio: soft notification sound at 0:05, ambient lo-fi throughout
-- End card: TezTekshir logo + "teztekshir.uz" + CTA "Ссылка в профиле"
+- End card: Bahola logo + "bahola.uz" + CTA "Ссылка в профиле"

@@ -30,10 +30,10 @@
 - Text overlay (centre):
   ```
   Hayit Muborak! 🌙
-  — TezTekshir jamoasidan —
+  — Bahola jamoasidan —
   ```
 - Sub-text: "O'qituvchilar, siz uchun rahmat."
-- Logo: TezTekshir wordmark, bottom right
+- Logo: Bahola wordmark, bottom right
 - Music: Fades to gentle close
 
 ---
@@ -43,9 +43,9 @@
 ```
 Bu yil o'quvchilaringiz bilan qilgan mehnatlaringiz uchun katta rahmat! 🌙⭐
 
-Hayit muborak bo'lsin — TezTekshir jamoasidan barchangizga tinchlik, sog'lik va baxt tilaymiz. 🤍
+Hayit muborak bo'lsin — Bahola jamoasidan barchangizga tinchlik, sog'lik va baxt tilaymiz. 🤍
 
-#HayitMuborak #EidMubarak #TezTekshir #UzbekistanTeachers #OqituvchilargaRahmat #Hayit2026
+#HayitMuborak #EidMubarak #Bahola #UzbekistanTeachers #OqituvchilargaRahmat #Hayit2026
 ```
 
 ---
@@ -61,5 +61,5 @@ None — this is a pure celebration reel. No product pitch. Brand warmth only.
 - Music: Upbeat but soft traditional Uzbek melody (e.g., dutar or nay-based instrumental). Keep it joyful, not loud.
 - Color palette: Warm greens, golds, and cream tones. Festive without being garish.
 - Footage style: Real classroom moments preferred over stock. Candid teacher expressions > posed shots.
-- Text font: Clean, rounded — matches TezTekshir brand. Uzbek script.
+- Text font: Clean, rounded — matches Bahola brand. Uzbek script.
 - No English text in this reel — Uzbek only.

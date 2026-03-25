@@ -4,13 +4,13 @@ date: "2026-05-15"
 language: uz
 platform: telegram
 week: 11
-tags: [end-of-year, grades, ai-grading, achievement, teztekshir]
+tags: [end-of-year, grades, ai-grading, achievement, bahola]
 status: draft
 ---
 
 🎉 **Yillik baholar tayyor! Siz bajardingiz!**
 
-Bu yil o'quvchilaringizning har bir ishini tekshirdingiz — va TezTekshir bu jarayonni ancha osonlashtirdi.
+Bu yil o'quvchilaringizning har bir ishini tekshirdingiz — va Bahola bu jarayonni ancha osonlashtirdi.
 
 ✅ Har bir baho — tez
 ✅ Har bir baho — adolatli
@@ -22,4 +22,4 @@ Sun'iy intellekt yordamida baholar aniqroq bo'ldi, siz esa o'z vaqtingizni darsg
 
 ---
 
-*🤖 TezTekshir — AI yordamida tezkor va adolatli baholash.*
+*🤖 Bahola — AI yordamida tezkor va adolatli baholash.*

@@ -8,7 +8,7 @@ campaign: q1-close
 
 🏁 Birinchi chorak tugadi. Natijalar gapiradi.
 
-TezTekshir ishlatgan o'qituvchilar bir xil narsani aytmoqda: o'quvchilar o'z xatolarini tezroq tushunishdi.
+Bahola ishlatgan o'qituvchilar bir xil narsani aytmoqda: o'quvchilar o'z xatolarini tezroq tushunishdi.
 
 Sababi oddiy — har bir test topshirilgandan so'ng, o'quvchi qayerda xato qilganini aniq ko'rdi. Ball emas, izoh. Natija emas, yo'l.
 
@@ -18,7 +18,7 @@ Birinchi chorak bu faqat boshlanish. Ammo raqamlar ko'rinib turibdi.
 
 📊 Sizning sinf natijalari qanday? Q1 statistikangizni do'stlaringiz bilan ulashing!
 
-#TezTekshir #BirinchiChorak #OqituvchiUchun #Natija
+#Bahola #BirinchiChorak #OqituvchiUchun #Natija
 
 ---
 

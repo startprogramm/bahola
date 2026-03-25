@@ -158,7 +158,7 @@ function SidebarInner() {
             <button
               onClick={() => {
                 setProfileOpen(false);
-                window.open("https://t.me/teztekshirbot", "_blank");
+                window.open("https://t.me/baholabot", "_blank");
               }}
               className="w-full flex items-center gap-2.5 px-3 py-2.5 text-xs text-[hsl(var(--sidebar-foreground))]/70 hover:bg-[hsl(var(--sidebar-accent))]/80 hover:text-[hsl(var(--sidebar-foreground))] transition-colors"
             >

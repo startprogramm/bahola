@@ -1,7 +1,7 @@
 import { isMaktab } from "./platform";
 
-export const PUBLIC_APP_LOGIN_URL = "https://teztekshir.uz/login";
-export const MAKTAB_APP_LOGIN_URL = "https://maktab.teztekshir.uz/login";
+export const PUBLIC_APP_LOGIN_URL = "https://bahola.uz/login";
+export const MAKTAB_APP_LOGIN_URL = "https://maktab.bahola.uz/login";
 
 export type AppAccessUser = {
   id?: string | null;
@@ -50,13 +50,13 @@ export function getCrossAppAccessViolation(
 
   if (maktabAccount) {
     return new AppAccessError(
-      `This account belongs to maktab.teztekshir.uz. Please sign in at ${MAKTAB_APP_LOGIN_URL}.`,
+      `This account belongs to maktab.bahola.uz. Please sign in at ${MAKTAB_APP_LOGIN_URL}.`,
       MAKTAB_APP_LOGIN_URL
     );
   }
 
   return new AppAccessError(
-    `This account belongs to teztekshir.uz. Please sign in at ${PUBLIC_APP_LOGIN_URL}.`,
+    `This account belongs to bahola.uz. Please sign in at ${PUBLIC_APP_LOGIN_URL}.`,
     PUBLIC_APP_LOGIN_URL
   );
 }
@@ -77,7 +77,7 @@ export function getMaktabEnrollmentRequiredError(): AppAccessError {
 
 export function getMaktabRegistrationBlockedError(): AppAccessError {
   return new AppAccessError(
-    "Self-registration is disabled on maktab.teztekshir.uz. Please contact your school administrator.",
+    "Self-registration is disabled on maktab.bahola.uz. Please contact your school administrator.",
     MAKTAB_APP_LOGIN_URL
   );
 }

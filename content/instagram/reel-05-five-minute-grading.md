@@ -20,10 +20,10 @@ created: "2026-03-20"
 |--------|--------|
 | 0–3s | Screen: phone clock shows 15:00. A hand picks up a phone over a stack of student papers. |
 | 3–7s | Phone camera opens — snap. Photo of a handwritten student answer sheet. Clean, fast motion. |
-| 7–12s | Screen recording: TezTekshir upload screen. Photo uploads. Progress bar fills in 2 seconds. |
+| 7–12s | Screen recording: Bahola upload screen. Photo uploads. Progress bar fills in 2 seconds. |
 | 12–18s | Results screen appears: question-by-question scores populate — 4/5, 5/5, 3/5, 2/5. Uzbek feedback text appears below each. |
 | 18–23s | Phone clock shows 15:05. Text overlaid: "5 daqiqa. Hammasi tayyor." |
-| 23–28s | TezTekshir logo. Tagline: "Bepul. Hoziroq sinab ko'ring ⬇️" |
+| 23–28s | Bahola logo. Tagline: "Bepul. Hoziroq sinab ko'ring ⬇️" |
 
 ---
 
@@ -35,15 +35,15 @@ created: "2026-03-20"
 > **[3–8s]** "O'qituvchi o'quvchi ishini rasmga oladi."
 > *(Teacher photographs student work.)*
 
-> **[8–15s]** "TezTekshir o'qiydi. Baholaydi. Izoh yozadi."
-> *(TezTekshir reads. Grades. Writes feedback.)*
+> **[8–15s]** "Bahola o'qiydi. Baholaydi. Izoh yozadi."
+> *(Bahola reads. Grades. Writes feedback.)*
 
 > **[15–22s]** *(Fast whoosh sound as results appear)*
 > "5 daqiqa o'tdi. Har bir o'quvchida — aniq natija."
 > *(5 minutes passed. Every student has — a clear result.)*
 
-> **[22–28s]** "TezTekshir. Bepul. Bugun boshlang."
-> *(TezTekshir. Free. Start today.)*
+> **[22–28s]** "Bahola. Bepul. Bugun boshlang."
+> *(Bahola. Free. Start today.)*
 
 ---
 
@@ -53,7 +53,7 @@ created: "2026-03-20"
 Soat 15:00 — o'qituvchi o'quvchi ishini rasmga oldi 📸
 Soat 15:05 — har bir o'quvchida ball va izoh bor ✅
 
-Bu sehrli emas. Bu TezTekshir.
+Bu sehrli emas. Bu Bahola.
 
 Sun'iy intellekt yozma ishni o'qiydi, har bir savol uchun ball beradi va o'zbek tilida izoh yozadi — daqiqalar ichida.
 
@@ -62,4 +62,4 @@ Bepul. Prezident maktablarida ishlatilmoqda. Sinab ko'ring ⬇️
 ---
 
 ## Hashtags
-`#TezTekshir` `#UstozlarUchun` `#SuniyIntellekt` `#AIGrading` `#OzbekistanTeachers` `#TaʼlimTexnologiyasi`
+`#Bahola` `#UstozlarUchun` `#SuniyIntellekt` `#AIGrading` `#OzbekistanTeachers` `#TaʼlimTexnologiyasi`

@@ -64,7 +64,7 @@ async function main() {
       const studentIds: string[] = [];
 
       for (let i = 1; i <= 30; i++) {
-        const email = `dummy-student-${i}@teztekshir.uz`;
+        const email = `dummy-student-${i}@bahola.uz`;
         const user = await tx.user.upsert({
           where: { email },
           update: {},

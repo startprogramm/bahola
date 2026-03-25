@@ -37,10 +37,10 @@ Teacher's face — calm, slight smile — looking at phone. Cut to close-up of t
 | Timestamp | Visual | Text Overlay (Uzbek) |
 |-----------|--------|----------------------|
 | 0:00–0:03 | Teacher at desk, stack of papers beside them — but expression is calm, not stressed | **"Endi imtihon mavsumi qo'rqinchli emas."** |
-| 0:04–0:10 | Teacher photographs student work with phone, uploads to TezTekshir — one smooth motion | **"Rasmga ol."** |
-| 0:11–0:18 | TezTekshir processing screen — progress bar fills, results appear one by one | **"AI baholaydi."** |
+| 0:04–0:10 | Teacher photographs student work with phone, uploads to Bahola — one smooth motion | **"Rasmga ol."** |
+| 0:11–0:18 | Bahola processing screen — progress bar fills, results appear one by one | **"AI baholaydi."** |
 | 0:19–0:25 | Teacher scrolls through graded results — per-question scores, feedback in Uzbek | **"Natija tayyor. Izoh bilan."** |
-| 0:26–0:30 | Teacher looks up from phone, exhales, smiles — papers still on desk but the hard work is done. TezTekshir logo + teztekshir.uz | **"TezTekshir — o'qituvchi uchun."** |
+| 0:26–0:30 | Teacher looks up from phone, exhales, smiles — papers still on desk but the hard work is done. Bahola logo + bahola.uz | **"Bahola — o'qituvchi uchun."** |
 
 ---
 
@@ -60,9 +60,9 @@ Imtihon mavsumi — lekin bu safar boshqacha. 🎓
 
 Rasmga ol. AI baholaydi. Natija tayyor.
 
-O'qituvchilar uchun bepul. Hoziroq teztekshir.uz
+O'qituvchilar uchun bepul. Hoziroq bahola.uz
 
-#TezTekshir #Imtihon #AIbaho #OʻqituvchiUchun #PresidentsSchool #UzbekistanTeachers #GraduationSeason #DigitalMaktab
+#Bahola #Imtihon #AIbaho #OʻqituvchiUchun #PresidentsSchool #UzbekistanTeachers #GraduationSeason #DigitalMaktab
 ```
 
 ---
@@ -71,7 +71,7 @@ O'qituvchilar uchun bepul. Hoziroq teztekshir.uz
 
 - Cast a teacher who looks genuinely relaxed — not performing relief, actually calm
 - The stack of papers on the desk is intentional: the contrast is "papers exist, but they don't own you anymore"
-- TezTekshir UI should show real feedback in Uzbek — not a mock
+- Bahola UI should show real feedback in Uzbek — not a mock
 - Aspect ratio: 9:16 (vertical Reels format)
 - Keep the cut pace slow and warm — this is emotional, not kinetic
 - Redact any student names in grading results

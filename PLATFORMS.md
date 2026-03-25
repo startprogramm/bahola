@@ -1,24 +1,24 @@
-# Platform Architecture: teztekshir.uz & maktab.teztekshir.uz
+# Platform Architecture: bahola.uz & maktab.bahola.uz
 
 ## Overview
 
 Two platforms serve different audiences but share underlying infrastructure:
 
-| | **teztekshir.uz** | **maktab.teztekshir.uz** |
+| | **bahola.uz** | **maktab.bahola.uz** |
 |---|---|---|
 | **Purpose** | Open assessment platform — anyone can create/join classes | School management — strict roles, director-controlled |
-| **Directory** | `/home/ubuntu/teztekshir` | `/home/ubuntu/maktab` |
+| **Directory** | `/home/ubuntu/bahola` | `/home/ubuntu/maktab` |
 | **Port** | 3001 | 3002 |
 | **PM2 name** | `assessment-checker` | `maktab` |
-| **URL** | `https://teztekshir.uz` | `https://maktab.teztekshir.uz` |
+| **URL** | `https://bahola.uz` | `https://maktab.bahola.uz` |
 
 ## What They Share
 
 ### Same Git Repository
-Both directories are clones of `https://github.com/Salen-Project/teztekshir.git` at the **same commit**. They have diverged through **uncommitted local changes only**. Neither has committed their platform-specific customizations.
+Both directories are clones of `https://github.com/Salen-Project/bahola.git` at the **same commit**. They have diverged through **uncommitted local changes only**. Neither has committed their platform-specific customizations.
 
 ### Same Database
-Both connect to the same Supabase PostgreSQL instance. All tables, rows, and data are shared. A user created on teztekshir.uz exists in maktab's database too.
+Both connect to the same Supabase PostgreSQL instance. All tables, rows, and data are shared. A user created on bahola.uz exists in maktab's database too.
 
 ### Same Prisma Schema
 `prisma/schema.prisma` is identical. The `Role` enum (`STUDENT`, `TEACHER`, `DIRECTOR`) and all models exist in both. **Never change the schema in one without considering the other.**
@@ -26,27 +26,27 @@ Both connect to the same Supabase PostgreSQL instance. All tables, rows, and dat
 ## How They Differ (Uncommitted Local Changes)
 
 ### Role Model
-- **teztekshir**: `User.role` is mostly ignored. Authorization uses class-level checks (`Class.teacherId`, `Enrollment.role`). Anyone can create classes, join classes, be a teacher in one and student in another.
+- **bahola**: `User.role` is mostly ignored. Authorization uses class-level checks (`Class.teacherId`, `Enrollment.role`). Anyone can create classes, join classes, be a teacher in one and student in another.
 - **maktab**: `User.role` is strictly enforced. Only `DIRECTOR` can create classes. `TEACHER`/`STUDENT` roles gate access. Middleware redirects non-directors away from `/director` pages.
 
 ### Class Creation
-- **teztekshir** (`app/api/classes/route.ts`): Any authenticated user can create a class. Only directors can assign a different `teacherId`.
+- **bahola** (`app/api/classes/route.ts`): Any authenticated user can create a class. Only directors can assign a different `teacherId`.
 - **maktab**: Only directors can create classes (`creator.role !== "DIRECTOR"` check). Directors see all school classes, not just their own.
 
 ### Director Dashboard
-- **teztekshir**: Basic director pages with standard components.
+- **bahola**: Basic director pages with standard components.
 - **maktab**: Heavily customized director dashboard (1154+ lines in class page alone), extended API endpoints for school analytics, much richer UI.
 
 ### Middleware
-- **teztekshir**: Only redirects DIRECTOR users to `/director` dashboard.
+- **bahola**: Only redirects DIRECTOR users to `/director` dashboard.
 - **maktab**: Also redirects non-DIRECTOR users AWAY from `/director` pages.
 
 ### Landing Page, Auth Pages, Onboarding
 Each has platform-specific branding, copy, and flows.
 
 ### Account Boundary
-- Users with `User.schoolId != null` are treated as **maktab** accounts and must sign in on `https://maktab.teztekshir.uz`.
-- Users with `User.schoolId == null` are treated as **teztekshir** accounts and must sign in on `https://teztekshir.uz`.
+- Users with `User.schoolId != null` are treated as **maktab** accounts and must sign in on `https://maktab.bahola.uz`.
+- Users with `User.schoolId == null` are treated as **bahola** accounts and must sign in on `https://bahola.uz`.
 - This boundary is enforced in:
   - NextAuth credential / Google / auto-login flows
   - middleware redirects for protected routes
@@ -92,17 +92,17 @@ Each platform has unique uncommitted customizations. Wholesale copying destroys 
 
 ### 3. Apply Fixes Manually, Not by Copy
 When a shared file needs the same fix in both:
-1. Fix the file in `/home/ubuntu/teztekshir`
+1. Fix the file in `/home/ubuntu/bahola`
 2. Read the corresponding file in `/home/ubuntu/maktab`
 3. Apply the equivalent edit (the surrounding code may differ slightly)
 4. Build and restart each independently
 
 ### 4. Build and Deploy Independently
 ```bash
-# teztekshir.uz
-cd /home/ubuntu/teztekshir && npm run build && pm2 restart assessment-checker
+# bahola.uz
+cd /home/ubuntu/bahola && npm run build && pm2 restart assessment-checker
 
-# maktab.teztekshir.uz
+# maktab.bahola.uz
 cd /home/ubuntu/maktab && npm run build && pm2 restart maktab
 ```
 
@@ -112,13 +112,13 @@ Since both share the same database, any `prisma db push` or migration runs again
 ### 6. When in Doubt, Ask
 If unsure whether a file is shared or platform-specific, check:
 ```bash
-diff /home/ubuntu/teztekshir/<file> /home/ubuntu/maktab/<file>
+diff /home/ubuntu/bahola/<file> /home/ubuntu/maktab/<file>
 ```
 If the diff is small (just the bug you're fixing), it's shared logic. If the diff is large with completely different implementations, it's platform-specific.
 
-## Known Pending: Bugs Fixed in teztekshir but NOT in maktab
+## Known Pending: Bugs Fixed in bahola but NOT in maktab
 
-As of 2026-02-25, the following bugs were fixed in teztekshir only. They still exist in maktab:
+As of 2026-02-25, the following bugs were fixed in bahola only. They still exist in maktab:
 
 1. **ai-grade maxScore=0** when totalMarks=0 (saves 0 instead of AI result)
 2. **ai-grade credit race** — non-atomic `hasCredits` + late `deductCredit`

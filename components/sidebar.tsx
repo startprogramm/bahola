@@ -453,17 +453,17 @@ export function Sidebar() {
 
         <div className="mt-auto px-3 pb-3">
           <a
-            href="https://t.me/teztekshirbot"
+            href="https://t.me/baholabot"
             target="_blank"
             rel="noopener noreferrer"
             className={cn(
               "no-underline flex items-center gap-3 px-3 py-3 rounded-full transition-all duration-200 text-foreground/70 hover:bg-foreground/10 hover:text-foreground font-semibold",
               isCollapsed && "justify-center px-3"
             )}
-            title="@teztekshirbot"
+            title="@baholabot"
           >
             <Send className="h-5 w-5 shrink-0" />
-            {!isCollapsed && <span className="text-sm font-semibold whitespace-nowrap">@teztekshirbot</span>}
+            {!isCollapsed && <span className="text-sm font-semibold whitespace-nowrap">@baholabot</span>}
           </a>
         </div>
       </aside>
@@ -559,14 +559,14 @@ export function Sidebar() {
 
             <div className="mt-auto px-3 pb-3">
               <a
-                href="https://t.me/teztekshirbot"
+                href="https://t.me/baholabot"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="no-underline flex items-center gap-3 px-3 py-3 rounded-full transition-all duration-200 text-foreground/70 hover:bg-foreground/10 hover:text-foreground font-semibold"
                 onClick={() => setMobileOpen(false)}
               >
                 <Send className="h-5 w-5 shrink-0" />
-                <span className="text-sm font-semibold whitespace-nowrap">@teztekshirbot</span>
+                <span className="text-sm font-semibold whitespace-nowrap">@baholabot</span>
               </a>
             </div>
           </aside>

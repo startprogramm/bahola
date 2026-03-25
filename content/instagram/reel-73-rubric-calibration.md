@@ -11,7 +11,7 @@ duration: 45s
 # Reel 73 — Two Teachers Calibrate a Shared Rubric (45 Seconds)
 
 ## Concept
-Two teachers from the same school (or subject) use TezTekshir data to align their grading rubrics. Shows peer collaboration made possible by shared AI data. Core insight: when two teachers grade the same subject, TezTekshir data helps them spot inconsistencies and agree on standards. Bilingual — Uzbek + Russian.
+Two teachers from the same school (or subject) use Bahola data to align their grading rubrics. Shows peer collaboration made possible by shared AI data. Core insight: when two teachers grade the same subject, Bahola data helps them spot inconsistencies and agree on standards. Bilingual — Uzbek + Russian.
 
 ## Hook (0–4s)
 Split screen: two phones side by side.
@@ -54,33 +54,33 @@ Bold overlay: **"Ikkita o'qituvchi, bitta sinf — nima farq bor?"** / **"Два
 - Overlay (RU): "Совместная работа = справедливые оценки"
 
 **[42–45s] — End card**
-- Text: **"TezTekshir — maktabingiz uchun"**
-- TezTekshir logo + "teztekshir.uz"
+- Text: **"Bahola — maktabingiz uchun"**
+- Bahola logo + "bahola.uz"
 
 ## Caption
 ```
 Ikkita o'qituvchi bir xil sinf uchun rubrika tuzganda — nima bo'ladi? 👇
 
-TezTekshir ma'lumotlari yordamida farqni topdik va bartaraf etdik.
+Bahola ma'lumotlari yordamida farqni topdik va bartaraf etdik.
 
 ✅ Bitta standart
 ✅ Adolatli baholar
 ✅ Barcha o'quvchilar uchun bir xil
 
-Bu hamkorlik — TezTekshir bilan osonroq.
+Bu hamkorlik — Bahola bilan osonroq.
 
 ---
 
 Когда двое учителей видят одни и те же данные — оценки становятся честнее.
 
-#TezTekshir #Calibration #AIGrading #OʻqituvchilarJamoasi #ЦифроваяШкола
+#Bahola #Calibration #AIGrading #OʻqituvchilarJamoasi #ЦифроваяШкола
 ```
 
 ## Production Notes
 - Two teachers should ideally be from the same school/subject (math, Uzbek language, etc.)
-- Screen recordings: use real TezTekshir data — anonymize student names
+- Screen recordings: use real Bahola data — anonymize student names
 - Split-screen segments: clean dividing line, both sides readable
 - Voiceover alternates: Uzbek for steps 1-2, Russian for step 3 — shows bilingual community
 - Subtitles recommended (both languages) — many viewers watch without sound
 - Music: collaborative, calm — think "coworking" vibe, not dramatic
-- End card: TezTekshir logo + "teztekshir.uz" + subscribe CTA
+- End card: Bahola logo + "bahola.uz" + subscribe CTA

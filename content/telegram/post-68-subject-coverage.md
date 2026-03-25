@@ -6,11 +6,11 @@ campaign: feature-deep-dive
 
 ## 🇺🇿 Uzbek
 
-📚 TezTekshir faqat bitta fan uchun emas — barcha fanlar uchun.
+📚 Bahola faqat bitta fan uchun emas — barcha fanlar uchun.
 
 Ko'p o'qituvchilar: "Bu faqat matematika uchunmi?" — deb so'raydi.
 
-Yo'q. TezTekshir quyidagi fanlar bo'yicha ishlaydi:
+Yo'q. Bahola quyidagi fanlar bo'yicha ishlaydi:
 
 **🔢 Matematika** — hisob-kitob, tenglamalar, geometriya masalalari
 **🔬 Tabiiy fanlar** — biologiya, kimyo, fizika
@@ -26,7 +26,7 @@ Bir platforma. Barcha o'qituvchilar. Barcha fanlar.
 
 🔗 teztek.uz
 
-#TezTekshir #BarchaFanlar #AIGrading #OqituvchiUchun #PresidentSchool #UzbekTaʼlim #Matematika #Biologiya
+#Bahola #BarchaFanlar #AIGrading #OqituvchiUchun #PresidentSchool #UzbekTaʼlim #Matematika #Biologiya
 
 ---
 
@@ -36,11 +36,11 @@ Bir platforma. Barcha o'qituvchilar. Barcha fanlar.
 
 ## 🇷🇺 Russian
 
-📚 TezTekshir — не только для одного предмета. Для всех.
+📚 Bahola — не только для одного предмета. Для всех.
 
 Многие учителя спрашивают: «Это только для математики?»
 
-Нет. TezTekshir работает со следующими предметами:
+Нет. Bahola работает со следующими предметами:
 
 **🔢 Математика** — вычисления, уравнения, задачи по геометрии
 **🔬 Естественные науки** — биология, химия, физика
@@ -56,4 +56,4 @@ Bir platforma. Barcha o'qituvchilar. Barcha fanlar.
 
 🔗 teztek.uz
 
-#TezTekshir #ВсеПредметы #AIGrading #ДляУчителей #PresidentSchool #Математика #Биология
+#Bahola #ВсеПредметы #AIGrading #ДляУчителей #PresidentSchool #Математика #Биология

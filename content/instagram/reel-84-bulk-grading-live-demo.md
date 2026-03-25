@@ -11,7 +11,7 @@ duration: 50s
 # Reel 84 — Teacher Grades an Entire Class in Under 5 Minutes (Live Demo)
 
 ## Concept
-Raw, real-time demonstration. A teacher sits down with a full class set of 25 student submissions — and the audience watches TezTekshir process them all in under 5 minutes. No talking head, no slideshow. Just the screen, a timer in the corner, and the satisfying sight of red "PENDING" statuses flipping to green "GRADED" one by one. The message is visceral: this is real, this is fast, and you're missing out if you're still grading by hand.
+Raw, real-time demonstration. A teacher sits down with a full class set of 25 student submissions — and the audience watches Bahola process them all in under 5 minutes. No talking head, no slideshow. Just the screen, a timer in the corner, and the satisfying sight of red "PENDING" statuses flipping to green "GRADED" one by one. The message is visceral: this is real, this is fast, and you're missing out if you're still grading by hand.
 
 ## Hook (0–5s)
 Timer starts: **00:00**
@@ -22,7 +22,7 @@ Teacher's finger hovers over "Ishlarni yuklash" button. Taps.
 ## Scene Breakdown
 
 **[0–8s] — Yuklash / Загрузка**
-- Teacher opens the assignment in TezTekshir
+- Teacher opens the assignment in Bahola
 - Taps "Ishlarni yuklash" → device file picker opens
 - Selects all 25 student work photos in one go (hold-select, bulk select visible)
 - Hits "Yuborish" — upload progress bar appears
@@ -60,14 +60,14 @@ Teacher's finger hovers over "Ishlarni yuklash" button. Taps.
 - Final timer freeze: **04:41**
 - Bold (UZ): **"4 daqiqa 41 soniya. 25 ta o'quvchi baholandi."**
 - Bold (RU): **"4 минуты 41 секунда. 25 учеников проверено."**
-- TezTekshir logo + "teztekshir.uz"
+- Bahola logo + "bahola.uz"
 
 ## Caption
 
 ```
 ⏱️ 25 ta o'quvchi ishi. 4 daqiqa 41 soniya.
 
-Bu mubolag'a emas — bu TezTekshir'da ommaviy baholash.
+Bu mubolag'a emas — bu Bahola'da ommaviy baholash.
 
 1. Barcha ishlarni bir vaqtda yuklaysiz
 2. AI har birini avtomatik baholaydi
@@ -75,15 +75,15 @@ Bu mubolag'a emas — bu TezTekshir'da ommaviy baholash.
 4. "Hammasini tasdiqlash" — va tayyor
 
 Qo'lda tekshirsangiz: 2–3 soat.
-TezTekshir bilan: 5 daqiqadan kam.
+Bahola bilan: 5 daqiqadan kam.
 
-Hali sinab ko'rmadingizmi? 👉 teztekshir.uz
+Hali sinab ko'rmadingizmi? 👉 bahola.uz
 
 ---
 
 ⏱️ 25 работ за 4 минуты 41 секунду.
 
-Не преувеличение — это пакетная оценка в TezTekshir.
+Не преувеличение — это пакетная оценка в Bahola.
 
 1. Загружаете все работы сразу
 2. AI автоматически проверяет каждую
@@ -91,16 +91,16 @@ Hali sinab ko'rmadingizmi? 👉 teztekshir.uz
 4. «Подтвердить всё» — и готово
 
 Вручную: 2–3 часа.
-С TezTekshir: меньше 5 минут.
+С Bahola: меньше 5 минут.
 
-Попробуйте сейчас 👉 teztekshir.uz
+Попробуйте сейчас 👉 bahola.uz
 
-#TezTekshir #OmmaviyBaholash #AIGrading #TeacherLife #VaqtTejash #BulkGrading #PresidentialSchool #ЭкономияВремени
+#Bahola #OmmaviyBaholash #AIGrading #TeacherLife #VaqtTejash #BulkGrading #PresidentialSchool #ЭкономияВремени
 ```
 
 ## Production Notes
 - The **timer in the corner is non-negotiable** — it's the proof. Show it continuously from 00:00 to 04:41.
-- Screen recording of real TezTekshir UI preferred. Anonymize student names (use initials or placeholder names).
+- Screen recording of real Bahola UI preferred. Anonymize student names (use initials or placeholder names).
 - The cascade of ✅ BAHOLANDI statuses is the visual payoff — use a satisfying "pop" sound per flip or a subtle chime sequence.
 - No voiceover needed — let the timer and overlays tell the story.
 - Teacher's hands visible on phone/tablet — keeps it grounded and human.

@@ -11,7 +11,7 @@ duration: 45s
 # Reel 76 — Parent Sees the Grade (45 Seconds)
 
 ## Concept
-Told entirely from a parent's POV. They receive a link from the teacher, tap it on their phone, and see a full AI-explained result — no login, no app, no confusion. Warm, relatable, emotionally resonant. Ends with the parent nodding, satisfied. Targets teachers who want to show parents why TezTekshir builds family trust.
+Told entirely from a parent's POV. They receive a link from the teacher, tap it on their phone, and see a full AI-explained result — no login, no app, no confusion. Warm, relatable, emotionally resonant. Ends with the parent nodding, satisfied. Targets teachers who want to show parents why Bahola builds family trust.
 
 ## Hook (0–5s)
 Close-up of a phone screen. Notification-style animation: "O'qituvchi sizga baho natijasini ulashdi."
@@ -29,7 +29,7 @@ Bold overlay: **"Ota-ona yangi SMS olmadi. U haqiqiy natijani ko'rdi."**
 **[7–18s] — Havola keldi / Ссылка пришла**
 - Teacher hand on phone — tap "Ulash / Поделиться"
 - Parent phone vibrates
-- Parent opens link — TezTekshir result page loads instantly
+- Parent opens link — Bahola result page loads instantly
 - Screen animation shows: student name (blurred), score "18/20", AI feedback breakdown
 - Overlay (UZ): "Baho: 18/20 ✅"
 - Overlay (UZ): "AI izohi: nima to'g'ri, nima yo'q"
@@ -51,9 +51,9 @@ Bold overlay: **"Ota-ona yangi SMS olmadi. U haqiqiy natijani ko'rdi."**
 - No phone call. No back-and-forth. Just trust.
 
 **[40–45s] — End card**
-- Bold: **"TezTekshir — oila bilan ishonch"**
-- Subtext (RU): "TezTekshir — доверие с семьёй"
-- TezTekshir logo + "teztekshir.uz"
+- Bold: **"Bahola — oila bilan ishonch"**
+- Subtext (RU): "Bahola — доверие с семьёй"
+- Bahola logo + "bahola.uz"
 
 ## Caption
 ```
@@ -66,7 +66,7 @@ Qo'ng'iroq yo'q. Savol yo'q. Faqat:
 
 Siz ulashmoqchimi? Bir teginish. Ulashmoqchimassiz? Hech kim ko'rmaydi.
 
-TezTekshir — shaffoflik, lekin faqat siz xohlagan payt.
+Bahola — shaffoflik, lekin faqat siz xohlagan payt.
 
 ---
 
@@ -77,14 +77,14 @@ TezTekshir — shaffoflik, lekin faqat siz xohlagan payt.
 📝 Что правильно, где ошибка — объяснение AI
 🔗 Одна ссылка — этого достаточно
 
-👉 teztekshir.uz — бесплатно
+👉 bahola.uz — бесплатно
 
-#TezTekshir #OtaOna #BahoShaffof #AIbaholash #UzbekMaktab #РодителиУзбекистан #ПрозрачностьОценок
+#Bahola #OtaOna #BahoShaffof #AIbaholash #UzbekMaktab #РодителиУзбекистан #ПрозрачностьОценок
 ```
 
 ## Production Notes
 - Parent actor: warm, relatable — 30s–40s, Uzbek or Russian-speaking
-- Phone screen must be real TezTekshir result page (blur student name)
+- Phone screen must be real Bahola result page (blur student name)
 - No fabricated scores — use real example with consent or test account
 - Emotional arc: worry → curiosity → relief → trust
 - Music: light, hopeful — domestic warmth, not corporate

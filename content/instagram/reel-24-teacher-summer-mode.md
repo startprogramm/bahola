@@ -12,7 +12,7 @@ status: draft
 A teacher reclines on a patio chair in summer clothes, sunglasses on, iced drink in hand. Phone face-up on the armrest. **Text overlay:** *"Yozgi ta'til... lekin eng aqlli o'qituvchilar hech qachon to'xtamaydi"*
 
 ## Visual Sequence (2–20s)
-- **2–5s:** Close-up of phone screen — TezTekshir dashboard open, previewing saved assessment templates. Soft smile from the teacher.
+- **2–5s:** Close-up of phone screen — Bahola dashboard open, previewing saved assessment templates. Soft smile from the teacher.
 - **5–10s:** Split screen: left = teacher relaxing; right = animated icons showing "Auto-grading ✓", "Mark scheme saved ✓", "Reports ready ✓".
 - **10–15s:** Teacher taps through the app with one finger while sipping the drink. Screen shows a graded test result.
 - **15–20s:** Teacher sets the phone down. Looks to camera, gives a knowing nod. **Text overlay fades in:** *"Keyingi yil uchun allaqachon tayyor"*
@@ -20,9 +20,9 @@ A teacher reclines on a patio chair in summer clothes, sunglasses on, iced drink
 ## Caption (Uzbek)
 > Yozgi ta'til — dam olish uchun. Lekin eng yaxshi o'qituvchilar keyingi yil uchun allaqachon o'ylashmoqda 💡
 >
-> TezTekshir bilan baholash shablonlari tayyor, natijalar saqlanadi, va yangi yil birinchi kuni — siz tayyor bo'lasiz.
+> Bahola bilan baholash shablonlari tayyor, natijalar saqlanadi, va yangi yil birinchi kuni — siz tayyor bo'lasiz.
 >
-> #TezTekshir #OzbekOqituvchi #Yozgi #AqlliBaholash #Maktab2026
+> #Bahola #OzbekOqituvchi #Yozgi #AqlliBaholash #Maktab2026
 
 ## Audio
 Upbeat, lo-fi summer instrumental. Relaxed but motivated energy. Volume: medium background.

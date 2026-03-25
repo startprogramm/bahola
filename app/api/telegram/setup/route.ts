@@ -46,7 +46,7 @@ export async function POST(_req: NextRequest) {
         return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
     }
 
-    const baseUrl = process.env.NEXTAUTH_URL || "https://teztekshir.uz";
+    const baseUrl = process.env.NEXTAUTH_URL || "https://bahola.uz";
     const webhookUrl = `${baseUrl}/api/telegram/webhook`;
     const result = await setWebhook(webhookUrl);
     return NextResponse.json(result);

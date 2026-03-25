@@ -32,7 +32,7 @@ export default async function AuthLayout({
     return (
       <div className="min-h-screen flex flex-col items-center justify-center bg-gray-50">
         <div className="w-full max-w-md px-4 animate-fade-in-up">{children}</div>
-        <p className="mt-6 text-xs text-gray-400">maktab.teztekshir.uz</p>
+        <p className="mt-6 text-xs text-gray-400">maktab.bahola.uz</p>
       </div>
     );
   }

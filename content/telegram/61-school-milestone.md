@@ -6,11 +6,11 @@ campaign: social-proof-network-growth
 
 ## 🇺🇿 Uzbek
 
-🏫 Yangilik: TezTekshir endi bir nechta Prezident maktabida ishlatilmoqda.
+🏫 Yangilik: Bahola endi bir nechta Prezident maktabida ishlatilmoqda.
 
 Bu raqam oshib bormoqda. Har hafta yangi o'qituvchilar platformaga qo'shilmoqda — va o'z sinflari uchun aqlli, tezkor baholash tizimini yo'lga qo'ymoqda.
 
-Nima uchun maktablar TezTekshirni tanlayapti?
+Nima uchun maktablar Baholani tanlayapti?
 
 ✅ Baholash vaqti 70% gacha kamaydi
 ✅ Har bir o'quvchi uchun individual izoh
@@ -21,9 +21,9 @@ Bu trend emas. Bu standartga aylanmoqda.
 
 ---
 
-📢 Sizning maktabingiz TezTekshir ishlatadimi? Direktoringizga taklif qiling!
+📢 Sizning maktabingiz Bahola ishlatadimi? Direktoringizga taklif qiling!
 
-#TezTekshir #PresidentSchool #OqituvchiUchun #MaktabTaraqqiyoti #AIGrading
+#Bahola #PresidentSchool #OqituvchiUchun #MaktabTaraqqiyoti #AIGrading
 
 ---
 
@@ -33,11 +33,11 @@ Bu trend emas. Bu standartga aylanmoqda.
 
 ## 🇷🇺 Russian
 
-🏫 Новость: TezTekshir теперь используется в нескольких Президентских школах.
+🏫 Новость: Bahola теперь используется в нескольких Президентских школах.
 
 Это число растёт. Каждую неделю новые учителя подключаются к платформе — и выстраивают умную, быструю систему оценивания для своих классов.
 
-Почему школы выбирают TezTekshir?
+Почему школы выбирают Bahola?
 
 ✅ Время проверки сокращается до 70%
 ✅ Индивидуальная обратная связь для каждого ученика
@@ -48,6 +48,6 @@ Bu trend emas. Bu standartga aylanmoqda.
 
 ---
 
-📢 Ваша школа использует TezTekshir? Порекомендуйте директору!
+📢 Ваша школа использует Bahola? Порекомендуйте директору!
 
-#TezTekshir #PresidentSchool #ОбразованиеУзбекистан #AIGrading #МектабТараqqiyoti
+#Bahola #PresidentSchool #ОбразованиеУзбекистан #AIGrading #МектабТараqqiyoti

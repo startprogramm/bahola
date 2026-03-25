@@ -11,13 +11,13 @@ duration: 45s
 # Reel 81 — The Director's Green Board (45 Seconds)
 
 ## Concept
-A director opens TezTekshir at 20:45 — 15 minutes before the eMaktab deadline. Instead of anxious phone calls to teachers, they see a live compliance board: all green. Every teacher has submitted. This reel is about confidence replacing anxiety — and showing directors exactly what peace of mind looks like as a data dashboard. Secondary hook: it's also an accountability tool without being a surveillance tool.
+A director opens Bahola at 20:45 — 15 minutes before the eMaktab deadline. Instead of anxious phone calls to teachers, they see a live compliance board: all green. Every teacher has submitted. This reel is about confidence replacing anxiety — and showing directors exactly what peace of mind looks like as a data dashboard. Secondary hook: it's also an accountability tool without being a surveillance tool.
 
 ## Hook (0–5s)
 Director's phone screen. Clock shows 20:45.
 Bold overlay: **"15 daqiqa qoldi. Qaysi o'qituvchilar hali yuborishmadi?"**
 Subtext (RU): **"До дедлайна 15 минут. Кто из учителей ещё не отправил?"**
-Cut to: Director opens TezTekshir. Breath held.
+Cut to: Director opens Bahola. Breath held.
 
 ## Scene Breakdown
 
@@ -29,7 +29,7 @@ Cut to: Director opens TezTekshir. Breath held.
 - Voiceover (UZ): "Hammasi vaqtida topshirildimi?"
 
 **[7–17s] — Panel ochiladi / Панель открывается**
-- Director opens TezTekshir compliance view
+- Director opens Bahola compliance view
 - List of teachers populates with status indicators:
   - 🟢 Aliyeva N. — 20:18 sinxronlashtirildi
   - 🟢 Karimov S. — 20:31 sinxronlashtirildi
@@ -41,7 +41,7 @@ Cut to: Director opens TezTekshir. Breath held.
 **[17–27s] — 🟡 Bir muammo / Одна проблема**
 - Director spots the one yellow status: Rashidov T.
 - Director taps a "Eslatma yuborish" (Send Reminder) button
-- Rashidov's phone lights up — brief cut — he opens TezTekshir, taps export
+- Rashidov's phone lights up — brief cut — he opens Bahola, taps export
 - His status turns 🟢 — 20:52
 - Overlay (UZ): "Eslatma — 1 tap. Muammo — hal qilindi."
 - Overlay (RU): "Напоминание — 1 тап. Проблема решена."
@@ -62,16 +62,16 @@ Cut to: Director opens TezTekshir. Breath held.
 - Overlay (RU): "Вы выявляете проблему — не людей"
 
 **[42–45s] — End card**
-- Bold: **"TezTekshir — direktor uchun xotirjamlik."**
-- Subtext (RU): "TezTekshir — спокойствие для директора."
-- TezTekshir logo + "teztekshir.uz"
+- Bold: **"Bahola — direktor uchun xotirjamlik."**
+- Subtext (RU): "Bahola — спокойствие для директора."
+- Bahola logo + "bahola.uz"
 
 ## Caption
 
 ```
 ⏰ Soat 20:45. 15 daqiqa qoldi. Hammasi tayyor mi?
 
-TezTekshir direktor panelida bu savol ortiq stress emas.
+Bahola direktor panelida bu savol ortiq stress emas.
 
 🟢 Kim yubordi — ko'rinadi
 🟡 Kim hali kutmoqda — ko'rinadi
@@ -85,20 +85,20 @@ Nazorat emas. Ko'mak.
 
 ⏰ 20:45. 15 минут до дедлайна. Все успели?
 
-С панелью TezTekshir для директоров — этот вопрос больше не вызывает тревогу.
+С панелью Bahola для директоров — этот вопрос больше не вызывает тревогу.
 
 Видите, кто отправил. Видите, кто ждёт. Одно нажатие — напоминание отправлено.
 
 Дедлайн — соблюдён. Нервы — целы.
 
-👉 teztekshir.uz — для директоров президентских школ
+👉 bahola.uz — для директоров президентских школ
 
-#TezTekshir #eMaktab #SchoolDirector #MaktabBoshqaruvi #DigitalSchool #DireкторМактаб #ОценкиВСрок
+#Bahola #eMaktab #SchoolDirector #MaktabBoshqaruvi #DigitalSchool #DireкторМактаб #ОценкиВСрок
 ```
 
 ## Production Notes
 - Director actor: confident, mid-30s to 50s, natural authority — this person is calm, not stressed
-- Compliance board: real TezTekshir interface with anonymized teacher names
+- Compliance board: real Bahola interface with anonymized teacher names
 - The 🟡 → 🟢 moment is the key payoff — make it satisfying and fast
 - Clock must be clearly visible throughout — time pressure is the narrative engine
 - Tone: reassuring and empowering, not authoritarian — "see, not police"

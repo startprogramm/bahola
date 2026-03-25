@@ -11,10 +11,10 @@ duration: 40s
 # Reel 82 — New Teacher, First Class, 5 Minutes (40 Seconds)
 
 ## Concept
-A brand-new teacher opens TezTekshir for the first time and is fully set up — class created, assessment ready, invite link sent — in under 5 minutes. This is the "wow, that was easy" reel targeting directors who want to show new recruits how frictionless onboarding is, and teachers who are hesitant to try a new tool. No technical jargon. Just hands, a screen, and a timer ticking down to a satisfying finish.
+A brand-new teacher opens Bahola for the first time and is fully set up — class created, assessment ready, invite link sent — in under 5 minutes. This is the "wow, that was easy" reel targeting directors who want to show new recruits how frictionless onboarding is, and teachers who are hesitant to try a new tool. No technical jargon. Just hands, a screen, and a timer ticking down to a satisfying finish.
 
 ## Hook (0–5s)
-Phone screen: TezTekshir welcome/register page, timer in corner showing 0:00.
+Phone screen: Bahola welcome/register page, timer in corner showing 0:00.
 Bold overlay: **"Yangi o'qituvchi. Birinchi kun. 5 daqiqa."**
 Subtext (RU): **"Новый учитель. Первый день. 5 минут."**
 Timer starts. Expectant pause.
@@ -22,7 +22,7 @@ Timer starts. Expectant pause.
 ## Scene Breakdown
 
 **[0–6s] — Kirish / Вход**
-- Teacher opens TezTekshir app on phone — fresh account, dashboard is empty
+- Teacher opens Bahola app on phone — fresh account, dashboard is empty
 - Quick registration form: name, email, school
 - Overlay (UZ): "Ro'yxatdan o'tish — 60 soniya"
 - Overlay (RU): "Регистрация — 60 секунд"
@@ -54,7 +54,7 @@ Timer starts. Expectant pause.
 - Timer stops: 4:52. Big checkmark.
 - Bold (UZ): **"5 daqiqa. Tayyor. Endi ishlaydi."**
 - Bold (RU): **"5 минут. Готово. Работает."**
-- TezTekshir logo + "teztekshir.uz"
+- Bahola logo + "bahola.uz"
 
 ## Caption
 
@@ -65,7 +65,7 @@ Ro'yxatdan o'tish → sinf → topshiriq → taklif havola.
 Har bir qadam — 1-2 daqiqa.
 
 Yangi yil, yangi o'qituvchi, yangi boshlash.
-TezTekshir bilan onboarding — murakkab emas.
+Bahola bilan onboarding — murakkab emas.
 
 ---
 
@@ -76,14 +76,14 @@ TezTekshir bilan onboarding — murakkab emas.
 
 Новый учитель в вашей школе? Покажите ему это видео.
 
-👉 teztekshir.uz — бесплатно
+👉 bahola.uz — бесплатно
 
-#TezTekshir #YangiOʻqituvchi #НовыйУчитель #OnboardingOson #DigitalTeacher #UzbekMaktab #PresidentsSchool
+#Bahola #YangiOʻqituvchi #НовыйУчитель #OnboardingOson #DigitalTeacher #UzbekMaktab #PresidentsSchool
 ```
 
 ## Production Notes
 - Timer visible in corner throughout — this is the narrative backbone, don't hide it
-- Show real TezTekshir UI — clean account, no test garbage data visible
+- Show real Bahola UI — clean account, no test garbage data visible
 - Teacher hands only — no face needed; all attention on the screen flow
 - Pace is fast but comfortable — no rushed editing, just efficient steps
 - Use subtle success sounds: tap, save, notification ping — reward each step

@@ -9,7 +9,7 @@ languages: [uz, ru]
 
 ## Uzbek
 
-🔭 **2027 yilda TezTekshir yanada kuchli bo'ladi**
+🔭 **2027 yilda Bahola yanada kuchli bo'ladi**
 
 Yangi yil oldidan sizga kichik bir sirni oshkor qilamiz 🤫
 
@@ -28,7 +28,7 @@ Biz o'qituvchilarga qulay, tezkor va ishonchli vosita yaratmoqdamiz — va bu is
 
 ## Русский
 
-🔭 **В 2027 году TezTekshir станет ещё мощнее**
+🔭 **В 2027 году Bahola станет ещё мощнее**
 
 Перед Новым годом — маленький секрет 🤫
 
@@ -43,4 +43,4 @@ Biz o'qituvchilarga qulay, tezkor va ishonchli vosita yaratmoqdamiz — va bu is
 
 В 2027 году вас ждут большие новости. С Новым годом! 🎆
 
-👉 teztekshir.uz
+👉 bahola.uz

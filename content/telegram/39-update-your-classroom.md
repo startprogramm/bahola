@@ -8,7 +8,7 @@ campaign: back-to-school
 
 🔄 Yangi yil — yangilangan darsxona!
 
-2026-2027 o'quv yili uchun TezTekshir ish maydoningizni yangilash uchun bir necha maslahat:
+2026-2027 o'quv yili uchun Bahola ish maydoningizni yangilash uchun bir necha maslahat:
 
 📁 O'tgan yilgi ma'lumotlarni arxivlang — tartib saqlaydi
 📚 Yangi fanlar va sinflar qo'shing
@@ -19,7 +19,7 @@ Bir marta sozlab qo'ysangiz — butun yil davomida rahmat aytasiz.
 
 💡 Darsxonangiz yangilandi — ish boshlansin!
 
-#TezTekshir #DarsxonaYangilash #Tayyorgarlik2026
+#Bahola #DarsxonaYangilash #Tayyorgarlik2026
 
 ---
 
@@ -27,7 +27,7 @@ Bir marta sozlab qo'ysangiz — butun yil davomida rahmat aytasiz.
 
 🔄 Новый год — обновлённый класс!
 
-Несколько шагов, чтобы освежить ваше рабочее пространство в TezTekshir к 2026-2027 учебному году:
+Несколько шагов, чтобы освежить ваше рабочее пространство в Bahola к 2026-2027 учебному году:
 
 📁 Заархивируйте прошлогодние данные — порядок помогает
 📚 Добавьте новые предметы и классы
@@ -38,4 +38,4 @@ Bir marta sozlab qo'ysangiz — butun yil davomida rahmat aytasiz.
 
 💡 Ваш класс обновлён — начинаем!
 
-#TezTekshir #ОбновитьКласс #Подготовка2026
+#Bahola #ОбновитьКласс #Подготовка2026

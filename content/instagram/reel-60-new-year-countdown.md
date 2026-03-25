@@ -1,8 +1,8 @@
-# Reel 60 — New Year Countdown: 3→2→1 → TezTekshir Logo Reveal
+# Reel 60 — New Year Countdown: 3→2→1 → Bahola Logo Reveal
 
 **Campaign:** Week 30 — New Year Countdown (Dec 28, 2026 – Jan 1, 2027)
 **Duration:** 15-20 seconds
-**Theme:** Animated countdown to 2027 with TezTekshir logo reveal — build excitement and brand association with the new year
+**Theme:** Animated countdown to 2027 with Bahola logo reveal — build excitement and brand association with the new year
 
 ---
 
@@ -21,10 +21,10 @@ Dark background. Large glowing number **"3"** fills the screen.
 | 0-2s | Full screen: glowing "3" on dark background | "2027 yilga..." | Tick — deep, cinematic |
 | 3-5s | Number morphs to "2" with light burst | "..." | Tick — louder |
 | 6-8s | Number morphs to "1" — screen brightens | "..." | Tick — loudest, anticipation builds |
-| 9-11s | Big flash of light, then TezTekshir logo emerges from center | "TezTekshir bilan tayyor!" | Burst/whoosh sound |
+| 9-11s | Big flash of light, then Bahola logo emerges from center | "Bahola bilan tayyor!" | Burst/whoosh sound |
 | 12-14s | Logo pulses with confetti particle animation | "2027 yil — yangi imkoniyatlar" | New year chime |
-| 15-17s | Fade to clean UI screenshot of TezTekshir dashboard | "Aqlli baholash davom etadi" | Soft music rise |
-| 18-20s | End card: teztekshir.uz + tagline | "Bepul sinab ko'ring" | Music fades |
+| 15-17s | Fade to clean UI screenshot of Bahola dashboard | "Aqlli baholash davom etadi" | Soft music rise |
+| 18-20s | End card: bahola.uz + tagline | "Bepul sinab ko'ring" | Music fades |
 
 ---
 
@@ -34,14 +34,14 @@ Dark background. Large glowing number **"3"** fills the screen.
 
 2027 yil keldi — va biz tayyor!
 
-TezTekshir bilan yangi yil yangi imkoniyatlar olib keladi:
+Bahola bilan yangi yil yangi imkoniyatlar olib keladi:
 ✅ Tezroq baholash
 📊 Aniq natijallar
 💬 Har bir o'quvchiga shaxsiy fikr-mulohaza
 
 Yangi yilingiz muborak bo'lsin, aziz o'qituvchilar! 🥂
 
-👉 teztekshir.uz — bepul sinab ko'ring
+👉 bahola.uz — bepul sinab ko'ring
 
 ---
 
@@ -51,20 +51,20 @@ Yangi yilingiz muborak bo'lsin, aziz o'qituvchilar! 🥂
 
 2027 год пришёл — и мы готовы!
 
-С TezTekshir новый год приносит новые возможности:
+С Bahola новый год приносит новые возможности:
 ✅ Быстрее проверять работы
 📊 Точные результаты
 💬 Персональная обратная связь каждому ученику
 
 С Новым годом, дорогие учителя! 🥂
 
-👉 teztekshir.uz — попробуйте бесплатно
+👉 bahola.uz — попробуйте бесплатно
 
 ---
 
 ## Hashtags
 
-#TezTekshir #YangiYil2027 #НовыйГод2027 #OʻqituvchilarUchun #AIBaholash #Uzbekistan #PresidentSchools #EdTech #NewYear #Countdown #UzbekEducation
+#Bahola #YangiYil2027 #НовыйГод2027 #OʻqituvchilarUchun #AIBaholash #Uzbekistan #PresidentSchools #EdTech #NewYear #Countdown #UzbekEducation
 
 ---
 
@@ -73,7 +73,7 @@ Cinematic countdown build — think dramatic ticking clock that crescendos into 
 
 ## Production Notes
 - The countdown should be animated, not live video — clean motion graphics
-- Colors: dark navy/black for countdown, then transition to TezTekshir brand colors (white/indigo) on logo reveal
+- Colors: dark navy/black for countdown, then transition to Bahola brand colors (white/indigo) on logo reveal
 - Logo reveal should feel like a celebration, not just a logo appearance
 - Confetti particles should be in brand colors
 - Keep text minimal — the countdown IS the content

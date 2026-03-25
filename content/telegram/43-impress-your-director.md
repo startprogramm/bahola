@@ -15,7 +15,7 @@ Hayoliy holat: direktor sinfingiz haqida so'raydi. Siz esa darhol:
 🏆 Eng yaxshi o'quvchilar ro'yxati
 📉 Qo'shimcha yordam kerak bo'lganlar
 
-Bularning barchasi TezTekshir panelida — hech qanday Excel, hech qanday qo'lda hisoblash yo'q.
+Bularning barchasi Bahola panelida — hech qanday Excel, hech qanday qo'lda hisoblash yo'q.
 
 Ma'lumotga asoslangan sinfni boshqa sinfdan ajratib turadigan narsa shu. Direktor hisobotlarni emas, natijalarni ko'radi.
 
@@ -23,7 +23,7 @@ Birinchi haftadanoq shunday o'qituvchi bo'ling.
 
 👉 Sinf natijalari panelingizni ulashing!
 
-#TezTekshir #MaʼlumotgaAsoslangan #Direktor #TaʼlimSifati
+#Bahola #MaʼlumotgaAsoslangan #Direktor #TaʼlimSifati
 
 ---
 
@@ -38,7 +38,7 @@ Birinchi haftadanoq shunday o'qituvchi bo'ling.
 🏆 Список лучших учеников
 📉 Кому нужна дополнительная помощь
 
-Всё это — в панели TezTekshir. Никакого Excel, никаких ручных подсчётов.
+Всё это — в панели Bahola. Никакого Excel, никаких ручных подсчётов.
 
 Именно это отличает класс на основе данных от всех остальных. Директор видит не отчёты — он видит результаты.
 
@@ -46,4 +46,4 @@ Birinchi haftadanoq shunday o'qituvchi bo'ling.
 
 👉 Поделитесь панелью результатов своего класса!
 
-#TezTekshir #НаОсновеДанных #Директор #КачествоОбразования
+#Bahola #НаОсновеДанных #Директор #КачествоОбразования

@@ -13,7 +13,7 @@ languages: [uz, ru]
 
 Yil oxiriga kelganda, bir narsani aniq aytish mumkin: sizning mehnatingizsiz ta'lim bo'lmaydi.
 
-Har bir dars, har bir baholangan ish, har bir o'quvchiga yozilgan izoh — bu sizning ko'rinmas mehnatingiz. Va biz — TezTekshir — bu mehnatni ozgina osonlashtirish uchun mavjudmiz.
+Har bir dars, har bir baholangan ish, har bir o'quvchiga yozilgan izoh — bu sizning ko'rinmas mehnatingiz. Va biz — Bahola — bu mehnatni ozgina osonlashtirish uchun mavjudmiz.
 
 Shu bayram mavsumida barcha o'qituvchilarga chin yurakdan minnatdorchilik bildiramiz. Siz shunchaki o'qituvchi emassiz — siz kelajak me'morisiz.
 
@@ -29,10 +29,10 @@ Bayramlaringiz muborak! 🎁🎊
 
 Заканчивается год — и мы хотим сказать вам главное: ваш труд имеет значение.
 
-Каждый урок, каждая проверенная работа, каждый отзыв для ученика — это ваш невидимый вклад в будущее. Мы в TezTekshir рады немного облегчить эту работу.
+Каждый урок, каждая проверенная работа, каждый отзыв для ученика — это ваш невидимый вклад в будущее. Мы в Bahola рады немного облегчить эту работу.
 
 В этот праздничный сезон — искренняя благодарность каждому учителю. Отдохните, зарядитесь, встретьте Новый год в тепле с близкими 🌟
 
 С праздниками! До встречи в 2027-м 🎁🎊
 
-👉 teztekshir.uz
+👉 bahola.uz

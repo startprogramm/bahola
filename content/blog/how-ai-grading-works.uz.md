@@ -1,10 +1,10 @@
 ---
 title: "Sun'iy intellekt baholash qanday ishlaydi: Rasmdan fikr-mulohazagacha bir necha soniyada"
 date: "2026-03-17"
-author: "TezTekshir jamoasi"
+author: "Bahola jamoasi"
 language: "uz"
 slug: "how-ai-grading-works"
-excerpt: "O'quvchi ishini topshirganda sahna ortida nima bo'lishiga qiziqasizmi? Mana TezTekshir sun'iy intellekt baholash tizimining oddiy tilda tushuntirishi — rasm yuklashdan batafsil fikr-mulohazagacha."
+excerpt: "O'quvchi ishini topshirganda sahna ortida nima bo'lishiga qiziqasizmi? Mana Bahola sun'iy intellekt baholash tizimining oddiy tilda tushuntirishi — rasm yuklashdan batafsil fikr-mulohazagacha."
 coverImage: "/blog/cover-how-ai-grading-works.png"
 theme: "indigo"
 ---
@@ -15,13 +15,13 @@ O'quvchi ishining fotosuratini yuklasa va bir necha soniyada ball hamda batafsil
 
 ## 1-qadam: Rasm yuklash va tayyorlash
 
-O'quvchi yozma ishini suratga oladi — bir sahifa yoki bir nechta. TezTekshir umumiy formatlardagi rasmlarni (PNG, JPG, WebP) qabul qiladi va sudrab tashlash, vaqtinchalik xotiradan joylashtirish va to'g'ridan-to'g'ri yuklashni qo'llab-quvvatlaydi. Katta fayllar tezlikni saqlash uchun avtomatik ravishda siqiladi.
+O'quvchi yozma ishini suratga oladi — bir sahifa yoki bir nechta. Bahola umumiy formatlardagi rasmlarni (PNG, JPG, WebP) qabul qiladi va sudrab tashlash, vaqtinchalik xotiradan joylashtirish va to'g'ridan-to'g'ri yuklashni qo'llab-quvvatlaydi. Katta fayllar tezlikni saqlash uchun avtomatik ravishda siqiladi.
 
-O'quvchi bir nechta sahifa yuklagan bo'lsa, TezTekshir har bir rasm haqiqiy tarkib sahifasi ekanligini (bo'sh yoki tasodifiy rasm emas) tekshirish uchun qayta ishlashdan oldin tezkor sun'iy intellekt skanini ishlatadi.
+O'quvchi bir nechta sahifa yuklagan bo'lsa, Bahola har bir rasm haqiqiy tarkib sahifasi ekanligini (bo'sh yoki tasodifiy rasm emas) tekshirish uchun qayta ishlashdan oldin tezkor sun'iy intellekt skanini ishlatadi.
 
 ## 2-qadam: OCR — Qo'l yozuvini o'qish
 
-Bu yerda asosiy ish boshlanadi. TezTekshir har bir rasmda optik belgilarni tanish (OCR) vazifasini bajarish uchun **Google Gemini'ning ko'ruv imkoniyatlaridan** foydalanadi.
+Bu yerda asosiy ish boshlanadi. Bahola har bir rasmda optik belgilarni tanish (OCR) vazifasini bajarish uchun **Google Gemini'ning ko'ruv imkoniyatlaridan** foydalanadi.
 
 Qo'l yozuvida qiynaladigao an'anaviy OCR vositalaridan farqli o'laroq, Gemini — bu kontekstni tushunadigan ko'p qirrali katta til modeli. U quyidagilarni bajara oladi:
 - Chalkash yoki qo'shma qo'l yozuvini o'qish
@@ -33,13 +33,13 @@ Natijada o'quvchi yozgan hamma narsaning matn transkripsiyasi hosil bo'ladi.
 
 ## 3-qadam: Javoblar sxemasini qayta ishlash
 
-Baholash amalga oshirilishidan oldin, TezTekshir to'g'ri javob qanday ko'rinishini tushunishi kerak. O'qituvchi vazifa yaratganda, javoblar sxemasini yuklaydi — bu PDF, Word hujjati, Excel jadvali yoki rasmlar bo'lishi mumkin. TezTekshir bu fayllarni ham OCR qilib, to'liq baholash mezonlarini matn shaklida ajratib oladi.
+Baholash amalga oshirilishidan oldin, Bahola to'g'ri javob qanday ko'rinishini tushunishi kerak. O'qituvchi vazifa yaratganda, javoblar sxemasini yuklaydi — bu PDF, Word hujjati, Excel jadvali yoki rasmlar bo'lishi mumkin. Bahola bu fayllarni ham OCR qilib, to'liq baholash mezonlarini matn shaklida ajratib oladi.
 
 Ushbu javoblar sxemasi matni sun'iy intellekt baholash uchun foydalanradigan manbasi hisoblanadi. U har bir vazifa uchun bir marta saqlanadi va har bir topshiriq uchun qayta ishlatiladi.
 
 ## 4-qadam: Sun'iy intellekt baholash — O'quvchi ishini javoblar sxemasi bilan solishtirish
 
-Endi asosiy baholash bosqichi. TezTekshir ikkala matnni ham — o'quvchining ajratib olingan javoblari va javoblar sxemasini — savol tuzilishi va ball taqsimoti bilan birga **Gemini'ga** yuboradi.
+Endi asosiy baholash bosqichi. Bahola ikkala matnni ham — o'quvchining ajratib olingan javoblari va javoblar sxemasini — savol tuzilishi va ball taqsimoti bilan birga **Gemini'ga** yuboradi.
 
 Sun'iy intellekt bilimli imtihon qabul qiluvchi kabi harakat qiladi. U:
 - Har bir o'quvchi javobini tegishli savolga moslashtiradi
@@ -60,7 +60,7 @@ Fikr-mulohaza o'qituvchi sinf uchun tanlagan tilda — o'zbek, rus yoki ingliz t
 
 ## Aniqlik haqida nima deyish mumkin?
 
-Sun'iy intellekt baholash aniq to'g'ri/noto'g'ri mezonlarga ega tuzilgan vazifalar uchun juda aniq (qisqa javoblar, ta'riflar, faktual savollar). Ochiq yoki ijodiy ishlar uchun TezTekshir o'qituvchilar moslashtirishi mumkin bo'lgan boshlang'ich nuqtani taqdim etadi.
+Sun'iy intellekt baholash aniq to'g'ri/noto'g'ri mezonlarga ega tuzilgan vazifalar uchun juda aniq (qisqa javoblar, ta'riflar, faktual savollar). Ochiq yoki ijodiy ishlar uchun Bahola o'qituvchilar moslashtirishi mumkin bo'lgan boshlang'ich nuqtani taqdim etadi.
 
 O'qituvchilar shuningdek **alohida savollarni qayta baholashlari** mumkin — agar sun'iy intellekt biror narsani o'tkazib yuborgan bo'lsa yoki o'quvchi qisman kredit haqiga loyiq bo'lsa, o'qituvchi ballni bekor qilishi va izoh qo'shishi mumkin. Barcha tuzatmalar shaffoflik uchun qayd etiladi.
 

@@ -21,7 +21,7 @@ Subtext (RU): **"Оценка — это не просто цифра."**
 ## Scene Breakdown
 
 **[0–6s] — Kutish / Ожидание**
-- Student submits photos of work in TezTekshir app — upload animation
+- Student submits photos of work in Bahola app — upload animation
 - Overlay (UZ): "Topshirdi. Kutmoqda."
 - Overlay (RU): "Отправил. Ждёт."
 - Quick time-lapse effect — phone notification arrives
@@ -49,9 +49,9 @@ Subtext (RU): **"Оценка — это не просто цифра."**
 - Student smiles — not embarrassed by the score, motivated by the feedback
 
 **[36–40s] — End card**
-- Bold: **"TezTekshir — o'quvchi uchun ham"**
-- Subtext (RU): "TezTekshir — и для ученика тоже"
-- TezTekshir logo + "teztekshir.uz"
+- Bold: **"Bahola — o'quvchi uchun ham"**
+- Subtext (RU): "Bahola — и для ученика тоже"
+- Bahola logo + "bahola.uz"
 
 ## Caption
 ```
@@ -64,7 +64,7 @@ AI izoh qildi:
 
 O'quvchi baho olmadi. U dars oldi.
 
-TezTekshir — baho beradi, tushuntiradi, o'stiradi.
+Bahola — baho beradi, tushuntiradi, o'stiradi.
 
 ---
 
@@ -77,14 +77,14 @@ AI объяснил:
 
 Ученик получил не только оценку. Он получил урок.
 
-👉 teztekshir.uz — бесплатно для школ
+👉 bahola.uz — бесплатно для школ
 
-#TezTekshir #AIFeedback #StudentGrowth #OquvchiBaholash #UzbekMaktab #ОбратнаяСвязьAI #ШколыУзбекистана
+#Bahola #AIFeedback #StudentGrowth #OquvchiBaholash #UzbekMaktab #ОбратнаяСвязьAI #ШколыУзбекистана
 ```
 
 ## Production Notes
 - Student actor: 14–17, relatable, not overly performative
-- Real TezTekshir feedback screen — blur/anonymize name, use test account score
+- Real Bahola feedback screen — blur/anonymize name, use test account score
 - Notebook writing scene adds authenticity — show active learning response
 - Tone: warm, growth-focused — avoid "caught out" or shame energy
 - Music: upbeat study-focus vibe — curious and motivated

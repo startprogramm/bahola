@@ -8,11 +8,11 @@ campaign: onboarding-easy-start
 
 🙋 Birinchi marta? Tajribangiz bo'lmasa ham — muammo emas.
 
-Ko'p o'qituvchilar TezTekshirni sinab ko'rishdan qo'rqishadi. "Men texnologiyadan unchalik tushunmayman" yoki "Boshqalar uchun mos, men uchun emas" deb o'ylashadi.
+Ko'p o'qituvchilar Baholani sinab ko'rishdan qo'rqishadi. "Men texnologiyadan unchalik tushunmayman" yoki "Boshqalar uchun mos, men uchun emas" deb o'ylashadi.
 
 Lekin haqiqat shuki:
 
-✅ Smartfondan foydalana olasizmi? TezTekshirdan ham foydalana olasiz.
+✅ Smartfondan foydalana olasizmi? Baholadan ham foydalana olasiz.
 ✅ Suratga olishni bilasizmi? Birinchi qadamni bajara olasiz.
 ✅ Internetga ulana olasizmi? Hammasi tayyor.
 
@@ -26,7 +26,7 @@ Bugun sinab ko'ring. Birinchi qadam — ro'yxatdan o'tish, u ham bepul.
 
 🔗 Bio'dagi havoladan.
 
-#TezTekshir #BoshlovchiUchun #OsonTaʼlim #AIGrading #OqituvchiHayoti #BirinchiQadam #PresidentSchool
+#Bahola #BoshlovchiUchun #OsonTaʼlim #AIGrading #OqituvchiHayoti #BirinchiQadam #PresidentSchool
 
 ---
 
@@ -38,11 +38,11 @@ Bugun sinab ko'ring. Birinchi qadam — ro'yxatdan o'tish, u ham bepul.
 
 🙋 Впервые? Нет опыта — не проблема.
 
-Многие учителя боятся пробовать TezTekshir. Думают: «Я не очень понимаю технологии» или «Это не для меня».
+Многие учителя боятся пробовать Bahola. Думают: «Я не очень понимаю технологии» или «Это не для меня».
 
 Но правда такова:
 
-✅ Умеете пользоваться смартфоном? Справитесь с TezTekshir.
+✅ Умеете пользоваться смартфоном? Справитесь с Bahola.
 ✅ Знаете, как сфотографировать? Первый шаг уже сделан.
 ✅ Можете подключиться к интернету? Всё готово.
 
@@ -56,4 +56,4 @@ Bugun sinab ko'ring. Birinchi qadam — ro'yxatdan o'tish, u ham bepul.
 
 🔗 Ссылка в Bio.
 
-#TezTekshir #ДляНачинающих #ПростоеОбучение #AIGrading #ЖизньУчителя #PresidentSchool
+#Bahola #ДляНачинающих #ПростоеОбучение #AIGrading #ЖизньУчителя #PresidentSchool

@@ -16,7 +16,7 @@ Har bir o'quvchi — o'z natijasini oldi.
 
 Va siz bularning hammasini — kamroq vaqt sarflab qildingiz.
 
-TezTekshir bilan birinchi semestrni boshlagan o'qituvchilar bugun bir narsani aytadi: *"Qaytib ketmoqchi emasman."*
+Bahola bilan birinchi semestrni boshlagan o'qituvchilar bugun bir narsani aytadi: *"Qaytib ketmoqchi emasman."*
 
 Chunki baholash endi yukmas emas — tizim.
 Chunki endi izoh tayyorlash uchun soatlab o'tirmaysiz.
@@ -26,8 +26,8 @@ Chunki o'quvchilaringiz javobni kutib o'tirmaydi.
 
 O'quv yili tugashi — yangi boshlashga tayyorlanish vaqti.
 
-Keyingi yilni TezTekshir bilan boshlang. **Bepul. Hoziroq.**
+Keyingi yilni Bahola bilan boshlang. **Bepul. Hoziroq.**
 
-👉 teztekshir.uz
+👉 bahola.uz
 
 O'qituvchi hamkasblaringizga ulashing 👇

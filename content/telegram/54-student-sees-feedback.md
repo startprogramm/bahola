@@ -20,7 +20,7 @@ Bu oddiy ball emas edi — bu aniq yo'l ko'rsatma edi. Kamola daftarini yana och
 
 O'qituvchilar — sizning o'quvchilaringiz ham bunday fikr-mulohazani ko'ryaptimi? 🤔
 
-#TezTekshir #OquvchiUchun #TeskariAloqa
+#Bahola #OquvchiUchun #TeskariAloqa
 
 ---
 

@@ -2,7 +2,7 @@
 /**
  * Dev Environment Health Check Script
  *
- * Checks both dev servers (teztekshir :4001, maktab :4002) for:
+ * Checks both dev servers (bahola :4001, maktab :4002) for:
  * - Server responsiveness (homepage, key pages)
  * - Static asset availability (landing images, uploads)
  * - API endpoint responsiveness
@@ -25,7 +25,7 @@ import path from "path";
 // ---------------------------------------------------------------------------
 
 const SERVERS = [
-  { name: "dev-teztekshir", baseUrl: "http://127.0.0.1:4001", mode: "teztekshir" },
+  { name: "dev-bahola", baseUrl: "http://127.0.0.1:4001", mode: "bahola" },
   { name: "dev-maktab", baseUrl: "http://127.0.0.1:4002", mode: "maktab" },
 ] as const;
 

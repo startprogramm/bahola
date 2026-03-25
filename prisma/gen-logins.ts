@@ -74,7 +74,7 @@ async function main() {
 
   lines.push("");
   lines.push("=".repeat(70));
-  lines.push("Website: https://maktab.teztekshir.uz");
+  lines.push("Website: https://maktab.bahola.uz");
   lines.push("Maktab kodi: PMGUL2025");
   lines.push("=".repeat(70));
 

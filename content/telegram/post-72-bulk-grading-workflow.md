@@ -10,7 +10,7 @@ campaign: product-depth
 
 Ko'p o'qituvchilar: "Men 30 ta ishni bir-bir yuklayman..." — deydi.
 
-Yo'q. TezTekshirda buni birdaniga qilish mumkin.
+Yo'q. Baholada buni birdaniga qilish mumkin.
 
 **Qanday ishlaydi:**
 
@@ -29,7 +29,7 @@ Siz natijalarni ko'rasiz.
 
 🔗 teztek.uz
 
-#TezTekshir #BulkGrading #AIBaholash #OqituvchiUchun #PresidentSchool #UzbekTaʼlim #VaqtTejash #OsonBaholash
+#Bahola #BulkGrading #AIBaholash #OqituvchiUchun #PresidentSchool #UzbekTaʼlim #VaqtTejash #OsonBaholash
 
 ---
 
@@ -43,7 +43,7 @@ Siz natijalarni ko'rasiz.
 
 Многие учителя говорят: «Я загружаю работы по одной...»
 
-Нет. В TezTekshir это можно сделать сразу.
+Нет. В Bahola это можно сделать сразу.
 
 **Как это работает:**
 
@@ -62,4 +62,4 @@ Siz natijalarni ko'rasiz.
 
 🔗 teztek.uz
 
-#TezTekshir #BulkGrading #AIПроверка #ДляУчителей #PresidentSchool #ОбразованиеУзбекистан #ЭкономияВремени
+#Bahola #BulkGrading #AIПроверка #ДляУчителей #PresidentSchool #ОбразованиеУзбекистан #ЭкономияВремени

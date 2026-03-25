@@ -10,7 +10,7 @@ campaign: social-proof-network-growth
 
 Bu Toshkentdagi Prezident maktabi o'qituvchisining so'zlari.
 
-TezTekshir faqat vaqtni tejamaydi. U o'qituvchiga eng muhim narsaga — o'quvchilar bilan muloqotga — ko'proq e'tibor qaratish imkonini beradi.
+Bahola faqat vaqtni tejamaydi. U o'qituvchiga eng muhim narsaga — o'quvchilar bilan muloqotga — ko'proq e'tibor qaratish imkonini beradi.
 
 Har bir sinf. Har bir o'quvchi. Har bir izoh — avtomatik.
 
@@ -18,11 +18,11 @@ Har bir sinf. Har bir o'quvchi. Har bir izoh — avtomatik.
 
 🎯 Siz qancha vaqt tejadingiz? Izohda yozing!
 
-#TezTekshir #OqituvchiHikoyasi #PresidentSchool #AIGrading #OqituvchiVaqti
+#Bahola #OqituvchiHikoyasi #PresidentSchool #AIGrading #OqituvchiVaqti
 
 ---
 
-**Visual suggestion:** Quote card with teacher silhouette and TezTekshir branding. Warm, trustworthy color palette. "Real teacher. Real result." subtext.
+**Visual suggestion:** Quote card with teacher silhouette and Bahola branding. Warm, trustworthy color palette. "Real teacher. Real result." subtext.
 
 ---
 
@@ -32,7 +32,7 @@ Har bir sinf. Har bir o'quvchi. Har bir izoh — avtomatik.
 
 Это слова учителя Президентской школы в Ташкенте.
 
-TezTekshir экономит не только время. Он возвращает учителю самое ценное — возможность уделять внимание ученикам.
+Bahola экономит не только время. Он возвращает учителю самое ценное — возможность уделять внимание ученикам.
 
 Каждый класс. Каждый ученик. Каждый комментарий — автоматически.
 
@@ -40,4 +40,4 @@ TezTekshir экономит не только время. Он возвраща�
 
 🎯 Сколько времени экономите вы? Пишите в комментариях!
 
-#TezTekshir #ОпытУчителя #PresidentSchool #AIGrading
+#Bahola #ОпытУчителя #PresidentSchool #AIGrading

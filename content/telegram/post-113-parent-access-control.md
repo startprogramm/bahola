@@ -11,7 +11,7 @@ theme: Parent & Student Engagement
 
 🔒 Ota-onalar faqat siz ruxsat bergan narsani ko'radi.
 
-TezTekshirda ota-ona kirishini siz boshqarasiz:
+Baholada ota-ona kirishini siz boshqarasiz:
 — Ulashmoqchimisiz? Bir teginish bilan yoqasiz.
 — Hali tayyor emas? O'chirib qo'yasiz.
 — Faqat ba'zi topshiriqlarni ko'rsatmoqchimisiz? Tanlaysiz.
@@ -20,14 +20,14 @@ Hech qanday avtomatik ulashish yo'q. Hech qanday kutilmagan kirish yo'q.
 
 Siz o'qituvchisiz — nazorat sizda.
 
-TezTekshir: shaffoflik, lekin faqat siz xohlagan payt.
+Bahola: shaffoflik, lekin faqat siz xohlagan payt.
 
-👉 teztekshir.uz
+👉 bahola.uz
 
 ---
 
 **Hashtags:**
-#TezTekshir #Maxfiylik #OqituvchiNazorati #AIbaholash #UzbekMaktab
+#Bahola #Maxfiylik #OqituvchiNazorati #AIbaholash #UzbekMaktab
 
 **Notes:**
 - Privacy-first framing to reassure teachers who may be cautious

@@ -10,7 +10,7 @@
 
 ## Concept
 
-A real (or realistic composite) teacher speaks directly to camera about how TezTekshir changed their weekly grading routine. The emotional core: **time given back = time spent with students and family**. This is the most powerful social proof format — a peer talking to a peer.
+A real (or realistic composite) teacher speaks directly to camera about how Bahola changed their weekly grading routine. The emotional core: **time given back = time spent with students and family**. This is the most powerful social proof format — a peer talking to a peer.
 
 ---
 
@@ -27,9 +27,9 @@ A real (or realistic composite) teacher speaks directly to camera about how TezT
 - Text overlay: **"O'qituvchi hayoti — shundaymi?"**
 
 **[0:15–0:25] — The turning point**
-- Visual: Teacher pulls out phone. Opens TezTekshir app. Photographs the stack of papers — one by one, fast.
+- Visual: Teacher pulls out phone. Opens Bahola app. Photographs the stack of papers — one by one, fast.
 - Screen capture: Upload screen → grading result with score + feedback
-- Text overlay: **"Keyin TezTekshirni topdim."**
+- Text overlay: **"Keyin Baholani topdim."**
 - Sound: Satisfying notification chime as each result appears
 
 **[0:25–0:37] — The after**
@@ -40,10 +40,10 @@ A real (or realistic composite) teacher speaks directly to camera about how TezT
 - Voiceover: "20 ta ish — 18 daqiqada. Har biri uchun aniq izoh."
 
 **[0:37–0:45] — End card**
-- Clean background, TezTekshir logo
+- Clean background, Bahola logo
 - Text: **"O'z vaqtingizni qaytarib oling."**
 - Sub-text: "Bepul boshlang"
-- CTA graphic: "teztekshir.uz"
+- CTA graphic: "bahola.uz"
 
 ---
 
@@ -62,13 +62,13 @@ A real (or realistic composite) teacher speaks directly to camera about how TezT
 
 Har hafta kechqurun ishlar tekshirish... Tanish his, to'g'rimi?
 
-TezTekshir bilan 20 ta ish — 18 daqiqada baholanadi.
+Bahola bilan 20 ta ish — 18 daqiqada baholanadi.
 Har o'quvchiga alohida izoh. O'zbek tilida.
 
 Vaqtingizni o'quvchilarga sarflang — qog'ozlarga emas.
 
 Bepul sinab ko'ring — bio'dagi havola
-#TezTekshir #OqituvchiHikoyasi #SuniyIntellekt #OqituvchilarUchun #UzbekistanTeachers #Pedagoglar #AIbaho
+#Bahola #OqituvchiHikoyasi #SuniyIntellekt #OqituvchilarUchun #UzbekistanTeachers #Pedagoglar #AIbaho
 ```
 
 ---

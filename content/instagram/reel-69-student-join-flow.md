@@ -26,7 +26,7 @@ Both phones shown side by side.
 - Quick zoom on code
 
 **[8–18s] — Student enters code**
-- Right screen: Student opens TezTekshir → "Sinfga qo'shilish" tap
+- Right screen: Student opens Bahola → "Sinfga qo'shilish" tap
 - Types invite code: K-L-7-M-N-4
 - Taps "Qo'shilish" button
 - Overlay (right): "👩‍🎓 O'quvchi: kodni kiriting"
@@ -39,7 +39,7 @@ Both phones shown side by side.
 **[26–30s] — Result**
 - Both screens shown side by side
 - Overlay: **"Tayyor! 30 soniya."**
-- TezTekshir logo bottom center
+- Bahola logo bottom center
 
 ## Caption
 ```
@@ -51,7 +51,7 @@ O'quvchilaringizni sinfga qo'shish — 30 soniya, xolos 🎯
 
 Bugun sinf yarating 👆 bio'dagi havola
 
-#TezTekshir #DigitalClassroom #UzbekistanTeachers #AIBaholash
+#Bahola #DigitalClassroom #UzbekistanTeachers #AIBaholash
 ```
 
 ## Production Notes
@@ -59,4 +59,4 @@ Bugun sinf yarating 👆 bio'dagi havola
 - Two real devices — different form factors preferred (one larger, one smaller)
 - Synchronized tap timing on both sides
 - Audio: clean UI tap sounds + soft background music
-- End card: TezTekshir logo + "teztekshir.uz"
+- End card: Bahola logo + "bahola.uz"

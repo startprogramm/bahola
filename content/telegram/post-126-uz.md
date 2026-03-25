@@ -9,7 +9,7 @@ theme: Student Progress & Report Cards
 
 Ko'p o'qituvchilar buni faqat imtihon oldidan bilib olishadi. Lekin kechikmay bilish — bu katta farq.
 
-TezTekshir analitikasi har bir o'quvchining natijalarini kuzatib boradi:
+Bahola analitikasi har bir o'quvchining natijalarini kuzatib boradi:
 
 ✅ Qaysi mavzularda xato ko'p?
 ✅ Kim ketma-ket past ball olmoqda?
@@ -17,4 +17,4 @@ TezTekshir analitikasi har bir o'quvchining natijalarini kuzatib boradi:
 
 Sinfingizning kuchsiz joylarini ko'rish uchun bir marta kirish kifoya. Erta bilsangiz — vaqtida yordam bera olasiz.
 
-👉 Bugun sinfingiz analitikasini tekshiring → teztekshir.uz
+👉 Bugun sinfingiz analitikasini tekshiring → bahola.uz

@@ -8,7 +8,7 @@
 
 ## Concept
 
-A mini-story format. Teacher is skeptical at first — then tries TezTekshir — then has a moment of surprise and delight. Told through text on screen over expressive footage (or animated stills). No long explanation — just a punchy emotional arc. Tone: warm, real, relatable. The viewer should see themselves in the story.
+A mini-story format. Teacher is skeptical at first — then tries Bahola — then has a moment of surprise and delight. Told through text on screen over expressive footage (or animated stills). No long explanation — just a punchy emotional arc. Tone: warm, real, relatable. The viewer should see themselves in the story.
 
 ---
 
@@ -26,11 +26,11 @@ A mini-story format. Teacher is skeptical at first — then tries TezTekshir —
 |---|-----------|------|--------|--------------|-------|
 | 1 | 0:00–0:03 | Skeptic face | Teacher with arms crossed, doubtful look. Or: text-only on dark bg. | "Men ham avval ishonmagan edim..." | Quiet, slow music intro |
 | 2 | 0:03–0:08 | The doubt | Teacher looking at pile of unchecked papers. Tired expression. | "30 ta ish. Kechasi. Yana." | Music continues, slightly heavier |
-| 3 | 0:08–0:14 | First try | Teacher opens phone. TezTekshir app. Hesitant tap. | "Bir marta sinab ko'rishga nima yetadi?" | Music lightens, curious tone |
+| 3 | 0:08–0:14 | First try | Teacher opens phone. Bahola app. Hesitant tap. | "Bir marta sinab ko'rishga nima yetadi?" | Music lightens, curious tone |
 | 4 | 0:14–0:22 | Photo + upload | Quick phone camera snap. Upload. Waiting... | "AI baholamoqda..." | Ticking sound, brief pause |
 | 5 | 0:22–0:30 | Result | Score appears. Teacher's eyes widen. Slight smile. | "2 daqiqa. To'g'ri. Izohli." | Ding + music swell |
 | 6 | 0:30–0:38 | Belief | Teacher laughing or smiling at screen. Or text: quote. | "Endi har kuni ishlataman." | Music peaks, warm |
-| 7 | 0:38–0:42 | CTA | TezTekshir logo. Brand color bg. | "Siz ham sinab ko'ring — bepul 👇" | Music fade |
+| 7 | 0:38–0:42 | CTA | Bahola logo. Brand color bg. | "Siz ham sinab ko'ring — bepul 👇" | Music fade |
 
 ---
 
@@ -60,9 +60,9 @@ Lekin bir bor sinab ko'rdim...
 
 Va endi har kuni ishlataman. 💙
 
-TezTekshir — bepul boshlang. Bio'dagi havoladan 👇
+Bahola — bepul boshlang. Bio'dagi havoladan 👇
 
-#TezTekshir #OqituvchiHikoyasi #AIGrading #OqituvchiUchun #BepulBoshlang
+#Bahola #OqituvchiHikoyasi #AIGrading #OqituvchiUchun #BepulBoshlang
 #UzbekTaʼlim #PresidentSchool #OsonBaholash #EduTech #OqituvchiHayoti
 ```
 
@@ -71,7 +71,7 @@ TezTekshir — bepul boshlang. Bio'dagi havoladan 👇
 ## Hashtags
 
 ```
-#TezTekshir #OqituvchiHikoyasi #AIGrading #OqituvchiUchun #BepulBoshlang
+#Bahola #OqituvchiHikoyasi #AIGrading #OqituvchiUchun #BepulBoshlang
 #UzbekTaʼlim #PresidentSchool #OsonBaholash #EduTech #OqituvchiHayoti
 #AITaʼlim #Uzbekiston #MaktabHayoti #SmartOqituvchi #IshonchYo'q
 ```

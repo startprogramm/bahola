@@ -36,8 +36,8 @@ export async function POST(req: NextRequest) {
                 chatId,
                 `👋 <b>Xush kelibsiz Bahola botiga!</b>\n\n` +
                 `Bahola — sun'iy intellekt yordamida testlarni avtomatik tekshirish tizimi.\n\n` +
-                `🌐 <a href="https://teztekshir.uz">teztekshir.uz</a>\n` +
-                `🏫 <a href="https://maktab.teztekshir.uz">maktab.teztekshir.uz</a>\n` +
+                `🌐 <a href="https://bahola.uz">bahola.uz</a>\n` +
+                `🏫 <a href="https://maktab.bahola.uz">maktab.bahola.uz</a>\n` +
                 `💬 <a href="https://t.me/+xL8nCnyQj2xmOGIy">Qo'llab-quvvatlash guruhi</a>\n\n` +
                 `📌 <b>Buyruqlar:</b>\n` +
                 `/help — Barcha buyruqlar ro'yxati\n` +
@@ -57,8 +57,8 @@ export async function POST(req: NextRequest) {
                 `/create_school Nomi — Yangi maktab yaratish\n` +
                 `/my_school — Maktab ma'lumotlari\n` +
                 `/support — Yordam olish\n\n` +
-                `🌐 <a href="https://teztekshir.uz">teztekshir.uz</a>\n` +
-                `🏫 <a href="https://maktab.teztekshir.uz">maktab.teztekshir.uz</a>\n` +
+                `🌐 <a href="https://bahola.uz">bahola.uz</a>\n` +
+                `🏫 <a href="https://maktab.bahola.uz">maktab.bahola.uz</a>\n` +
                 `💬 <a href="https://t.me/+xL8nCnyQj2xmOGIy">Qo'llab-quvvatlash guruhi</a>\n\n` +
                 `Xabaringiz 24 soat ichida ko'rib chiqiladi!`
             );
@@ -72,8 +72,8 @@ export async function POST(req: NextRequest) {
                 `👨‍💻 <b>Yordam</b>\n\n` +
                 `Savolingizni shu yerda yozing yoki qo'llab-quvvatlash guruhiga qo'shiling:\n\n` +
                 `💬 <a href="https://t.me/+xL8nCnyQj2xmOGIy">Qo'llab-quvvatlash guruhi</a>\n\n` +
-                `🌐 <a href="https://teztekshir.uz">teztekshir.uz</a>\n` +
-                `🏫 <a href="https://maktab.teztekshir.uz">maktab.teztekshir.uz</a>`
+                `🌐 <a href="https://bahola.uz">bahola.uz</a>\n` +
+                `🏫 <a href="https://maktab.bahola.uz">maktab.bahola.uz</a>`
             );
             return NextResponse.json({ ok: true });
         }

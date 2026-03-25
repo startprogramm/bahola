@@ -18,7 +18,7 @@ status: draft
 
 ## Concept
 
-An emotional Labor Day tribute to teachers. Split-screen contrast: the exhausting reality of manual grading versus the relief of AI-powered grading with TezTekshir. Warm, sincere tone — this is a thank-you, not a sales pitch. The product is the gift.
+An emotional Labor Day tribute to teachers. Split-screen contrast: the exhausting reality of manual grading versus the relief of AI-powered grading with Bahola. Warm, sincere tone — this is a thank-you, not a sales pitch. The product is the gift.
 
 ---
 
@@ -37,10 +37,10 @@ Full-screen warm text on a soft amber/golden background. Simple, sincere, powerf
 |-----------|--------|----------------------|
 | 0:00–0:03 | Warm amber screen, hand-lettered style text | **"O'zbekistondagi har bir o'qituvchiga — rahmat."** |
 | 0:04–0:09 | LEFT: Teacher at desk late at night, red pen in hand, stack of papers, tired expression | **"Kechasi soat 12. Hali 40 ta daftar..."** |
-| 0:10–0:15 | RIGHT: Same teacher at same desk, phone in hand, TezTekshir open, smiling at the screen | **"Endi — bir necha daqiqada."** |
+| 0:10–0:15 | RIGHT: Same teacher at same desk, phone in hand, Bahola open, smiling at the screen | **"Endi — bir necha daqiqada."** |
 | 0:16–0:20 | Product screen: photo upload → OCR text extraction → grade appears → green checkmark | **"AI baholadi. Siz dam oldingiz."** |
 | 0:21–0:25 | Teacher smiling, closing laptop, walking to window — morning light outside | **"Siz bunga loyiqsiz."** |
-| 0:26–0:30 | TezTekshir logo on warm background, teztekshir.uz | **"TezTekshir — o'qituvchilar uchun yaratilgan."** |
+| 0:26–0:30 | Bahola logo on warm background, bahola.uz | **"Bahola — o'qituvchilar uchun yaratilgan."** |
 
 ---
 
@@ -63,22 +63,22 @@ Lekin biz o'qituvchilarni eslayapmiz — har kuni, kechasi ham ishlaydiganlarni.
 
 Siz bunga loyiqsiz — ko'proq vaqt, kamroq charchoq.
 
-Shuning uchun biz TezTekshir'ni yaratdik.
+Shuning uchun biz Bahola'ni yaratdik.
 
 📸 Rasmga oling → AI baholaydi → Siz dam oling.
 
 Bepul. Hoziroq. Sizning maktabingiz uchun.
 
-👇 teztekshir.uz
+👇 bahola.uz
 
-#MuallimlarKuni #TezTekshir #OʻzbekistonMuallimi #MehnatkashMuallim #AIBaholash #EdTechUz #1May #MehnatkashlarBayrami
+#MuallimlarKuni #Bahola #OʻzbekistonMuallimi #MehnatkashMuallim #AIBaholash #EdTechUz #1May #MehnatkashlarBayrami
 ```
 
 ---
 
 ## CTA
 
-Follow @teztekshir for more teacher-first content.
+Follow @bahola for more teacher-first content.
 
 ---
 
@@ -87,8 +87,8 @@ Follow @teztekshir for more teacher-first content.
 - Split-screen must be clean and immediately readable — left dark/tired, right bright/relieved
 - Teacher character: illustrated or stock footage only — no real identifiable individuals
 - Warm amber/golden color palette to match Labor Day / celebration mood
-- Product screenshots: real TezTekshir UI, all names anonymized
+- Product screenshots: real Bahola UI, all names anonymized
 - Aspect ratio: 9:16 (vertical Reels format)
-- End frame: logo + teztekshir.uz held 2–3 seconds
+- End frame: logo + bahola.uz held 2–3 seconds
 - Pairs with Telegram Post 23 (Labor Day tribute post) for cross-channel alignment
 - Emotion is the hook — do not lead with product features

@@ -8,7 +8,7 @@ campaign: social-proof-network-growth
 
 👥 Hamkasblaringiz allaqachon bu yerda.
 
-TezTekshir ishlatayotgan o'qituvchilar soni o'sib bormoqda. Prezident maktablarida, viloyat maktablarida — butun O'zbekiston bo'ylab.
+Bahola ishlatayotgan o'qituvchilar soni o'sib bormoqda. Prezident maktablarida, viloyat maktablarida — butun O'zbekiston bo'ylab.
 
 Ular vaqtni tejashdi. Ular o'quvchilariga ko'proq e'tibor bera boshladilar. Ular baholashni yukdan — kuchga aylantirdilar.
 
@@ -22,7 +22,7 @@ Natijani ko'rish — birinchi testdanoq.
 
 🔗 Bio'dagi havoladan hoziroq boshlang.
 
-#TezTekshir #OqituvchiJamoasi #PresidentSchool #BepulSinab #AIGrading #OqituvchiUchun
+#Bahola #OqituvchiJamoasi #PresidentSchool #BepulSinab #AIGrading #OqituvchiUchun
 
 ---
 
@@ -34,7 +34,7 @@ Natijani ko'rish — birinchi testdanoq.
 
 👥 Ваши коллеги уже здесь.
 
-Число учителей, использующих TezTekshir, растёт. В Президентских школах, в региональных школах — по всему Узбекистану.
+Число учителей, использующих Bahola, растёт. В Президентских школах, в региональных школах — по всему Узбекистану.
 
 Они сэкономили время. Стали уделять больше внимания ученикам. Превратили проверку из нагрузки — в инструмент.
 
@@ -48,4 +48,4 @@ Natijani ko'rish — birinchi testdanoq.
 
 🔗 Начните прямо сейчас — ссылка в Bio.
 
-#TezTekshir #СообществоУчителей #PresidentSchool #БесплатноПопробовать #AIGrading
+#Bahola #СообществоУчителей #PresidentSchool #БесплатноПопробовать #AIGrading

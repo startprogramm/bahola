@@ -7,7 +7,7 @@
 
 🎓 **O'qituvchilar, tajribangizni ulashing!**
 
-TezTekshir'da ishlayotgan o'qituvchilar har kuni yangi narsalar kashf etishmoqda — baholash mezonlari, rubrikalar, eng yaxshi amaliyotlar.
+Bahola'da ishlayotgan o'qituvchilar har kuni yangi narsalar kashf etishmoqda — baholash mezonlari, rubrikalar, eng yaxshi amaliyotlar.
 
 💡 Siz ham quyidagi savollarga javob bera olasizmi?
 
@@ -19,4 +19,4 @@ TezTekshir'da ishlayotgan o'qituvchilar har kuni yangi narsalar kashf etishmoqda
 
 Bir maslahat — yuzlab o'qituvchiga yordam bo'lishi mumkin. Hamjamiyatimiz shu tarzda kuchayadi.
 
-#TezTekshir #OʻqituvchilarJamoasi #Baholash #Tajriba
+#Bahola #OʻqituvchilarJamoasi #Baholash #Tajriba

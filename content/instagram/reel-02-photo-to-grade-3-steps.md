@@ -20,7 +20,7 @@ created: "2026-03-19"
 |--------|--------|
 | 0–3s | Bold text on screen: **"3 qadam"** with countdown vibe. Fast cut energy. |
 | 3–8s | **Step 1 text overlay:** "1️⃣ Rasm ol" — Student holds phone over notebook, snaps photo. Bright, clean lighting. |
-| 8–14s | **Step 2 text overlay:** "2️⃣ Yuklang" — Screen recording of TezTekshir: image uploads, processing spinner appears briefly. |
+| 8–14s | **Step 2 text overlay:** "2️⃣ Yuklang" — Screen recording of Bahola: image uploads, processing spinner appears briefly. |
 | 14–22s | **Step 3 text overlay:** "3️⃣ Baho tayyor" — Score appears: "17/20". Per-question breakdown unfolds. Feedback text animates in. |
 | 22–28s | Split screen: left = teacher's gradebook filling up automatically; right = student seeing their score on their phone. |
 | 28–33s | Text: "Butun sinf uchun — 1-2 daqiqa." Logo appears. |
@@ -29,14 +29,14 @@ created: "2026-03-19"
 
 ## Script / Voiceover
 
-> **[0–3s]** "TezTekshir bilan baholash — uch qadam."
-> *(Grading with TezTekshir — three steps.)*
+> **[0–3s]** "Bahola bilan baholash — uch qadam."
+> *(Grading with Bahola — three steps.)*
 
 > **[3–8s]** "Birinchi: o'quvchi javob qog'ozini rasmga oladi."
 > *(First: the student photographs their answer sheet.)*
 
-> **[8–14s]** "Ikkinchi: TezTekshir-ga yuklaydi."
-> *(Second: uploads it to TezTekshir.)*
+> **[8–14s]** "Ikkinchi: Bahola-ga yuklaydi."
+> *(Second: uploads it to Bahola.)*
 
 > **[14–22s]** "Uchinchi: sun'iy intellekt o'qiydi, baholaydi, izoh yozadi — siz belgilagan mezon bo'yicha."
 > *(Third: AI reads, grades, writes feedback — based on the criteria you set.)*
@@ -44,8 +44,8 @@ created: "2026-03-19"
 > **[22–28s]** "O'qituvchi — umumiy manzarani ko'radi. O'quvchi — aniq fikr-mulohazani."
 > *(Teacher sees the full picture. Student gets specific feedback.)*
 
-> **[28–33s]** "30 kishilik sinf? 1–2 daqiqa. TezTekshir."
-> *(A class of 30? 1–2 minutes. TezTekshir.)*
+> **[28–33s]** "30 kishilik sinf? 1–2 daqiqa. Bahola."
+> *(A class of 30? 1–2 minutes. Bahola.)*
 
 ---
 
@@ -70,4 +70,4 @@ Sun'iy intellekt o'quvchi yozgan har bir savolni o'qiydi va sizning mezoningizga
 ---
 
 ## Hashtags
-`#TezTekshir` `#AIBaholash` `#PresidentMaktab` `#UstozlarHayoti` `#EdTechUzbekistan`
+`#Bahola` `#AIBaholash` `#PresidentMaktab` `#UstozlarHayoti` `#EdTechUzbekistan`

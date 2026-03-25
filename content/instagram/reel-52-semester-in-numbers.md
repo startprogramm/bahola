@@ -10,7 +10,7 @@
 
 A kinetic data animation reel. We reveal a teacher's semester stats one number at a time — assignments graded, time saved, feedback given, classes managed. Each number lands with a satisfying visual pop. No talking head. No product demo. Just clean, bold numbers that tell the story of a productive semester. Tone: celebration, pride, momentum. Teachers deserve to see the scale of what they accomplished.
 
-Audience: active TezTekshir teachers who will recognize these numbers as their own experience.
+Audience: active Bahola teachers who will recognize these numbers as their own experience.
 
 ---
 
@@ -31,7 +31,7 @@ Audience: active TezTekshir teachers who will recognize these numbers as their o
 | 3 | 0:09–0:14 | Stat 2 | Counter: 3,388. Adds up visually. Progress bar fills underneath. | "3,388 daqiqa tejaldi — 56 soat" | Same satisfying counter rhythm |
 | 4 | 0:14–0:20 | Stat 3 | Counter: 2,500+. Feedback icons animate in. Each one a small card. | "2,500+ ta batafsil fikr-mulohaza" | Music builds with each pop |
 | 5 | 0:20–0:27 | Stat 4 | Wide pull-back: a mosaic of all the numbers from this semester, glowing. Teacher silhouette in center — arms relaxed, confident. | "Bu — siz. Bu semestrda." | Music peaks, uplifting |
-| 6 | 0:27–0:32 | CTA | TezTekshir logo. Clean end card. Warm gradient background. | "Keyingi semestr yanada yaxshiroq bo'ladi. teztek.uz 👇" | Gentle resolving note |
+| 6 | 0:27–0:32 | CTA | Bahola logo. Clean end card. Warm gradient background. | "Keyingi semestr yanada yaxshiroq bo'ladi. teztek.uz 👇" | Gentle resolving note |
 
 ---
 
@@ -52,19 +52,19 @@ Shot 6:  "Keyingi semestr yanada yaxshiroq bo'ladi. teztek.uz"
 
 **Uzbek:**
 ```
-Bu semestrda TezTekshir o'qituvchilariga nima berdi? 🎉
+Bu semestrda Bahola o'qituvchilariga nima berdi? 🎉
 
 ✅ O'rtacha 847 ta ish baholandi
 ⏱ 56 soat vaqt tejaldi
 💬 Har bir o'quvchiga batafsil fikr-mulohaza
 
-Bu raqamlar — sizning mehnatingingiz. TezTekshir faqat tezlashtirdi.
+Bu raqamlar — sizning mehnatingingiz. Bahola faqat tezlashtirdi.
 
 Keyingi semestrga tayyor bo'ling. Biz ham tayyormiz.
 
 Bio'dagi havola 👇
 
-#TezTekshir #SemestrYakunlandi #OqituvchiMehri #AIGrading
+#Bahola #SemestrYakunlandi #OqituvchiMehri #AIGrading
 #VaqtTejash #UzbekTaʼlim #EduTech #SmartGrading
 #PresidentSchool #MaktabHayoti #BepulBoshlang
 #OqituvchiUchun #Natijalar #ZamonaviyTaʼlim
@@ -75,7 +75,7 @@ Bio'dagi havola 👇
 ## Hashtags
 
 ```
-#TezTekshir #SemestrYakunlandi #OqituvchiMehri #AIGrading
+#Bahola #SemestrYakunlandi #OqituvchiMehri #AIGrading
 #VaqtTejash #UzbekTaʼlim #EduTech #SmartGrading
 #PresidentSchool #MaktabHayoti #BepulBoshlang
 #OqituvchiUchun #Natijalar #ZamonaviyTaʼlim
@@ -92,7 +92,7 @@ Celebratory but grounded. Think: motivational year-in-review energy — not part
 ## Production Notes
 
 - **The numbers are the hero.** Everything else — background, color, animation — serves the numbers. Make them big, bold, impossible to miss.
-- **Use real-scale numbers.** The figures in this reel (847 assignments, 56 hours saved, 2,500+ feedback) should reflect realistic semester volumes for a TezTekshir teacher. Adjust if internal data shows different averages — but keep them impressive and believable.
+- **Use real-scale numbers.** The figures in this reel (847 assignments, 56 hours saved, 2,500+ feedback) should reflect realistic semester volumes for a Bahola teacher. Adjust if internal data shows different averages — but keep them impressive and believable.
 - **Counter animation is essential.** The rolling counter effect (numbers ticking up to final value) makes each stat feel earned. Don't show a static number — reveal it.
 - **Shot 5 is the emotional peak.** The mosaic of numbers + teacher silhouette is the "you did this" moment. Give it space. 6–7 seconds minimum.
 - **No voiceover.** This reel is entirely visual + text + music. Keep it clean.

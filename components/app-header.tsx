@@ -342,7 +342,7 @@ export function AppHeader() {
                     className="w-full py-3 text-sm font-semibold transition-colors hover:bg-accent hover:text-accent-foreground flex items-center justify-center gap-2"
                     onClick={() => {
                       setProfileMenuOpen(false);
-                      window.open("https://t.me/teztekshirbot", "_blank");
+                      window.open("https://t.me/baholabot", "_blank");
                     }}
                   >
                     <HelpCircle className="h-4 w-4" />

@@ -5,7 +5,7 @@
 
 ---
 
-❓ **TezTekshir va eMaktab: eng ko'p beriladigan 5 ta savol**
+❓ **Bahola va eMaktab: eng ko'p beriladigan 5 ta savol**
 
 Ko'pchilik o'qituvchilar integratsiyadan foydalanmoqchi, lekin qanday ishlashini bilishmaydi. Keling, aniq javob beramiz:
 
@@ -18,7 +18,7 @@ Ko'pchilik o'qituvchilar integratsiyadan foydalanmoqchi, lekin qanday ishlashini
 → Hozirgi versiyada — har baholash sessiyasidan keyin qo'lda bosasiz. Bu ataylab — noto'g'ri ma'lumot ketmasligini ta'minlash uchun. Kelajakda avtomatik opsiya rejalashtirilgan.
 
 **3. Agar soat 21:00 dan keyin yuborsam, nima bo'ladi?**
-→ TezTekshir hamma vaqt qabul qiladi. Lekin eMaktab muddatdan keyin kelgan baholarni "kech" deb belgilaydi — jarima qoidalari eMaktab'ning o'z qoidalari.
+→ Bahola hamma vaqt qabul qiladi. Lekin eMaktab muddatdan keyin kelgan baholarni "kech" deb belgilaydi — jarima qoidalari eMaktab'ning o'z qoidalari.
 
 **4. Nechta o'quvchi bahosi bir vaqtda yuborilishi mumkin?**
 → Cheklov yo'q. Butun sinf bir bosish bilan yuboriladi.
@@ -30,6 +30,6 @@ Ko'pchilik o'qituvchilar integratsiyadan foydalanmoqchi, lekin qanday ishlashini
 
 Boshqa savol bormi? Izohda yozing — javob beramiz 👇
 
-📲 TezTekshir — savollaringizga aniq javob.
+📲 Bahola — savollaringizga aniq javob.
 
-#TezTekshir #eMaktab #Integratsiya #FAQ #OʻqituvchiUchun
+#Bahola #eMaktab #Integratsiya #FAQ #OʻqituvchiUchun

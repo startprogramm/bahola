@@ -1,6 +1,6 @@
 # Mobile API Documentation
 
-Base URL: `https://teztekshir.uz`
+Base URL: `https://bahola.uz`
 
 All endpoints return JSON. Auth uses cookies (NextAuth JWT session). The native app must persist cookies across requests using OkHttp CookieJar (Android) or URLSession cookie storage (iOS).
 
@@ -686,7 +686,7 @@ OrderStatus: PENDING, PREPARING, COMPLETED, CANCELLED
 
 ### Image URLs
 - Image URLs returned by the API are relative paths like `/uploads/filename.jpg`.
-- Construct full URLs by prepending the base URL: `https://teztekshir.uz/uploads/filename.jpg`.
+- Construct full URLs by prepending the base URL: `https://bahola.uz/uploads/filename.jpg`.
 - Accessing files via `/api/uploads/...` requires auth and performs permission checks.
 - Accessing files directly via `/uploads/...` is public (for serving uploaded images).
 

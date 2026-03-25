@@ -9,9 +9,9 @@ languages: [uz, ru]
 
 ## Uzbek
 
-📊 **Semestrni yakunladik — TezTekshir bilan qancha vaqt tejadingiz?**
+📊 **Semestrni yakunladik — Bahola bilan qancha vaqt tejadingiz?**
 
-Bu semestrda 10,000+ dan ortiq ish TezTekshir orqali baholandi.
+Bu semestrda 10,000+ dan ortiq ish Bahola orqali baholandi.
 
 Har bir ish uchun o'rtacha **4 daqiqa** tejaldi.
 
@@ -23,9 +23,9 @@ Siz bu semestrda qancha vaqt tejadingiz? Izohda yozing 👇
 
 ## Russian
 
-📊 **Подводим итоги семестра — сколько времени вы сэкономили с TezTekshir?**
+📊 **Подводим итоги семестра — сколько времени вы сэкономили с Bahola?**
 
-В этом семестре через TezTekshir было проверено более 10 000 работ.
+В этом семестре через Bahola было проверено более 10 000 работ.
 
 В среднем **4 минуты** сэкономлено на каждой работе.
 

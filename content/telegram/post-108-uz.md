@@ -11,7 +11,7 @@ campaign: Director Perspective
 
 Har bir o'qituvchidan hisobot so'rab charchadingizmi?
 
-TezTekshir direktor paneli orqali siz:
+Bahola direktor paneli orqali siz:
 
 ✅ Har bir sinfning umumiy o'rtacha bahosini ko'rasiz
 ✅ Eng yuqori va eng past natijali o'quvchilarni bir zumda aniqlaysiz
@@ -21,4 +21,4 @@ TezTekshir direktor paneli orqali siz:
 
 Endi o'qituvchi bilan uchrashuv oldidan tayyorgarlik ko'rishga soatlar sarflamaysiz. Ma'lumot sizning oldingizda.
 
-👉 Bugun bepul sinab ko'ring: teztekshir.uz
+👉 Bugun bepul sinab ko'ring: bahola.uz

@@ -8,15 +8,15 @@
 
 ## Concept
 
-A clean, screen-recorded walkthrough of TezTekshir from zero to first grade. Real phone, real app, real steps. No narration voice — just upbeat music, on-screen text cues, and satisfying UI moments. Tone: approachable, fast, "wow that was easy." The viewer should finish thinking: "I could do this right now."
+A clean, screen-recorded walkthrough of Bahola from zero to first grade. Real phone, real app, real steps. No narration voice — just upbeat music, on-screen text cues, and satisfying UI moments. Tone: approachable, fast, "wow that was easy." The viewer should finish thinking: "I could do this right now."
 
 ---
 
 ## Hook
 
 **On-screen text (first 2 seconds):**
-> **"TezTekshir bilan birinchi baholash — 60 soniyada"**
-> *(First assessment with TezTekshir — in 60 seconds)*
+> **"Bahola bilan birinchi baholash — 60 soniyada"**
+> *(First assessment with Bahola — in 60 seconds)*
 
 ---
 
@@ -31,7 +31,7 @@ A clean, screen-recorded walkthrough of TezTekshir from zero to first grade. Rea
 | 5 | 0:25–0:35 | Upload student work | Assessment → "Ish yuklash" → phone camera → snap photo → upload | Camera click, upload progress bar |
 | 6 | 0:35–0:45 | AI grading in progress | Loading animation with AI indicator. Text: "AI baholamoqda..." | Suspenseful 2-beat pause |
 | 7 | 0:45–0:55 | Result reveal | Score card appears. Feedback text. Breakdown table. Slow zoom into score. | Notification ding + music swell |
-| 8 | 0:55–0:62 | End card | TezTekshir logo. "Siz ham sinab ko'ring." CTA button. | Music fades to warm close |
+| 8 | 0:55–0:62 | End card | Bahola logo. "Siz ham sinab ko'ring." CTA button. | Music fades to warm close |
 
 ---
 
@@ -54,7 +54,7 @@ Shot 8:  "Siz ham bugun boshlang →"
 
 **Uzbek:**
 ```
-TezTekshir bilan birinchi baholash — 60 soniyada 🚀
+Bahola bilan birinchi baholash — 60 soniyada 🚀
 
 Ro'yxat. Sinf. Baholash. Yuklash. Natija.
 
@@ -62,7 +62,7 @@ Shunday oddiy.
 
 Bugun sinab ko'ring — bepul 👇
 
-#TezTekshir #AIGrading #OqituvchiUchun #BepulBoshlang #PresidentSchool
+#Bahola #AIGrading #OqituvchiUchun #BepulBoshlang #PresidentSchool
 #UzbekTaʼlim #SmartOqituvchi #OsonBaholash #EduTech #UzbekMaktab
 ```
 
@@ -71,7 +71,7 @@ Bugun sinab ko'ring — bepul 👇
 ## Hashtags
 
 ```
-#TezTekshir #AIGrading #OqituvchiUchun #BepulBoshlang #PresidentSchool
+#Bahola #AIGrading #OqituvchiUchun #BepulBoshlang #PresidentSchool
 #UzbekTaʼlim #SmartOqituvchi #OsonBaholash #EduTech #UzbekMaktab
 #AITaʼlim #Uzbekiston #MaktabHayoti #OqituvchiHayoti #BirinchiQadam
 ```

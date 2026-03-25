@@ -15,7 +15,7 @@ Yangi yil shiddat bilan yaqinlashmoqda. Siz tayyor bo'lyapsizmi? 🎆
 
 Bir necha kun ichida yangi sana, yangi semestr va yangi imkoniyatlar boshlaydi.
 
-Sizdan so'ramoqchimiz: **TezTekshir 2027 yilda sizga nima qilishga yordam beradi?**
+Sizdan so'ramoqchimiz: **Bahola 2027 yilda sizga nima qilishga yordam beradi?**
 
 🎯 Ko'proq vaqt tejash
 📈 O'quvchilar rivojini aniq ko'rish
@@ -29,8 +29,8 @@ Yangi yil niyatlaringizni komentlarda yozing — birga ulug'vor yil qilamiz! �
 
 ⏳ **До 2027 года — 3 дня!**
 
-Новый год совсем рядом. TezTekshir будет рядом с вами и в следующем году 🎆
+Новый год совсем рядом. Bahola будет рядом с вами и в следующем году 🎆
 
-Расскажите в комментариях: чего вы хотите достичь с TezTekshir в 2027 году?
+Расскажите в комментариях: чего вы хотите достичь с Bahola в 2027 году?
 
-👉 teztekshir.uz
+👉 bahola.uz

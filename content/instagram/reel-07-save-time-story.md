@@ -24,15 +24,15 @@
 - Slow, tired energy. Muted color grade.
 
 **[0:18–0:24] Transition — Discovery moment**
-- Teacher's phone lights up with notification / colleague shares TezTekshir link
-- Text overlay: "Keyin hamkasbi TezTekshir haqida aytdi..."
+- Teacher's phone lights up with notification / colleague shares Bahola link
+- Text overlay: "Keyin hamkasbi Bahola haqida aytdi..."
 - Music picks up tempo
 
 **[0:24–0:40] AFTER side — The transformation**
 - Bright, morning energy. Teacher at desk, natural light.
 - Shot: Teacher photographs student papers quickly — phone camera
 - Text overlay: "Ertasi kuni..."
-- Screen recording: uploads to TezTekshir, AI grades appear — 2 minutes
+- Screen recording: uploads to Bahola, AI grades appear — 2 minutes
 - Text overlay: "2 daqiqada — 30 ta ish baholandi ✅"
 - Shot: Teacher closes laptop, grabs coffee, smiles
 - Text overlay: "Endi vaqt — o'zingizniki"
@@ -43,12 +43,12 @@
   - "Oldin: ~3 soat"
   - "Keyin: 20 daqiqa"
   - "Tejab qolgan vaqt — har hafta: 10+ soat"
-- TezTekshir logo pulse
+- Bahola logo pulse
 
 **[0:50–0:58] CTA**
 - Teacher looks at camera (or text-only if no talent):
 - Text: "Siz ham sinab ko'ring — bepul"
-- Logo + URL: "teztekshir.uz"
+- Logo + URL: "bahola.uz"
 
 ---
 
@@ -59,21 +59,21 @@
 
 Bu faqat vaqt tejash emas. Bu — o'z hayotingizni qaytarib olish.
 
-TezTekshir o'qituvchilarga haftalik 10+ soat tejashga yordam beradi:
+Bahola o'qituvchilarga haftalik 10+ soat tejashga yordam beradi:
 📸 Ishlarni rasmga oling
 📤 Yuklang
 🤖 AI baholaydi + har o'quvchiga fikr yozadi
 
 Hozir bepul. Qachon boshlaysiz?
 
-🔗 teztekshir.uz
+🔗 bahola.uz
 
-#TezTekshir #OʻqituvchilarUchun #VaqtTejash #AIBaholash #OʻqituvchiHayoti #Maktab #Uzbekistan #EdTechUz #WorkLifeBalance
+#Bahola #OʻqituvchilarUchun #VaqtTejash #AIBaholash #OʻqituvchiHayoti #Maktab #Uzbekistan #EdTechUz #WorkLifeBalance
 
 ---
 
 ## CTA
 
-**On-screen:** "Bepul boshlang → teztekshir.uz"
+**On-screen:** "Bepul boshlang → bahola.uz"
 **Emotional hook:** "Endi vaqt — o'zingizniki"
 **Caption:** "Hozir bepul. Qachon boshlaysiz?"

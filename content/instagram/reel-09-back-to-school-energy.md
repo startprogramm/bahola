@@ -20,12 +20,12 @@
 - Teacher glances at the stack, then at the camera. Knowing smile.
 - No text — let the visual storytelling work.
 
-**[0:10–0:18] — The TezTekshir moment**
-- Visual: Teacher opens TezTekshir on their phone/laptop
+**[0:10–0:18] — The Bahola moment**
+- Visual: Teacher opens Bahola on their phone/laptop
 - Shot: Phone camera pointed at student work → uploading
 - Screen: AI grading result appears — score, brief feedback, breakdown
 - Quick cut: Multiple submissions processed in seconds (fast-forward style)
-- Text overlay: "TezTekshir bilan tezroq boring ⚡"
+- Text overlay: "Bahola bilan tezroq boring ⚡"
 
 **[0:18–0:28] — The payoff**
 - Visual: Teacher leans back in chair, coffee in hand, relaxed. The stack of papers is gone (or visibly diminished).
@@ -36,7 +36,7 @@
 
 **[0:28–0:35] — End card**
 - Background: Clean white or light green
-- Text: "TezTekshir — sun'iy intellekt bilan baholash"
+- Text: "Bahola — sun'iy intellekt bilan baholash"
 - Sub-text: "Bepul sinab ko'ring 👇"
 - Logo + app screenshot thumbnail
 - CTA button graphic: "Boshlash →"
@@ -48,7 +48,7 @@
 ```
 Hayitdan keyin birinchi dars va... to'p to'la ishlar 😅
 
-Lekin shoshilmang — TezTekshir bor!
+Lekin shoshilmang — Bahola bor!
 
 Sun'iy intellekt yordamida o'quvchilar ishlarini daqiqalarda baholaymiz. Siz esa darsga tayyor bo'ling.
 
@@ -56,7 +56,7 @@ Yangi haftani yangi energiya bilan boshlang! 💪
 
 🔗 Bepul sinab ko'ring — bio'dagi havola orqali
 
-#TezTekshir #OnlineBaholash #SuniyIntellekt #OqituvchilarUchun #BackToSchool #UzbekistanTeachers #Pedagoglar
+#Bahola #OnlineBaholash #SuniyIntellekt #OqituvchilarUchun #BackToSchool #UzbekistanTeachers #Pedagoglar
 ```
 
 ---
@@ -74,6 +74,6 @@ Yangi haftani yangi energiya bilan boshlang! 💪
 - Pacing: Fast cuts in the first half (hook + grading sequence), slower in the payoff and end card.
 - Music: Upbeat electronic or pop beat — something you'd hear in a productivity/lifestyle reel. Not traditional for this one.
 - The "stack of papers" visual is the key comedic/relatable beat — make sure it's clearly large.
-- TezTekshir screen capture: Use real UI if possible (grading result page). Avoid mockups.
+- Bahola screen capture: Use real UI if possible (grading result page). Avoid mockups.
 - Teacher actor: Should look like a real Uzbek school teacher, not overly polished.
 - Language: Uzbek throughout. Add Russian subtitles in a separate version if needed.

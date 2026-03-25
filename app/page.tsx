@@ -9,7 +9,7 @@ export default async function Home() {
   if (session) {
     const accessViolation = getCrossAppAccessViolation(session.user);
     if (accessViolation) {
-      // On teztekshir, show the landing page instead of redirecting cross-app users
+      // On bahola, show the landing page instead of redirecting cross-app users
       if (!isMaktab()) return <LandingPage />;
       redirect(accessViolation.loginUrl);
     }

@@ -8,7 +8,7 @@
 
 ## Concept
 
-A teacher opens the TezTekshir analytics tab and takes a 30-second guided tour of the class dashboard — showing class averages, top performers, and weakest topics at a glance.
+A teacher opens the Bahola analytics tab and takes a 30-second guided tour of the class dashboard — showing class averages, top performers, and weakest topics at a glance.
 
 ---
 
@@ -16,7 +16,7 @@ A teacher opens the TezTekshir analytics tab and takes a 30-second guided tour o
 
 | Time | Visual | Caption |
 |------|--------|---------|
-| 0-3s | TezTekshir dashboard, teacher clicks "Analytics" tab | "Sinf natijalari — bir qarashda" |
+| 0-3s | Bahola dashboard, teacher clicks "Analytics" tab | "Sinf natijalari — bir qarashda" |
 | 4-8s | Class average score bar chart across 4 assessments | Average score trending up over time |
 | 9-14s | Topic breakdown: "Algebra — 48%", "Geometry — 71%", "Statistics — 63%" | Color-coded weak/strong topics highlighted |
 | 15-20s | Student ranking list — top 3 and bottom 3 highlighted | Names anonymized for demo |
@@ -27,9 +27,9 @@ A teacher opens the TezTekshir analytics tab and takes a 30-second guided tour o
 
 ## Voiceover (Uzbek)
 
-> *"Har bir test natijalarini qo'lda tahlil qilasizmi? TezTekshir buni avtomatik qiladi. Sinf o'rtachasi, zaif mavzular, eng ko'p xato qilingan savollar — hammasi bir joyda. O'z darslaringizni ma'lumotlar asosida rejalashtiring."*
+> *"Har bir test natijalarini qo'lda tahlil qilasizmi? Bahola buni avtomatik qiladi. Sinf o'rtachasi, zaif mavzular, eng ko'p xato qilingan savollar — hammasi bir joyda. O'z darslaringizni ma'lumotlar asosida rejalashtiring."*
 
-**Translation:** "Are you manually analyzing test results? TezTekshir does this automatically. Class average, weak topics, most-missed questions — all in one place. Plan your lessons based on data."
+**Translation:** "Are you manually analyzing test results? Bahola does this automatically. Class average, weak topics, most-missed questions — all in one place. Plan your lessons based on data."
 
 ---
 
@@ -37,16 +37,16 @@ A teacher opens the TezTekshir analytics tab and takes a 30-second guided tour o
 
 📊 Sinf natijalarini tahlil qilish endi 30 soniyada!
 
-TezTekshir analytics paneli sizga ko'rsatadi:
+Bahola analytics paneli sizga ko'rsatadi:
 ✅ Sinf o'rtacha ko'rsatkichi
 ✅ Zaif mavzular
 ✅ Eng ko'p xato qilingan savollar
 
 Keyingi darsni ma'lumotlar asosida rejalang 👇
 
-🔗 teztekshir.uz
+🔗 bahola.uz
 
-#TezTekshir #OʻqituvchilarUchun #Analytics #DigitalTaʼlim #Uzbekistan
+#Bahola #OʻqituvchilarUchun #Analytics #DigitalTaʼlim #Uzbekistan
 
 ---
 

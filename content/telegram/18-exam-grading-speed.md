@@ -13,10 +13,10 @@ Aprel-may — o'qituvchi hayotidagi eng band vaqt. Imtihonlar, nazorat ishlari, 
 
 Lekin endi tekshiruv ko'p vaqt olmasin.
 
-**TezTekshir bilan ish jarayoni:**
+**Bahola bilan ish jarayoni:**
 
 📸 Ish varag'ini suratga oling
-⬆️ TezTekshir-ga yuklang
+⬆️ Bahola-ga yuklang
 🤖 AI matnni o'qiydi va mezon bo'yicha baholaydi
 ✅ Natija — **bir necha soniyada**
 
@@ -26,7 +26,7 @@ Sifat yo'qolmaydi — AI har bir ishni bir xil diqqat bilan tekshiradi, charchoq
 
 Ushbu imtihon mavsumida o'zingizga vaqt bering. 🎯
 
-👉 Bepul sinab ko'ring: teztekshir.uz
+👉 Bepul sinab ko'ring: bahola.uz
 
 ---
 
@@ -36,10 +36,10 @@ Ushbu imtihon mavsumida o'zingizga vaqt bering. 🎯
 
 Но теперь проверка не должна занимать часы.
 
-**Рабочий процесс с TezTekshir:**
+**Рабочий процесс с Bahola:**
 
 📸 Сфотографируйте работу ученика
-⬆️ Загрузите в TezTekshir
+⬆️ Загрузите в Bahola
 🤖 ИИ считывает текст и оценивает по критериям
 ✅ Результат — **за несколько секунд**
 
@@ -49,7 +49,7 @@ Ushbu imtihon mavsumida o'zingizga vaqt bering. 🎯
 
 Подарите себе время в этот экзаменационный сезон. 🎯
 
-👉 Попробуйте бесплатно: teztekshir.uz
+👉 Попробуйте бесплатно: bahola.uz
 
 ---
 

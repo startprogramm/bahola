@@ -11,7 +11,7 @@ languages: [uz]
 
 🏫 **Direktoringizni ham taklif qiling**
 
-Siz TezTekshirdan foydalanyapsiz — butun maktabingiz ham foydalanishi mumkin.
+Siz Baholadan foydalanyapsiz — butun maktabingiz ham foydalanishi mumkin.
 
 Direktoringizga qanday tanishtirish kerak:
 1. 📱 Ushbu xabarni ulashing
@@ -20,4 +20,4 @@ Direktoringizga qanday tanishtirish kerak:
 
 Keyingi semestrda butun maktab birga ishlaydi 💪
 
-👉 teztekshir.uz — Direktoringiz uchun havola
+👉 bahola.uz — Direktoringiz uchun havola

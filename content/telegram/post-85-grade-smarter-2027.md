@@ -16,7 +16,7 @@ Yangi yil — yangi imkoniyat. Ko'p o'qituvchilar yanvar oyida o'zlariga shunday
 ❌ "Ko'proq vaqt sarflayman"
 ✅ "Aqlli ishlashni o'rganaman"
 
-TezTekshir aynan shuning uchun. Har bir baholash uchun soatlab vaqt sarflash shart emas.
+Bahola aynan shuning uchun. Har bir baholash uchun soatlab vaqt sarflash shart emas.
 
 **Tasavvur qiling:**
 - 30 ta ish bir vaqtning o'zida yuklanadi
@@ -28,4 +28,4 @@ TezTekshir aynan shuning uchun. Har bir baholash uchun soatlab vaqt sarflash sha
 
 Aqlli boshlang 👇
 
-👉 teztekshir.uz
+👉 bahola.uz

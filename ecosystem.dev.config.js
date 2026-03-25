@@ -1,18 +1,18 @@
 module.exports = {
   apps: [
     {
-      name: "dev-teztekshir",
+      name: "dev-bahola",
       script: "node_modules/.bin/next",
       args: "start -p 4001",
-      cwd: "/home/ubuntu/teztekshir/dev",
+      cwd: "/home/ubuntu/bahola/dev",
       exec_mode: "fork",
       max_memory_restart: "1G",
       env: {
         NODE_ENV: "production",
         PORT: 4001,
-        APP_MODE: "teztekshir",
-        NEXT_PUBLIC_APP_MODE: "teztekshir",
-        NEXT_DIST_DIR: ".next-dev-teztekshir",
+        APP_MODE: "bahola",
+        NEXT_PUBLIC_APP_MODE: "bahola",
+        NEXT_DIST_DIR: ".next-dev-bahola",
         NEXTAUTH_URL: "http://212.20.151.97:4001",
       },
     },
@@ -20,7 +20,7 @@ module.exports = {
       name: "dev-maktab",
       script: "node_modules/.bin/next",
       args: "start -p 4002",
-      cwd: "/home/ubuntu/teztekshir/dev",
+      cwd: "/home/ubuntu/bahola/dev",
       exec_mode: "fork",
       max_memory_restart: "1G",
       env: {

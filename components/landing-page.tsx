@@ -1720,7 +1720,7 @@ export default function LandingPage() {
               {/* Social links */}
               <div className="mt-5 flex items-center gap-3">
                 <a
-                  href="https://t.me/teztekshirbot?start=start"
+                  href="https://t.me/baholabot?start=start"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex h-9 w-9 items-center justify-center rounded-lg bg-white/10 text-white/70 transition-colors hover:bg-white/20 hover:text-white"
@@ -1745,7 +1745,7 @@ export default function LandingPage() {
                   </svg>
                 </a>
                 <a
-                  href="mailto:info@teztekshir.com"
+                  href="mailto:info@bahola.com"
                   className="inline-flex h-9 w-9 items-center justify-center rounded-lg bg-white/10 text-white/70 transition-colors hover:bg-white/20 hover:text-white"
                   aria-label="Email"
                 >
@@ -1804,7 +1804,7 @@ export default function LandingPage() {
                 </li>
                 <li>
                   <a
-                    href="https://t.me/teztekshirbot?start=start"
+                    href="https://t.me/baholabot?start=start"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-sm text-white/55 transition-colors hover:text-white/90"

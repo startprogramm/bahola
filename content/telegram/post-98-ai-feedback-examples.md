@@ -21,7 +21,7 @@ Yo'q. Mana haqiqiy misollar (anonim):
 
 ❌ Oddiy baho: *"4 ball. Yaxshi urinish."*
 
-✅ TezTekshir AI: *"Asosiy g'oya aniq ifodalangan va misol keltirilgan — bu kuchli tomoniz. Ammo ikkinchi paragrafda 'however' bog'lovchisidan keyin zid fikr o'rniga xuddi shu g'oya takrorlangan. Keyingi yozuvda qarama-qarshi dalil kiritishga harakat qiling."*
+✅ Bahola AI: *"Asosiy g'oya aniq ifodalangan va misol keltirilgan — bu kuchli tomoniz. Ammo ikkinchi paragrafda 'however' bog'lovchisidan keyin zid fikr o'rniga xuddi shu g'oya takrorlangan. Keyingi yozuvda qarama-qarshi dalil kiritishga harakat qiling."*
 
 ---
 
@@ -29,18 +29,18 @@ Yo'q. Mana haqiqiy misollar (anonim):
 
 ❌ Oddiy baho: *"3 ball. Formulani noto'g'ri qo'lladi."*
 
-✅ TezTekshir AI: *"Pifagor teoremasi to'g'ri yozilgan — bu yaxshi. Lekin gipotenuzani noto'g'ri yon sifatida belgilagansiz, shuning uchun javob xato chiqdi. Uchburchakni qayta chizing va eng uzun tomonni aniqlang."*
+✅ Bahola AI: *"Pifagor teoremasi to'g'ri yozilgan — bu yaxshi. Lekin gipotenuzani noto'g'ri yon sifatida belgilagansiz, shuning uchun javob xato chiqdi. Uchburchakni qayta chizing va eng uzun tomonni aniqlang."*
 
 ---
 
 **📖 O'zbek tili (7-sinf)**
 
-✅ TezTekshir AI: *"Matn grammatik jihatdan to'g'ri. Tasviriy epitetlar yaxshi ishlatilgan. Xulosa qismi kuchsizroq — asosiy fikrni qaytarish o'rniga yangi xulosa qiling."*
+✅ Bahola AI: *"Matn grammatik jihatdan to'g'ri. Tasviriy epitetlar yaxshi ishlatilgan. Xulosa qismi kuchsizroq — asosiy fikrni qaytarish o'rniga yangi xulosa qiling."*
 
 ---
 
 Bu — faqat ball emas. Bu — o'quvchi nimani o'rganishi kerakligini ko'rsatuvchi yo'l xaritasi.
 
-TezTekshir har bir ishga shunday yondashadi.
+Bahola har bir ishga shunday yondashadi.
 
-👉 teztekshir.uz
+👉 bahola.uz

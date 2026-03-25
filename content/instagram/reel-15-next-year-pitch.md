@@ -37,10 +37,10 @@ Close-up of a massive stack of ungraded papers on a desk. Then: one tap on a pho
 | Timestamp | Visual | Text Overlay (Uzbek / Russian) |
 |-----------|--------|-------------------------------|
 | 0:00–0:03 | Extreme close-up: towering stack of exam papers, red pen resting on top | **UZ:** "Kelasi yil ham shunday ishlash istaysizmi?" / **RU:** "Хотите работать так и в следующем году?" |
-| 0:04–0:08 | Hand picks up phone, opens TezTekshir, taps "Submit" — one motion | **UZ:** "Yoki..." / **RU:** "Или..." |
-| 0:09–0:16 | TezTekshir grades 30 papers — rapid progress bar, scores populating, feedback appearing | **UZ:** "30 ta ish. 1 daqiqa." / **RU:** "30 работ. 1 минута." |
+| 0:04–0:08 | Hand picks up phone, opens Bahola, taps "Submit" — one motion | **UZ:** "Yoki..." / **RU:** "Или..." |
+| 0:09–0:16 | Bahola grades 30 papers — rapid progress bar, scores populating, feedback appearing | **UZ:** "30 ta ish. 1 daqiqa." / **RU:** "30 работ. 1 минута." |
 | 0:17–0:21 | Side-by-side freeze: paper stack (left) vs completed results screen (right) | **UZ:** "Tanlov sizda." / **RU:** "Выбор за вами." |
-| 0:22–0:25 | TezTekshir logo, teztekshir.uz — clean white background | **UZ:** "Keyingi yilni to'g'ri boshlang. Bepul." / **RU:** "Начните следующий год правильно. Бесплатно." |
+| 0:22–0:25 | Bahola logo, bahola.uz — clean white background | **UZ:** "Keyingi yilni to'g'ri boshlang. Bepul." / **RU:** "Начните следующий год правильно. Бесплатно." |
 
 ---
 
@@ -64,9 +64,9 @@ Kelasi yil ham 30 ta ishni qo'lda tekshirasizmi? 📚
 
 В следующем году снова вручную? Или с ИИ за 1 минуту?
 
-Бесплатно. Начните сейчас: teztekshir.uz
+Бесплатно. Начните сейчас: bahola.uz
 
-#TezTekshir #AIbaho #NextYear #NewSchoolYear #OʻqituvchiUchun #УзбекистанУчителя #DigitalMaktab #UzbekistanTeachers
+#Bahola #AIbaho #NextYear #NewSchoolYear #OʻqituvchiUchun #УзбекистанУчителя #DigitalMaktab #UzbekistanTeachers
 ```
 
 ---

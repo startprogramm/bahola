@@ -13,7 +13,7 @@ Ko'pchilik o'qituvchilar "AI umumiy javob beradi" deb o'ylaydi. Aslida emas.
 **Umumiy sharh (eski usul):**
 > "Javob to'liq emas. Ko'proq o'qing."
 
-**TezTekshir AI sharhi:**
+**Bahola AI sharhi:**
 > "2-savol: O'quvchi fotosintez jarayonini to'g'ri tushuntirdi, lekin xlorofillning rolini ko'rsatmadi. +2 ball (3 dan). Tavsiya: xlorofill va quyosh energiyasi o'rtasidagi bog'liqlikni qo'shing."
 
 Farqni ko'ryapsizmi? Aniq. Qaysi savol. Nima yetishmayapti. Qanday yaxshilash kerak.
@@ -24,11 +24,11 @@ O'quvchi o'qiydi — va nimani o'zgartirish kerakligini tushunadi.
 
 🔗 teztek.uz
 
-#TezTekshir #AIGrading #OqituvchiUchun #FeedbackSifati #PresidentSchool #UzbekTaʼlim
+#Bahola #AIGrading #OqituvchiUchun #FeedbackSifati #PresidentSchool #UzbekTaʼlim
 
 ---
 
-**Visual suggestion:** Split-screen comparison. Left: vague red-marked paper. Right: TezTekshir feedback card with specific comment, score breakdown, and improvement tip. Clean, minimal design.
+**Visual suggestion:** Split-screen comparison. Left: vague red-marked paper. Right: Bahola feedback card with specific comment, score breakdown, and improvement tip. Clean, minimal design.
 
 ---
 
@@ -41,7 +41,7 @@ O'quvchi o'qiydi — va nimani o'zgartirish kerakligini tushunadi.
 **Общий комментарий (старый подход):**
 > «Ответ неполный. Читайте больше.»
 
-**Комментарий TezTekshir ИИ:**
+**Комментарий Bahola ИИ:**
 > «Вопрос 2: Ученик правильно объяснил процесс фотосинтеза, но не указал роль хлорофилла. +2 балла (из 3). Рекомендация: добавьте связь между хлорофиллом и солнечной энергией.»
 
 Видите разницу? Конкретно. Какой вопрос. Чего не хватает. Как улучшить.
@@ -52,4 +52,4 @@ O'quvchi o'qiydi — va nimani o'zgartirish kerakligini tushunadi.
 
 🔗 teztek.uz
 
-#TezTekshir #AIGrading #ДляУчителей #КачествоОбратнойСвязи #PresidentSchool
+#Bahola #AIGrading #ДляУчителей #КачествоОбратнойСвязи #PresidentSchool

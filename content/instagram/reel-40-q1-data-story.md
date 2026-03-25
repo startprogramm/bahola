@@ -17,7 +17,7 @@
 | 5 | Reaction | Close-up: teacher's face — small smile. Not celebration, just quiet satisfaction. | Music softens |
 | 6 | Text overlay | **"Birinchi chorak — raqamlar gapiradi."** fades in over dashboard | Music fades slightly |
 | 7 | Stat card | Animated count-up: total submissions graded this quarter. E.g. "847 ish tekshirildi." | Subtle count-up sound effect |
-| 8 | End card | TezTekshir logo. CTA text: "Sizning choragingizdagi raqamlar qanday?" | Music out |
+| 8 | End card | Bahola logo. CTA text: "Sizning choragingizdagi raqamlar qanday?" | Music out |
 
 ---
 
@@ -36,11 +36,11 @@ Birinchi chorak tugadi. Raqamlar gapiradi. 📊
 
 Sinf bo'yicha o'rtacha ball. Hafta-hafta taraqqiyot. Qaysi o'quvchi o'sdi — va qaysi birini qo'shimcha e'tibor kerak.
 
-TezTekshir bularni avtomatik to'playdi. Siz faqat qaror qilasiz.
+Bahola bularni avtomatik to'playdi. Siz faqat qaror qilasiz.
 
 Sizning choragingizdagi natijalar qanday ko'rindi? Izohda yozing 👇
 
-#TezTekshir #BirinchiChorak #OqituvchiHayoti #AIGrading #UzbekEducation #DashboardData #TeacherLife #Q1Close #PresidentSchool #EduTech #MaktabHayoti
+#Bahola #BirinchiChorak #OqituvchiHayoti #AIGrading #UzbekEducation #DashboardData #TeacherLife #Q1Close #PresidentSchool #EduTech #MaktabHayoti
 ```
 
 **English subtitle option:**
@@ -49,11 +49,11 @@ Q1 is done. Let the numbers talk. 📊
 
 Class averages. Week-by-week progress. Which students grew — and who needs more attention.
 
-TezTekshir tracks it all automatically. You just make the call.
+Bahola tracks it all automatically. You just make the call.
 
 What did your Q1 results look like? Comment below 👇
 
-#TezTekshir #Q1Close #AIGrading #TeacherLife #UzbekEducation #EdTech #DataDrivenTeaching
+#Bahola #Q1Close #AIGrading #TeacherLife #UzbekEducation #EdTech #DataDrivenTeaching
 ```
 
 ---
@@ -61,7 +61,7 @@ What did your Q1 results look like? Comment below 👇
 ## Hashtags (Uzbek post)
 
 ```
-#TezTekshir #BirinchiChorak #OqituvchiHayoti #AIGrading #UzbekEducation
+#Bahola #BirinchiChorak #OqituvchiHayoti #AIGrading #UzbekEducation
 #DashboardData #TeacherLife #Q1Close #PresidentSchool #EduTech
 #MaktabHayoti #AITaʼlim #Taraqqiyot #OʻquvchiNatijalari
 ```
@@ -70,7 +70,7 @@ What did your Q1 results look like? Comment below 👇
 
 ## Production Notes
 
-- **Key visual:** Real TezTekshir dashboard — use actual UI. No mockups. The authenticity of the real product is the hook.
+- **Key visual:** Real Bahola dashboard — use actual UI. No mockups. The authenticity of the real product is the hook.
 - **Teacher reaction:** Keep it understated. Quiet satisfaction > hype. Teachers trust data, they don't celebrate it loudly.
 - **Stat count-up:** Grading volume number should feel real and impressive but plausible. Coordinate with team to use actual figures if possible.
 - **Music:** Calm, focused. Think late-evening office ambiance — not triumphant, not sad. Reflective.

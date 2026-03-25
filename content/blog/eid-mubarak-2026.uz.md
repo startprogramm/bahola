@@ -1,17 +1,17 @@
 ---
-title: "TezTekshir jamoasidan Eid Muborak!"
+title: "Bahola jamoasidan Eid Muborak!"
 date: "2026-03-20"
-author: "TezTekshir jamoasi"
+author: "Bahola jamoasi"
 language: "uz"
 slug: "eid-mubarak-2026"
-excerpt: "Muborak Ramazon oyi yakunlanayotgan bu kunlarda TezTekshir barcha o'qituvchilar, o'quvchilar va oilalarimizga baxtli va muborak Ramazon Hayitini tilaydi. Hayit Muborak!"
+excerpt: "Muborak Ramazon oyi yakunlanayotgan bu kunlarda Bahola barcha o'qituvchilar, o'quvchilar va oilalarimizga baxtli va muborak Ramazon Hayitini tilaydi. Hayit Muborak!"
 coverImage: "/blog/cover-eid-mubarak.png"
 theme: "gold"
 ---
 
 # Hayit Muborak! 🌙
 
-Muborak Ramazon oyining so'nggi kunlarida biz, TezTekshir jamoasi, bir lahza to'xtab, sizga yuzlanmoqchimiz — baholash tizimlari va sun'iy intellektdan chetroqda turib, shunchaki aytmoqchimiz: **Hayit Muborak!**
+Muborak Ramazon oyining so'nggi kunlarida biz, Bahola jamoasi, bir lahza to'xtab, sizga yuzlanmoqchimiz — baholash tizimlari va sun'iy intellektdan chetroqda turib, shunchaki aytmoqchimiz: **Hayit Muborak!**
 
 ## O'qituvchilarga
 
@@ -27,7 +27,7 @@ Bu bayramni to'liq his eting. Yangilangan ruh bilan qaytib keling.
 
 ## Maktab jamoalarimizga
 
-TezTekshir o'z ishining bir qismini bizga ishonib topshirgan maktablar va jamoalar tufayli mavjud. O'zbekistonning Prezident maktablari mukammallikka halol intilish nima ekanini ko'rsatdi — va biz sizlarga xizmat qilishdan faxrlanamiz.
+Bahola o'z ishining bir qismini bizga ishonib topshirgan maktablar va jamoalar tufayli mavjud. O'zbekistonning Prezident maktablari mukammallikka halol intilish nima ekanini ko'rsatdi — va biz sizlarga xizmat qilishdan faxrlanamiz.
 
 ## Minnatdorlik so'zlari
 
@@ -39,4 +39,4 @@ Biz hali o'rganmoqdamiz, hali yaxshilayapmiz, hali quryapmiz. Lekin bugun biz si
 
 ---
 
-*TezTekshir jamoasi* 🌸
+*Bahola jamoasi* 🌸

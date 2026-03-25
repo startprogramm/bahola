@@ -2,7 +2,7 @@
 
 **Campaign:** Week 31 — First Week Back (Jan 4-8, 2027)
 **Duration:** 50-60 seconds
-**Theme:** Teacher testimonial concept — before/after emotional arc. How the first week back used to feel vs. now with TezTekshir. Nostalgic + relief.
+**Theme:** Teacher testimonial concept — before/after emotional arc. How the first week back used to feel vs. now with Bahola. Nostalgic + relief.
 
 ---
 
@@ -23,11 +23,11 @@ Split screen style. Left: dark, stressed teacher at desk late at night surrounde
 | 11-15s | BEFORE: Teacher circles wrong answers, writes comments by hand — laborious | "Har bir ish: 10-15 daqiqa" | Pen scratching sounds |
 | 16-20s | BEFORE: Stack of 30 notebooks still untouched. Exhausted sigh. | "30 ta ish... erta tongacha" | — |
 | 21-24s | TRANSITION: Screen wipe. Calendar flips to "Yangi Yil 2027" | — | Music shifts — brighter, hopeful |
-| 25-30s | NOW: Teacher at bright desk, opens TezTekshir. Submissions already graded. | "Hozir: AI kechasi ishladi" | "Men uxlayotganda..." |
+| 25-30s | NOW: Teacher at bright desk, opens Bahola. Submissions already graded. | "Hozir: AI kechasi ishladi" | "Men uxlayotganda..." |
 | 31-36s | NOW: Scroll through 28 graded submissions — each with detailed AI feedback | "28 ta ish ✅ — fikr-mulohaza bilan" | "Men uxlagan paytda AI baholab bo'ldi" |
 | 37-42s | NOW: Teacher taps one feedback — rich, specific, in Uzbek. Student name visible. | "Har bir o'quvchiga real fikr-mulohaza" | "Bu faqat siz bilmasangiz bo'ladi..." |
-| 43-48s | Teacher looks at camera. Calm smile. Coffee (not red-eyed). Morning light. | "Endi birinchi hafta — oddiy bir hafta" | "TezTekshir bilan hayot o'zgardi" |
-| 49-54s | End card: TezTekshir logo + "teztekshir.uz — bepul boshlang" | "Siz ham sinab ko'ring 👇" | — |
+| 43-48s | Teacher looks at camera. Calm smile. Coffee (not red-eyed). Morning light. | "Endi birinchi hafta — oddiy bir hafta" | "Bahola bilan hayot o'zgardi" |
+| 49-54s | End card: Bahola logo + "bahola.uz — bepul boshlang" | "Siz ham sinab ko'ring 👇" | — |
 
 ---
 
@@ -41,7 +41,7 @@ Yangi yil birinchi haftasi — o'qituvchilar uchun eng og'ir hafta edi.
 😔 Qo'lda yozilgan izohlar
 😴 Charchoqdan boshlanishi
 
-**Hozir TezTekshir bilan:**
+**Hozir Bahola bilan:**
 📱 Barcha ishlar avtomatik baholandi
 ✅ Batafsil fikr-mulohaza — har bir o'quvchi uchun
 ☀️ Ertalab faqat natijalarni ko'rish
@@ -49,7 +49,7 @@ Yangi yil birinchi haftasi — o'qituvchilar uchun eng og'ir hafta edi.
 Siz uxlagan paytda AI ishlaydi.
 Birinchi hafta endi — oddiy bir hafta 😊
 
-📲 teztekshir.uz — bepul boshlang
+📲 bahola.uz — bepul boshlang
 
 ---
 
@@ -63,7 +63,7 @@ Birinchi hafta endi — oddiy bir hafta 😊
 😔 Комментарии от руки
 😴 Начало года с усталостью
 
-**Сейчас с TezTekshir:**
+**Сейчас с Bahola:**
 📱 Все работы оценены автоматически
 ✅ Подробная обратная связь — каждому ученику
 ☀️ Утром — просто просматриваешь результаты
@@ -71,13 +71,13 @@ Birinchi hafta endi — oddiy bir hafta 😊
 Пока вы спите — ИИ работает.
 Первая неделя теперь — просто неделя 😊
 
-📲 teztekshir.uz — начните бесплатно
+📲 bahola.uz — начните бесплатно
 
 ---
 
 ## Hashtags
 
-#TezTekshir #IlgariVaHozir #ДоИПосле #BeforeAndAfter #OʻqituvchilarUchun #AIBaholash #Uzbekistan #PresidentSchools #EdTech #BackToSchool #TeacherLife #UzbekEducation #WorkSmarter #TeacherTestimonial
+#Bahola #IlgariVaHozir #ДоИПосле #BeforeAndAfter #OʻqituvchilarUchun #AIBaholash #Uzbekistan #PresidentSchools #EdTech #BackToSchool #TeacherLife #UzbekEducation #WorkSmarter #TeacherTestimonial
 
 ---
 

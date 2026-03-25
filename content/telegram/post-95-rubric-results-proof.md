@@ -26,9 +26,9 @@ Nima uchun? Chunki rubrik bilan o'quvchi biladi:
 
 Bu faqat baholash emas — bu o'rganishga yo'l ko'rsatish.
 
-TezTekshir'da rubrikni bir marta yarating — barcha topshiriqlarga qo'llang.
+Bahola'da rubrikni bir marta yarating — barcha topshiriqlarga qo'llang.
 
-👉 teztekshir.uz
+👉 bahola.uz
 
 ---
 
@@ -51,6 +51,6 @@ TezTekshir'da rubrikni bir marta yarating — barcha topshiriqlarga qo'llang.
 
 Это не просто оценка — это маршрут к улучшению.
 
-В TezTekshir создайте рубрику один раз — применяйте ко всем заданиям.
+В Bahola создайте рубрику один раз — применяйте ко всем заданиям.
 
-👉 teztekshir.uz
+👉 bahola.uz

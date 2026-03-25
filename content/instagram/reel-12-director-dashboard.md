@@ -10,7 +10,7 @@
 
 ## Concept
 
-Show the view from a school director's seat: one screen, 20+ teachers, every assessment tracked. The reel walks through the director dashboard — class overview, grading completion rates, submission counts — making the case that TezTekshir isn't just for teachers, it's a management tool for school leaders.
+Show the view from a school director's seat: one screen, 20+ teachers, every assessment tracked. The reel walks through the director dashboard — class overview, grading completion rates, submission counts — making the case that Bahola isn't just for teachers, it's a management tool for school leaders.
 
 ---
 
@@ -32,7 +32,7 @@ Text overlay on a full-width shot of the director dashboard loading.
 | 0:11–0:18 | Tap into a specific class — see assessment list with completion percentages | **"Qaysi sinfda ish qoldi?"** |
 | 0:19–0:27 | Drill into one assessment — student submission statuses (graded / pending / not submitted) visible at a glance | **"Har bir o'quvchi. Har bir ish."** |
 | 0:28–0:36 | Pull back to dashboard overview — numbers summarizing school-wide grading activity | **"Semestr oxiri — hamma narsa tayyor"** |
-| 0:37–0:42 | Static shot of the dashboard with school branding visible | **"TezTekshir — maktab rahbarlari uchun ham."** |
+| 0:37–0:42 | Static shot of the dashboard with school branding visible | **"Bahola — maktab rahbarlari uchun ham."** |
 
 ---
 
@@ -48,7 +48,7 @@ Text overlay on a full-width shot of the director dashboard loading.
 ```
 Maktab direktori uchun: 20 ta o'qituvchi, 1 ekranda 📊
 
-TezTekshir — faqat o'qituvchilar uchun emas.
+Bahola — faqat o'qituvchilar uchun emas.
 Direktor ham ko'radi:
 ✅ Qaysi sinflarda baholash tugadi
 ✅ Qaysi o'quvchilar topshirmagan
@@ -56,9 +56,9 @@ Direktor ham ko'radi:
 
 Semestr yopilishidan oldin — hamma narsa tartibda.
 
-👉 teztekshir.uz
+👉 bahola.uz
 
-#TezTekshir #MaktabRahbari #Direktor #AIbaho #UzbekistanEdu #PresidentSchool #DigitalMaktab #OʻqituvchiUchun
+#Bahola #MaktabRahbari #Direktor #AIbaho #UzbekistanEdu #PresidentSchool #DigitalMaktab #OʻqituvchiUchun
 ```
 
 ---

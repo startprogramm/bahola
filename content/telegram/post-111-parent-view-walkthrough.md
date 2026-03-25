@@ -18,14 +18,14 @@ Ilova o'rnatish yo'q. Ro'yxatdan o'tish yo'q. Faqat havola — va to'liq natija:
 
 Siz havola jo'natasiz — ota-ona o'z telefonida ochadi. Hammasi shu.
 
-TezTekshir orqali oila bilan shaffoflik — bir marta sozlash, doim ishlaydi.
+Bahola orqali oila bilan shaffoflik — bir marta sozlash, doim ishlaydi.
 
-👉 teztekshir.uz
+👉 bahola.uz
 
 ---
 
 **Hashtags:**
-#TezTekshir #Ota_ona #Baho #AIbaholash #UzbekMaktab #Shaffoflik
+#Bahola #Ota_ona #Baho #AIbaholash #UzbekMaktab #Shaffoflik
 
 **Notes:**
 - Keep tone warm and parent-focused

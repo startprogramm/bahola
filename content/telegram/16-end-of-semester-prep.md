@@ -16,7 +16,7 @@ Semester yakuniga 6-8 hafta qoldi. Bu vaqtda odatda nima bo'ladi?
 — Har bir o'qituvchi bir vaqtda 3-4 topshiriqni tekshiradi
 — Uyqusiz kechalar... siz bilasiz
 
-**TezTekshir bilan semesterni yopish rejasi:**
+**Bahola bilan semesterni yopish rejasi:**
 
 ☑️ Barcha sinflaringiz tizimda — kodni o'quvchilarga berib qo'ying
 ☑️ Asosiy topshiriqlar uchun baholash mezonlarini oldindan yuklang
@@ -27,7 +27,7 @@ Aprel boshida boshlasangiz — may oyida stressiz yopasiz.
 
 Vaqt yo'qotmang. Tizim tayyor — siz ham tayyorlaning. 🎯
 
-👉 teztekshir.uz
+👉 bahola.uz
 
 ---
 
@@ -40,7 +40,7 @@ Vaqt yo'qotmang. Tizim tayyor — siz ham tayyorlaning. 🎯
 — Каждый учитель проверяет 3–4 задания одновременно
 — Бессонные ночи... вы знаете
 
-**План закрытия семестра с TezTekshir:**
+**План закрытия семестра с Bahola:**
 
 ☑️ Все классы в системе — раздайте код ученикам заранее
 ☑️ Загрузите критерии оценивания для ключевых заданий
@@ -51,7 +51,7 @@ Vaqt yo'qotmang. Tizim tayyor — siz ham tayyorlaning. 🎯
 
 Не тяните. Система готова — подготовьтесь и вы. 🎯
 
-👉 teztekshir.uz
+👉 bahola.uz
 
 ---
 

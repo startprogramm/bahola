@@ -1,13 +1,13 @@
 # Post 115 — Telegram (Russian)
 **Campaign:** Week 39 — Assessment Analytics: Data-Driven Teaching Insights
 **Language:** Russian
-**Theme:** Spot weak topics before the exam using TezTekshir analytics
+**Theme:** Spot weak topics before the exam using Bahola analytics
 
 ---
 
 ⚠️ **Как узнать, какие темы «провалятся» на экзамене — за 2 недели до него?**
 
-Большинство учителей узнают о пробелах в знаниях уже после экзамена. TezTekshir даёт вам возможность увидеть это заранее.
+Большинство учителей узнают о пробелах в знаниях уже после экзамена. Bahola даёт вам возможность увидеть это заранее.
 
 Вот что нужно делать:
 
@@ -21,4 +21,4 @@
 
 💬 Замечали ли вы повторяющиеся слабые темы в своём классе? Поделитесь в комментариях!
 
-#TezTekshir #АналитикаДанных #Подготовка #ИИОценка
+#Bahola #АналитикаДанных #Подготовка #ИИОценка

@@ -11,12 +11,12 @@ duration: 45s
 # Reel 72 — Teacher-to-Teacher Tip Moment (45 Seconds)
 
 ## Concept
-One experienced TezTekshir teacher shares a grading tip directly to camera — voice + screen walkthrough. Peer-to-peer tone, not product demo. Feels authentic, like advice from a colleague. Shows teachers as the heroes, TezTekshir as their tool.
+One experienced Bahola teacher shares a grading tip directly to camera — voice + screen walkthrough. Peer-to-peer tone, not product demo. Feels authentic, like advice from a colleague. Shows teachers as the heroes, Bahola as their tool.
 
 ## Hook (0–4s)
 Teacher appears on camera (talking head), says directly:
 **"Bu maslahatni o'zim 3 oyda topdim — endi sizga 45 soniyada aytaman"**
-Cut to phone/tablet showing TezTekshir interface.
+Cut to phone/tablet showing Bahola interface.
 
 ## Scene Breakdown
 
@@ -26,7 +26,7 @@ Cut to phone/tablet showing TezTekshir interface.
 - Expression: mock exhaustion, then nod
 
 **[5–15s] — Maslahat 1: Rubrika shablonini saqlash**
-- Screen recording: TezTekshir assessment creation screen
+- Screen recording: Bahola assessment creation screen
 - Teacher's voiceover: "Bir marta yaxshi rubrika yozing — keyingi bahoda nusxalang"
 - On screen: cursor copies previous mark scheme text, pastes into new assessment
 - Overlay: "✅ Avvalgi rubrikadan nusxa oling"
@@ -50,14 +50,14 @@ Cut to phone/tablet showing TezTekshir interface.
 - Overlay: "📅 Haftada 2 soat = yiliga 3+ kun"
 
 **[42–45s] — End card**
-- Text: **"Siz ham TezTekshir ustasiga aylanishingiz mumkin"**
-- TezTekshir logo + "teztekshir.uz"
+- Text: **"Siz ham Bahola ustasiga aylanishingiz mumkin"**
+- Bahola logo + "bahola.uz"
 
 ## Caption
 ```
 O'qituvchilardan — o'qituvchilarga 💬
 
-3 maslahat, TezTekshir'da baholashni tezlashtiradi:
+3 maslahat, Bahola'da baholashni tezlashtiradi:
 
 1️⃣ Avvalgi rubrikadan nusxa oling
 2️⃣ AI natijalaridan dars rejasi tuzing
@@ -65,14 +65,14 @@ O'qituvchilardan — o'qituvchilarga 💬
 
 Siz ham o'z maslahatlaringizni izohda yozing 👇
 
-#TezTekshir #OʻqituvchilarMaslahat #AIBaholash #Hamjamiyat #UzbekTaʼlim
+#Bahola #OʻqituvchilarMaslahat #AIBaholash #Hamjamiyat #UzbekTaʼlim
 ```
 
 ## Production Notes
-- Teacher should be a real TezTekshir user if possible, or someone believable in that role
+- Teacher should be a real Bahola user if possible, or someone believable in that role
 - Casual, warm tone — not corporate. Like a colleague sharing a quick tip
 - Voiceover in Uzbek, clear and conversational
-- Screen recordings: use real TezTekshir UI, real grading data (anonymized)
+- Screen recordings: use real Bahola UI, real grading data (anonymized)
 - Text overlays: bold, short — max 5 words each
 - Music: upbeat lo-fi, low volume under voiceover
-- End card: logo + "teztekshir.uz" + comment CTA
+- End card: logo + "bahola.uz" + comment CTA

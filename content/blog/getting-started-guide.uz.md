@@ -1,7 +1,7 @@
 ---
-title: "TezTekshir bilan boshlash: 10 daqiqada birinchi sun'iy intellekt tomonidan baholangan dars"
+title: "Bahola bilan boshlash: 10 daqiqada birinchi sun'iy intellekt tomonidan baholangan dars"
 date: "2026-03-17"
-author: "TezTekshir jamoasi"
+author: "Bahola jamoasi"
 language: "uz"
 slug: "getting-started-guide"
 excerpt: "Yangi o'qituvchilar uchun bosqichma-bosqich qo'llanma: hisobingizni yarating, sinf o'rnating, birinchi vazifangizni yarating va birinchi sun'iy intellekt baholangan natijalarni oling — barchasi 10 daqiqa ichida."
@@ -9,18 +9,18 @@ coverImage: "/blog/cover-getting-started.png"
 theme: "green"
 ---
 
-# TezTekshir bilan boshlash: 10 daqiqada birinchi sun'iy intellekt tomonidan baholangan dars
+# Bahola bilan boshlash: 10 daqiqada birinchi sun'iy intellekt tomonidan baholangan dars
 
-TezTekshirga xush kelibsiz. Ushbu qo'llanma birinchi sun'iy intellekt tomonidan baholangan vazifaga erishish uchun kerak bo'lgan hamma narsani bosqichma-bosqich tushuntiradi. Bu taxminan 10 daqiqa oladi — boshlaymiz.
+Baholaga xush kelibsiz. Ushbu qo'llanma birinchi sun'iy intellekt tomonidan baholangan vazifaga erishish uchun kerak bo'lgan hamma narsani bosqichma-bosqich tushuntiradi. Bu taxminan 10 daqiqa oladi — boshlaymiz.
 
 ## 1-qadam: Hisob yaratish
 
-TezTekshirga kiring va **Ro'yxatdan o'tish** tugmasini bosing. Sizga kerak bo'ladi:
+Baholaga kiring va **Ro'yxatdan o'tish** tugmasini bosing. Sizga kerak bo'ladi:
 - Ismingiz
 - Elektron pochta manzili
 - Parol
 
-Rolingiz sifatida **O'qituvchi**ni tanlang. Agar maktabingiz allaqachon TezTekshirda bo'lsa, siz to'g'ridan-to'g'ri direktor tomonidan taklif qilingan bo'lishingiz mumkin — taklifnoma havola uchun elektron pochtangizni tekshiring.
+Rolingiz sifatida **O'qituvchi**ni tanlang. Agar maktabingiz allaqachon Baholada bo'lsa, siz to'g'ridan-to'g'ri direktor tomonidan taklif qilingan bo'lishingiz mumkin — taklifnoma havola uchun elektron pochtangizni tekshiring.
 
 ## 2-qadam: Birinchi sinfingizni yaratish
 
@@ -31,12 +31,12 @@ Quyidagilarni to'ldiring:
 - **Fan** — siz o'qitayotgan narsa
 - **Tavsif** (ixtiyoriy) — sinf haqida istalgan eslatmalar
 
-**Yaratish**ni bosing. Sinfingiz tayyor va TezTekshir o'quvchilaringiz ro'yxatdan o'tish uchun foydalanadigano noyob **qo'shilish kodi** yaratadi.
+**Yaratish**ni bosing. Sinfingiz tayyor va Bahola o'quvchilaringiz ro'yxatdan o'tish uchun foydalanadigano noyob **qo'shilish kodi** yaratadi.
 
 ## 3-qadam: O'quvchilaringizni taklif qilish
 
 Qo'shilish kodini o'quvchilaringiz bilan ulashing. Ular quyidagilarni bajarishlari kerak:
-1. TezTekshirda o'quvchi hisobi yaratish
+1. Baholada o'quvchi hisobi yaratish
 2. **Sinfga qo'shilish** sahifasiga o'tish
 3. Siz bergan kodni kiritish
 
@@ -49,7 +49,7 @@ Sinfingiz ichida **Yangi vazifa**ni bosing. Bu yerda siz baholash vazifasini soz
 Tafsilotlarni to'ldiring:
 - **Sarlavha** — bu qanday vazifa? (masalan, "3-bob testi" yoki "5-hafta lug'at testi")
 - **Javoblar sxemasi** — javob kalitingizni matn sifatida joylashtiring yoki fayl yuklang (PDF, Word, Excel yoki rasm). Sun'iy intellekt ana shu asosida baholaydi.
-- **Savol ballari** — har bir savol necha ball ekanligini kiriting. Bu TezTekshirga ballni savol bo'yicha taqsimlash imkonini beradi.
+- **Savol ballari** — har bir savol necha ball ekanligini kiriting. Bu Baholaga ballni savol bo'yicha taqsimlash imkonini beradi.
 - **Fikr-mulohaza tili** — o'zbek, rus yoki ingliz tilini tanlang.
 - **OCR turi** — "Standart" ko'p holatlarda ishlaydi. Murakkab diagrammalar yoki ko'p qismli savollar uchun "Batafsil"dan foydalaning.
 
@@ -61,7 +61,7 @@ Tafsilotlarni to'ldiring:
 
 O'quvchilar vazifani tugatganda, ular:
 1. Yozma javoblarini suratga oladilar (yaxshi yoritilgan, aniq fotosuratlar yaxshiroq ishlaydi)
-2. TezTekshirda vazifaga o'tadilar
+2. Baholada vazifaga o'tadilar
 3. Fotosuratlarini yukladilar (bir nechta sahifani yuklashlari mumkin)
 4. **Topshirish**ni bosilar
 

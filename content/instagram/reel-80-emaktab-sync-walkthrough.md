@@ -11,10 +11,10 @@ duration: 40s
 # Reel 80 — From Graded to eMaktab in 3 Clicks (40 Seconds)
 
 ## Concept
-A clean, satisfying screen-capture walkthrough showing the exact 3-step process to sync TezTekshir grades to eMaktab. No narration overload — just a teacher's hands, a phone, and the most satisfying sequence of green checkmarks an Uzbek teacher will see all day. Targets teachers who double-enter grades or still aren't using the sync feature.
+A clean, satisfying screen-capture walkthrough showing the exact 3-step process to sync Bahola grades to eMaktab. No narration overload — just a teacher's hands, a phone, and the most satisfying sequence of green checkmarks an Uzbek teacher will see all day. Targets teachers who double-enter grades or still aren't using the sync feature.
 
 ## Hook (0–5s)
-Close-up: a phone screen with 28 graded submissions in TezTekshir.
+Close-up: a phone screen with 28 graded submissions in Bahola.
 Bold overlay: **"Bular eMaktabga o'tishi kerak. Qo'lda? 20 daqiqa."**
 Subtext (RU): **"Вручную? 20 минут. Сейчас покажем как за 30 секунд."**
 Expectant pause. Finger hovers over screen.
@@ -22,7 +22,7 @@ Expectant pause. Finger hovers over screen.
 ## Scene Breakdown
 
 **[0–6s] — Holat / Ситуация**
-- Teacher has just finished grading — TezTekshir shows "28/28 graded ✅"
+- Teacher has just finished grading — Bahola shows "28/28 graded ✅"
 - Class name visible: "9-A — Matematika"
 - Overlay (UZ): "Baholash tugadi. eMaktabga yuborish qoldi."
 - Overlay (RU): "Оценивание завершено. Осталось — eMaktab."
@@ -41,7 +41,7 @@ Expectant pause. Finger hovers over screen.
 - Quick flash: eMaktab interface showing grades populating automatically (anonymized)
 
 **[22–30s] — 3-qadam: Tasdiqlash / Шаг 3: Подтверждение**
-- TezTekshir screen: "✅ Muvaffaqiyatli sinxronlashtirildi — 20:34"
+- Bahola screen: "✅ Muvaffaqiyatli sinxronlashtirildi — 20:34"
 - Overlay (UZ): "3️⃣ Vaqt tamg'asi saqlandi. Muddatdan 26 daqiqa oldin."
 - Overlay (RU): "3️⃣ Временная метка сохранена. За 26 минут до дедлайна."
 - Teacher exhales — relaxed, closes app
@@ -49,14 +49,14 @@ Expectant pause. Finger hovers over screen.
 **[30–37s] — Taqqoslash / Сравнение**
 - Before/After split:
   - Before: "28 bahoni eMaktabga qo'lda kiritish — ~20 daqiqa"
-  - After: "TezTekshir sinxronlash — 30 soniya"
+  - After: "Bahola sinxronlash — 30 soniya"
 - Overlay (RU): "Раньше: ~20 минут / Сейчас: 30 секунд"
 - Subtle timer icon spinning to show time saved
 
 **[37–40s] — End card**
 - Bold: **"3 qadam. 30 soniya. Xotirjam."**
 - Subtext (RU): "3 шага. 30 секунд. Спокойствие."
-- TezTekshir logo + "teztekshir.uz"
+- Bahola logo + "bahola.uz"
 
 ## Caption
 
@@ -65,7 +65,7 @@ Expectant pause. Finger hovers over screen.
 
 Ko'pchilik hali qo'lda kiritmoqda — bu esa 20 daqiqa ketadi.
 
-TezTekshir bilan:
+Bahola bilan:
 1️⃣ «eMaktabga yuborish» — bosing
 2️⃣ Sistema o'zi yuboradi
 3️⃣ Vaqt tamg'asi avtomatik saqlanadi
@@ -78,15 +78,15 @@ Soat 21:00 muhlati — endi muammo emas.
 
 Большинство всё ещё вводят вручную — это ~20 минут на класс.
 
-С TezTekshir: три нажатия, и всё в системе. С временной меткой.
+С Bahola: три нажатия, и всё в системе. С временной меткой.
 
-👉 teztekshir.uz — бесплатно
+👉 bahola.uz — бесплатно
 
-#TezTekshir #eMaktab #ВремяУчителя #OʻqituvchiVaqti #DigitalGrading #UzbekMaktab
+#Bahola #eMaktab #ВремяУчителя #OʻqituvchiVaqti #DigitalGrading #UzbekMaktab
 ```
 
 ## Production Notes
-- Screen recording: use real TezTekshir interface — clean, no test data visible
+- Screen recording: use real Bahola interface — clean, no test data visible
 - Show real eMaktab confirmation screen (anonymized) — authenticity builds trust
 - Timer/countdown graphic adds satisfying proof of time saved
 - Teacher hands only — no face needed for this one; focus is entirely on the screen

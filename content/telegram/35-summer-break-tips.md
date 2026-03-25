@@ -14,7 +14,7 @@ Lekin yoz — yangi o'quv yiliga tayyor bo'lish uchun ham ajoyib vaqt. Shuni unu
 
 1. 🛌 **Yaxshilab dam oling.** To'liq dam olgan o'qituvchi — yangi g'oyalar bilan qaytadi.
 
-2. 📁 **Eski baholash mezonlarini tartibga soling.** TezTekshir'dagi sinflaringizni ko'rib chiqing, kerak bo'lsa mezonlarni yangilang.
+2. 📁 **Eski baholash mezonlarini tartibga soling.** Bahola'dagi sinflaringizni ko'rib chiqing, kerak bo'lsa mezonlarni yangilang.
 
 3. 📚 **Yangi fanlar bo'yicha qiziqarli rubriklar yozing.** Kuz uchun tayyor materiallar — ishni sezilarli osonlashtiradi.
 
@@ -22,7 +22,7 @@ Lekin yoz — yangi o'quv yiliga tayyor bo'lish uchun ham ajoyib vaqt. Shuni unu
 
 5. ✨ **O'zingizni rag'batlantiring.** Bu o'quv yili siz uchun qanday o'tdi? Muvaffaqiyatlaringizni yozing.
 
-Kuz semestrida TezTekshir bilan yanada samaraliroq ishlashga tayyormisiz? 💪
+Kuz semestrida Bahola bilan yanada samaraliroq ishlashga tayyormisiz? 💪
 
 —
-🔗 app.teztekshir.uz
+🔗 app.bahola.uz

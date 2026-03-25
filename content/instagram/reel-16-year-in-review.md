@@ -1,4 +1,4 @@
-# Reel 16 — Year in Review: One Academic Year with TezTekshir
+# Reel 16 — Year in Review: One Academic Year with Bahola
 
 **Filename:** `reel-16-year-in-review.md`
 **Campaign:** Week 8 — Summer Wind-Down (2026-04-24)
@@ -10,7 +10,7 @@
 
 ## Concept
 
-A satisfying year-in-review reel from a teacher or director's POV. They scroll through TezTekshir — graded papers, score distributions, analytics — watching the numbers tick up. The message: one full academic year powered by AI grading. The tone is warm and proud, not salesy.
+A satisfying year-in-review reel from a teacher or director's POV. They scroll through Bahola — graded papers, score distributions, analytics — watching the numbers tick up. The message: one full academic year powered by AI grading. The tone is warm and proud, not salesy.
 
 ---
 
@@ -32,7 +32,7 @@ White counter animation on dark background, then cut to dashboard.
 | 0:10–0:16 | Submission screen: graded papers with scores visible (anonymized names) | **"Har bir o'quvchi — adolatli baho."** |
 | 0:17–0:22 | Analytics panel: average score chart climbing over months, submission count | **"Natijalar o'sdi. Vaqt tejaldi."** |
 | 0:23–0:27 | Full-screen stat: "~120 soat tejaldi" (fictional aggregate) | **"~120 soat — qaytarib olindi."** |
-| 0:28–0:30 | Logo + teztekshir.uz on clean background | **"Keyingi yil ham shunday."** |
+| 0:28–0:30 | Logo + bahola.uz on clean background | **"Keyingi yil ham shunday."** |
 
 ---
 
@@ -53,12 +53,12 @@ Bu o'quv yili bilan nima qildik? 📚✨
 ✅ 120 soatdan ortiq vaqt tejaldi (taxminan)
 ✅ Har bir o'quvchi — shaffof, adolatli baho
 
-TezTekshir bilan bir yil — siz ko'rgandan ham ko'p ish bo'ldi.
+Bahola bilan bir yil — siz ko'rgandan ham ko'p ish bo'ldi.
 
 Keyingi o'quv yiliga ham tayyor bo'ling 👇
-teztekshir.uz
+bahola.uz
 
-#TezTekshir #OquYili #YearInReview #AIbaho #UzbekistanEducation #EdTechUz #DigitalMaktab #OʻqituvchiUchun #TimeIsMoney
+#Bahola #OquYili #YearInReview #AIbaho #UzbekistanEducation #EdTechUz #DigitalMaktab #OʻqituvchiUchun #TimeIsMoney
 ```
 
 ---

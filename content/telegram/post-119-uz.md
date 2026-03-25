@@ -9,7 +9,7 @@
 
 Maktabingizda 20 o'qituvchi bor. Soat 21:00 — eMaktab muddati. Qaysi biri baholarni yubordi, qaysi biri hali kutmoqda?
 
-TezTekshir direktor paneli bunga aniq javob beradi.
+Bahola direktor paneli bunga aniq javob beradi.
 
 🟢 **Sinxronlangan** — baholar eMaktab'ga muvaffaqiyatli yuborilgan
 🟡 **Kutilmoqda** — baholash tugagan, lekin eksport hali amalga oshirilmagan
@@ -21,7 +21,7 @@ TezTekshir direktor paneli bunga aniq javob beradi.
 
 Maktab intizomi — ma'lumotdan boshlanadi.
 
-📲 TezTekshir — direktorlar uchun shaffoflik.
+📲 Bahola — direktorlar uchun shaffoflik.
 
-#TezTekshir #eMaktab #MaktabBoshqaruvi #Hisobot
+#Bahola #eMaktab #MaktabBoshqaruvi #Hisobot
 

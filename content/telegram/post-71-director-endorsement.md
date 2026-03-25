@@ -19,16 +19,16 @@ Direktor sifatida nima o'zgardi?
 — O'quvchi natijalari tezroq chiqdi — ota-onalar ham mamnun
 — Men esa umumiy rasm ko'ra oldim — qaysi sinf oldinda, qaysi yerda yordam kerak
 
-"TezTekshir — bu shunchaki vosita emas. Bu — maktab madaniyatining bir qismi bo'lib qoldi."
+"Bahola — bu shunchaki vosita emas. Bu — maktab madaniyatining bir qismi bo'lib qoldi."
 
 November — yil yakuniga tayyorgarlik vaqti.
 Yangi o'quv yilida maktabingizni ham qo'shing.
 
-📩 Maktabingizni ulash uchun yozing: @teztekshir
+📩 Maktabingizni ulash uchun yozing: @bahola
 
 🔗 teztek.uz
 
-#TezTekshir #DirektorNuqtaiNazari #AIGrading #MaktabRahbari #PresidentSchool #UzbekTaʼlim #YilYakuni #BirlikdaOsish
+#Bahola #DirektorNuqtaiNazari #AIGrading #MaktabRahbari #PresidentSchool #UzbekTaʼlim #YilYakuni #BirlikdaOsish
 
 ---
 
@@ -51,13 +51,13 @@ Yangi o'quv yilida maktabingizni ham qo'shing.
 — Результаты учеников появляются быстрее — родители довольны
 — Я вижу общую картину: какой класс впереди, где нужна помощь
 
-«TezTekshir — это уже не просто инструмент. Это часть культуры нашей школы.»
+«Bahola — это уже не просто инструмент. Это часть культуры нашей школы.»
 
 Ноябрь — время готовиться к итогам года.
 Присоединяйте вашу школу к следующему учебному году.
 
-📩 Напишите нам: @teztekshir
+📩 Напишите нам: @bahola
 
 🔗 teztek.uz
 
-#TezTekshir #МнениеДиректора #AIGrading #РуководительШколы #PresidentSchool #ОбразованиеУзбекистан #КонецГода
+#Bahola #МнениеДиректора #AIGrading #РуководительШколы #PresidentSchool #ОбразованиеУзбекистан #КонецГода

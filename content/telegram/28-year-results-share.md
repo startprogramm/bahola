@@ -18,17 +18,17 @@ status: draft
 
 📊 **O'quv yili yakuni yaqinlashmoqda. Siz nima sezdingiz?**
 
-TezTekshir bilan bu yil nima o'zgardi? Bir narsa bo'lsa ham — bo'ling, ulashing.
+Bahola bilan bu yil nima o'zgardi? Bir narsa bo'lsa ham — bo'ling, ulashing.
 
 Masalan:
 — "Baholashga ketadigan vaqtim 3 barobar kamaydi"
 — "O'quvchilarim izoh sifatini yaxshilanganini aytdi"
 — "Imtihon natijalarini direktor bilan tezroq muhokama qila oldim"
 
-💬 Quyida izohlarda yozing yoki @teztekshir_uz ga xabar yuboring. Eng yaxshi fikrlar keyingi postlarda e'lon qilinadi.
+💬 Quyida izohlarda yozing yoki @bahola_uz ga xabar yuboring. Eng yaxshi fikrlar keyingi postlarda e'lon qilinadi.
 
 Bu jamoa. Sizning tajribangiz — boshqa o'qituvchi uchun ilhom.
 
-📲 @teztekshir_uz
+📲 @bahola_uz
 
-#TezTekshir #YilNatijalari #OqituvchiJamoa #MaktabUzbekiston
+#Bahola #YilNatijalari #OqituvchiJamoa #MaktabUzbekiston

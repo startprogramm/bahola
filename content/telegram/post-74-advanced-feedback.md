@@ -10,7 +10,7 @@ campaign: product-depth
 
 O'quvchilar rivojlanishi uchun aniq, batafsil fikr kerak.
 
-TezTekshir faqat ball bermaydi — har bir ish bo'yicha:
+Bahola faqat ball bermaydi — har bir ish bo'yicha:
 
 **Matematika uchun:**
 — Qaysi qadam to'g'ri, qaysi qadam noto'g'ri
@@ -36,11 +36,11 @@ Bu — sinfda 30 ta o'quvchiga yakkama-yakka fikr berish imkoniyati.
 
 🔗 teztek.uz
 
-#TezTekshir #BatafsilFikr #AIGrading #OqituvchiUchun #PresidentSchool #UzbekTaʼlim #Rubrika #PersonalFeedback #OsonBaholash
+#Bahola #BatafsilFikr #AIGrading #OqituvchiUchun #PresidentSchool #UzbekTaʼlim #Rubrika #PersonalFeedback #OsonBaholash
 
 ---
 
-**Visual suggestion:** Side-by-side comparison — left: simple "15/20" grade with no context; right: TezTekshir feedback box with structured bullet points per rubric criterion. Highlight the depth and specificity on the right side. Clean typography, brand teal accent on the feedback panel.
+**Visual suggestion:** Side-by-side comparison — left: simple "15/20" grade with no context; right: Bahola feedback box with structured bullet points per rubric criterion. Highlight the depth and specificity on the right side. Clean typography, brand teal accent on the feedback panel.
 
 ---
 
@@ -50,7 +50,7 @@ Bu — sinfda 30 ta o'quvchiga yakkama-yakka fikr berish imkoniyati.
 
 Чтобы ученики росли, им нужны конкретные, развёрнутые комментарии.
 
-TezTekshir не просто ставит баллы — по каждой работе:
+Bahola не просто ставит баллы — по каждой работе:
 
 **По математике:**
 — Какой шаг правильный, какой — нет
@@ -76,4 +76,4 @@ TezTekshir не просто ставит баллы — по каждой ра�
 
 🔗 teztek.uz
 
-#TezTekshir #РазвёрнутаяОценка #AIПроверка #ДляУчителей #PresidentSchool #ОбразованиеУзбекистан #Рубрика #ПерсональнаяОценка
+#Bahola #РазвёрнутаяОценка #AIПроверка #ДляУчителей #PresidentSchool #ОбразованиеУзбекистан #Рубрика #ПерсональнаяОценка

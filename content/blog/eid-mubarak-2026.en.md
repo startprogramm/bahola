@@ -1,17 +1,17 @@
 ---
-title: "Eid Mubarak from TezTekshir"
+title: "Eid Mubarak from Bahola"
 date: "2026-03-20"
-author: "TezTekshir Team"
+author: "Bahola Team"
 language: "en"
 slug: "eid-mubarak-2026"
-excerpt: "As Ramadan draws to a close, TezTekshir wishes all our teachers, students, and families a joyful and blessed Eid al-Fitr. Eid Mubarak!"
+excerpt: "As Ramadan draws to a close, Bahola wishes all our teachers, students, and families a joyful and blessed Eid al-Fitr. Eid Mubarak!"
 coverImage: "/blog/cover-eid-mubarak.png"
 theme: "gold"
 ---
 
 # Eid Mubarak! 🌙
 
-As the month of Ramadan comes to an end, we at TezTekshir want to pause and say something simple: **Eid Mubarak to every one of you.**
+As the month of Ramadan comes to an end, we at Bahola want to pause and say something simple: **Eid Mubarak to every one of you.**
 
 ## To Our Teachers
 
@@ -29,7 +29,7 @@ Enjoy this holiday fully. Come back to your books feeling fresh.
 
 ## To Our School Communities
 
-TezTekshir exists because schools and communities trusted us with a small piece of their work. The Presidential Schools of Uzbekistan show what it looks like to chase excellence with sincerity. We are honored to serve you.
+Bahola exists because schools and communities trusted us with a small piece of their work. The Presidential Schools of Uzbekistan show what it looks like to chase excellence with sincerity. We are honored to serve you.
 
 ## A Note of Thanks
 
@@ -41,4 +41,4 @@ We are still learning, still growing, still building. But today, we stop to cele
 
 ---
 
-*The TezTekshir Team* 🌸
+*The Bahola Team* 🌸

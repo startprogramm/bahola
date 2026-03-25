@@ -8,15 +8,15 @@
 
 ## Concept
 
-Visual journey showing TezTekshir spreading across schools in Uzbekistan. Animated map with school-by-school reveal, or fast montage of different school names/cities appearing. Tone: proud movement, growing community. Ends with a direct challenge to the viewer's school. Caption in Uzbek.
+Visual journey showing Bahola spreading across schools in Uzbekistan. Animated map with school-by-school reveal, or fast montage of different school names/cities appearing. Tone: proud movement, growing community. Ends with a direct challenge to the viewer's school. Caption in Uzbek.
 
 ---
 
 ## Hook
 
 **On-screen text (first 2 seconds):**
-> **"Bu maktablar TezTekshir bilan ishlashyapti. Sizniki-chi?"**
-> *(These schools are working with TezTekshir. What about yours?)*
+> **"Bu maktablar Bahola bilan ishlashyapti. Sizniki-chi?"**
+> *(These schools are working with Bahola. What about yours?)*
 
 ---
 
@@ -30,14 +30,14 @@ Visual journey showing TezTekshir spreading across schools in Uzbekistan. Animat
 | 4 | Accelerate | Dots light up faster. Map fills. Momentum builds visually. | Pings accelerate into a rapid sequence |
 | 5 | Pause on map | Full map. Glowing cities. Brief hold — 1 second. | Music peaks, then brief silence |
 | 6 | Challenge text | Text over map: **"Sizning maktabingiz qachon?"** | Single piano note or bass hit |
-| 7 | End card | TezTekshir logo. "Bepul boshlang." CTA. | Upbeat close |
+| 7 | End card | Bahola logo. "Bepul boshlang." CTA. | Upbeat close |
 
 ---
 
 ## Text Overlays
 
 ```
-Shot 1:  "Bu maktablar TezTekshir bilan ishlashyapti."
+Shot 1:  "Bu maktablar Bahola bilan ishlashyapti."
 Shot 6:  "Sizning maktabingiz qachon?"
 Shot 7:  "Bepul boshlang → [link]"
 ```
@@ -48,7 +48,7 @@ Shot 7:  "Bepul boshlang → [link]"
 
 **Uzbek:**
 ```
-Bu maktablar allaqachon TezTekshir bilan ishlashyapti 📍
+Bu maktablar allaqachon Bahola bilan ishlashyapti 📍
 
 Toshkent. Samarqand. Buxoro. Namangan. Andijon.
 
@@ -56,7 +56,7 @@ Har kuni yangi maktablar qo'shilmoqda.
 
 Sizning maktabingiz qachon? 👇
 
-#TezTekshir #UzbekMaktab #AIGrading #PresidentSchool #UzbekEducation #MaktabTarmoqi #EduTech #BepulBoshlang #OqituvchiHayoti #MaktabHayoti
+#Bahola #UzbekMaktab #AIGrading #PresidentSchool #UzbekEducation #MaktabTarmoqi #EduTech #BepulBoshlang #OqituvchiHayoti #MaktabHayoti
 ```
 
 ---
@@ -64,7 +64,7 @@ Sizning maktabingiz qachon? 👇
 ## Hashtags
 
 ```
-#TezTekshir #UzbekMaktab #AIGrading #PresidentSchool
+#Bahola #UzbekMaktab #AIGrading #PresidentSchool
 #UzbekEducation #MaktabTarmoqi #EduTech #BepulBoshlang
 #OqituvchiHayoti #MaktabHayoti #AITaʼlim #Uzbekiston
 ```

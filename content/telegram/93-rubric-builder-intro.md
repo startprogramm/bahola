@@ -7,7 +7,7 @@
 
 ---
 
-📋 **TezTekshir'da o'z baholash mezonlaringizni yarating**
+📋 **Bahola'da o'z baholash mezonlaringizni yarating**
 
 Har bir o'qituvchining o'z talablari bor. Shuning uchun biz "Rubrik quruvchi" yaratdik — siz o'zingiz mezonlarni belgilaysiz, AI esa shu mezonlar asosida baholaydi.
 
@@ -26,8 +26,8 @@ Natija: O'quvchilar faqat umumiy ball emas — *nima uchun* shunday ball olganin
 
 Bu — adolatli baholash. Tizimli baholash. Vaqtni tejaydigan baholash.
 
-👉 Sinab ko'ring: teztekshir.uz
+👉 Sinab ko'ring: bahola.uz
 
 ---
 
-**CTA:** teztekshir.uz
+**CTA:** bahola.uz

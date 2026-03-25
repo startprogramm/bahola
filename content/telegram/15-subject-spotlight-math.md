@@ -7,7 +7,7 @@
 
 ---
 
-🔢 **TezTekshir matematikani qanday baholaydi?**
+🔢 **Bahola matematikani qanday baholaydi?**
 
 Ko'p o'qituvchilar so'raydi: "Matematika ishlarini ham bajara oladimi?"
 
@@ -23,7 +23,7 @@ O'quvchi javobi (qo'lda yozilgan):
 x = 3
 ```
 
-TezTekshir nima qiladi:
+Bahola nima qiladi:
 📸 Rasm yuklanadi → AI qo'lda yozilgan tenglamalarni o'qiydi
 🔍 Har bir qadam alohida tekshiriladi
 🎯 Noto'g'ri qadam aniqlansa — qisman ball beriladi (masalan, 2/3)
@@ -34,7 +34,7 @@ Bu shunchaki "to'g'ri/noto'g'ri" emas — bu **jarayon bo'yicha baholash**.
 Natija? O'quvchi qayerda xato qilganini tushunadi. Siz esa 30 ta ishni 20 daqiqada tekshirasiz.
 
 Matematika o'qituvchilari — bu siz uchun! 👇
-👉 teztekshir.uz
+👉 bahola.uz
 
 ---
 

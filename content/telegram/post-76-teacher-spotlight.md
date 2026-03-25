@@ -13,7 +13,7 @@ languages: [uz, ru]
 
 Malika 3 ta sinfda 120 nafar o'quvchiga dars beradi. Har chorak yakunida bir hafta — tekshirish haftalari. Kechasi soat 23:00 gacha ish.
 
-TezTekshirdan foydalana boshlagach, o'sha 3 soatlik kechalar **45 daqiqaga** tushdi.
+Baholadan foydalana boshlagach, o'sha 3 soatlik kechalar **45 daqiqaga** tushdi.
 
 Endi u shu vaqtni dars tayyorlashga sarflaydi. O'quvchilari farqni sezdi.
 
@@ -29,7 +29,7 @@ Siz taniyotgan shunday o'qituvchini tag qiling 👇 Ular ham bu vaqtga loyiq.
 
 Малика ведёт 3 класса, 120 учеников. В конце каждой четверти — неделя проверок. До 23:00 за столом.
 
-После того, как она начала пользоваться TezTekshir, те самые 3-часовые вечера сократились до **45 минут**.
+После того, как она начала пользоваться Bahola, те самые 3-часовые вечера сократились до **45 минут**.
 
 Теперь это время идёт на подготовку к урокам. Ученики почувствовали разницу.
 

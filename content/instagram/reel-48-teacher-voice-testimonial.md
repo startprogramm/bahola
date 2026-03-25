@@ -8,7 +8,7 @@
 
 ## Concept
 
-Talking-head style reel — a real teacher (or teacher-actor) speaks directly to camera about their experience with TezTekshir. Warm, conversational, authentic. No polished corporate feel. This is a colleague talking to colleagues. Tone: honest, human, slightly emotional. The message: "I was skeptical too — here's what actually happened."
+Talking-head style reel — a real teacher (or teacher-actor) speaks directly to camera about their experience with Bahola. Warm, conversational, authentic. No polished corporate feel. This is a colleague talking to colleagues. Tone: honest, human, slightly emotional. The message: "I was skeptical too — here's what actually happened."
 
 The authenticity of the format is the product of. Real words from a real person carry more weight than any stats graphic.
 
@@ -59,7 +59,7 @@ Ishoning — arziydigan edi.
 | 3 | 0:15–0:28 | The reveal | Cut to screen recording insert: 30 submissions processed. Time stamp visible. Back to teacher face. | "30 ish. 10 daqiqa." | Music build |
 | 4 | 0:28–0:40 | Emotional pivot | Teacher smiles, slight pause before "Endi har juma..." | "Har juma — dam olaman." | Music softer |
 | 5 | 0:40–0:52 | CTA delivery | Teacher nods to camera. Confident, warm. | "Bir hafta sinab ko'ring — bepul." | Warm, resolved music note |
-| 6 | 0:52–0:60 | Outro | TezTekshir logo. Link. Simple end card. | "teztek.uz — bepul boshlang" | Gentle fade |
+| 6 | 0:52–0:60 | Outro | Bahola logo. Link. Simple end card. | "teztek.uz — bepul boshlang" | Gentle fade |
 
 ---
 
@@ -82,7 +82,7 @@ Bu sizga vaqt beradi.
 Bir hafta sinab ko'ring — bepul.
 Bio'dagi havola 👇
 
-#TezTekshir #OqituvchiHikoyasi #AIGrading #ReallTajriba
+#Bahola #OqituvchiHikoyasi #AIGrading #ReallTajriba
 #UzbekTaʼlim #OqituvchiUchun #PresidentSchool #BepulBoshlang
 #MaktabHayoti #EduTech #SmartOqituvchi
 ```
@@ -92,7 +92,7 @@ Bio'dagi havola 👇
 ## Hashtags
 
 ```
-#TezTekshir #OqituvchiHikoyasi #AIGrading #ReallTajriba
+#Bahola #OqituvchiHikoyasi #AIGrading #ReallTajriba
 #UzbekTaʼlim #OqituvchiUchun #PresidentSchool #BepulBoshlang
 #MaktabHayoti #EduTech #SmartOqituvchi #AITaʼlim
 #Testimonial #10Daqiqa #IshoningArziydigan

@@ -11,17 +11,17 @@ duration: 45s
 # Reel 83 — Director Onboards an Entire School in One Move (45 Seconds)
 
 ## Concept
-A school director doesn't invite teachers one by one — they send a single school invite link and watch the whole staff onboard themselves. This reel targets directors and deputy principals who are considering TezTekshir but worry about the rollout effort. The message: you do 1 thing, your teachers do the rest. The dashboard fills up with green as teachers join one by one. Satisfying, effortless, inevitable.
+A school director doesn't invite teachers one by one — they send a single school invite link and watch the whole staff onboard themselves. This reel targets directors and deputy principals who are considering Bahola but worry about the rollout effort. The message: you do 1 thing, your teachers do the rest. The dashboard fills up with green as teachers join one by one. Satisfying, effortless, inevitable.
 
 ## Hook (0–5s)
 Director's tablet. Empty teacher list. Bold overlay: **"12 ta o'qituvchi. Birma-bir qo'shasizmi?"**
 Subtext (RU): **"12 учителей. Вы добавляете каждого вручную?"**
-Director looks up — slight smile. Headshake. Opens TezTekshir director panel.
+Director looks up — slight smile. Headshake. Opens Bahola director panel.
 
 ## Scene Breakdown
 
 **[0–7s] — Muammo / Проблема**
-- Empty TezTekshir teacher panel — 0 teachers registered
+- Empty Bahola teacher panel — 0 teachers registered
 - Director looks at the screen, then at the hallway (implied: a school full of teachers)
 - Overlay (UZ): "Ko'p o'qituvchi. Kam vaqt. Qanday qilsa bo'ladi?"
 - Overlay (RU): "Много учителей. Мало времени. Как это сделать?"
@@ -30,7 +30,7 @@ Director looks up — slight smile. Headshake. Opens TezTekshir director panel.
 - Director opens Director Dashboard → "O'qituvchilar" section
 - Taps "Maktab taklifnomasini nusxalash" — single tap copies the school invite link
 - Director opens Telegram → pastes link into school's staff group chat
-- Sends message: "TezTekshirga ro'yxatdan o'ting: [link] 👆"
+- Sends message: "Baholaga ro'yxatdan o'ting: [link] 👆"
 - Overlay (UZ): "1 ta tap. 1 ta havola. Barcha o'qituvchilarga."
 - Overlay (RU): "1 нажатие. 1 ссылка. Всем учителям."
 
@@ -54,7 +54,7 @@ Director looks up — slight smile. Headshake. Opens TezTekshir director panel.
 **[40–45s] — End card**
 - Bold (UZ): **"Maktabingizni 1 havolada ulang."**
 - Bold (RU): **"Подключите всю школу — одной ссылкой."**
-- TezTekshir logo + "teztekshir.uz"
+- Bahola logo + "bahola.uz"
 
 ## Caption
 
@@ -81,14 +81,14 @@ Yangi o'quv yili uchun eng oson onboarding.
 
 Самый простой онбординг для нового учебного года.
 
-👉 teztekshir.uz — для директоров
+👉 bahola.uz — для директоров
 
-#TezTekshir #SchoolDirector #MaktabBoshqaruvi #DigitalSchool #TeacherOnboarding #PresidentialSchool #DirectorDashboard
+#Bahola #SchoolDirector #MaktabBoshqaruvi #DigitalSchool #TeacherOnboarding #PresidentialSchool #DirectorDashboard
 ```
 
 ## Production Notes
 - The populating teacher list is the visual centrepiece — make each "qo'shildi ✅" appear with satisfying sound + pop animation
-- Show real TezTekshir director dashboard — anonymized teacher names are fine
+- Show real Bahola director dashboard — anonymized teacher names are fine
 - Director actor: calm authority, not rushed — this is someone who knows how to delegate
 - The Telegram send scene should feel casual and fast — one fluid motion
 - Timelapse of teachers joining should feel organic, not instant (not all at once — sequential, like real life)

@@ -21,4 +21,4 @@ Qish ta'tili boshlanishidan oldin 10 daqiqa ajrating. Bahor semestri ancha osonr
 
 Yanvarning birinchi haftasi odatda shoshqaloq bo'ladi. Hozir tayyorlanib qo'ysangiz, osuda boshlanadi 💪
 
-👉 teztekshir.uz
+👉 bahola.uz

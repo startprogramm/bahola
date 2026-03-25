@@ -15,11 +15,11 @@ Eng yaxshi o'qituvchilar semestr oxirida emas, har haftada baholaydi. Bu kichik 
 
 Qoida oddiy:
 👉 Har juma ishlarni yuklang
-👉 TezTekshir bir necha daqiqada baholaydi
+👉 Bahola bir necha daqiqada baholaydi
 👉 O'quvchilar dushanba kuni natijalarni oladi
 
 Semestr oxirida mingta ish emas — har haftada 20-30 ta. Bosim yo'q, tartib bor.
 
 Bu semestr shu odatni o'rnating. Birinchi juma — bu hafta 💡
 
-👉 teztekshir.uz
+👉 bahola.uz

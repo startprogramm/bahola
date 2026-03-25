@@ -15,9 +15,9 @@
 | 3 | Upload moment | Teacher photographs papers with phone — scan animation overlay | Beat hits harder |
 | 4 | Grading result | Scores appear on screen — green checkmarks, feedback lines populating | Beat peak |
 | 5 | Teacher reaction | Teacher looks up from phone, exhales, smiles. Relief. | Beat softens |
-| 6 | Fast montage | 4 quick cuts: different classrooms, different subjects, different schools — all using TezTekshir | Montage music swells |
+| 6 | Fast montage | 4 quick cuts: different classrooms, different subjects, different schools — all using Bahola | Montage music swells |
 | 7 | Text overlay | **"Bu faqat boshlangich."** in bold white on dark background | Music pauses for 1 beat |
-| 8 | End card | TezTekshir logo. Tagline: "2-semestr yangiliklari kelmoqda." Small "Follow" nudge. | Soft upbeat close |
+| 8 | End card | Bahola logo. Tagline: "2-semestr yangiliklari kelmoqda." Small "Follow" nudge. | Soft upbeat close |
 
 ---
 
@@ -40,7 +40,7 @@ Bu hammasi bo'lmadi.
 
 Yangilanishlarni birinchi bo'lib ko'rmoqchimisiz? Sahifamizga obuna bo'ling 👆
 
-#TezTekshir #2Semestr #AIGrading #UzbekEducation #EduTech #Yangiliklar #OqituvchiHayoti #PresidentSchool #TeacherLife #MaktabHayoti #Boshlangich #Kelmoqda
+#Bahola #2Semestr #AIGrading #UzbekEducation #EduTech #Yangiliklar #OqituvchiHayoti #PresidentSchool #TeacherLife #MaktabHayoti #Boshlangich #Kelmoqda
 ```
 
 **English subtitle option:**
@@ -53,7 +53,7 @@ Semester 2 — new features, new possibilities, new results.
 
 Want to see what's coming? Follow for updates 👆
 
-#TezTekshir #Semester2 #AIGrading #UzbekEducation #EdTech #ComingSoon #TeacherLife
+#Bahola #Semester2 #AIGrading #UzbekEducation #EdTech #ComingSoon #TeacherLife
 ```
 
 ---
@@ -61,7 +61,7 @@ Want to see what's coming? Follow for updates 👆
 ## Hashtags (Uzbek post)
 
 ```
-#TezTekshir #2Semestr #AIGrading #UzbekEducation #EduTech
+#Bahola #2Semestr #AIGrading #UzbekEducation #EduTech
 #Yangiliklar #OqituvchiHayoti #PresidentSchool #TeacherLife
 #MaktabHayoti #Boshlangich #Kelmoqda #AITaʼlim
 ```

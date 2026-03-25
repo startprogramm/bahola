@@ -14,7 +14,7 @@ Ha, mumkin! Mana qanday 👇
 
 **2-qadam:** Havolani o'qituvchiga yuboring (Telegram, WhatsApp yoki email orqali).
 
-**3-qadam:** O'qituvchi havola orqali TezTekshir'ga ro'yxatdan o'tadi — sinf avtomatik tarzda uning hisobiga qo'shiladi.
+**3-qadam:** O'qituvchi havola orqali Bahola'ga ro'yxatdan o'tadi — sinf avtomatik tarzda uning hisobiga qo'shiladi.
 
 **4-qadam:** O'qituvchi kiradi, birinchi topshiriqni yaratadi — tayyor!
 
@@ -22,4 +22,4 @@ Ha, mumkin! Mana qanday 👇
 
 Yangi o'qituvchilarni qo'shish hech qachon bu qadar oson bo'lmagan!
 
-#TezTekshir #OʻqituvchilarUchun #OnboardingOson
+#Bahola #OʻqituvchilarUchun #OnboardingOson

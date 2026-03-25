@@ -44,7 +44,7 @@ Teacher hand taps phone screen — app opens.
 - Overlay: "O'quvchilar endi yuborishi mumkin!"
 
 **[55–60s] — Result card**
-- Split screen: before (stack of papers) vs after (TezTekshir screen)
+- Split screen: before (stack of papers) vs after (Bahola screen)
 - Text: **"5 daqiqadan kam vaqtda — tayyor!"**
 
 ## Caption
@@ -55,9 +55,9 @@ Birinchi topshiriqni qanday yaratish kerak? 👇
 
 Hammasi 5 daqiqadan kam vaqtda! 🚀
 
-TezTekshir bilan boshlang 👆 bio'dagi havola orqali
+Bahola bilan boshlang 👆 bio'dagi havola orqali
 
-#TezTekshir #QoʻllanmaOʻqituvchilar #AIBaholash #UzbekistanTeachers
+#Bahola #QoʻllanmaOʻqituvchilar #AIBaholash #UzbekistanTeachers
 ```
 
 ## Production Notes
@@ -65,4 +65,4 @@ TezTekshir bilan boshlang 👆 bio'dagi havola orqali
 - Text overlays: bold white on semi-transparent dark pill
 - Music: upbeat lo-fi, ~100 BPM
 - Each step label fades in with the action, fades out before next step
-- End card: TezTekshir logo + "teztekshir.uz" + CTA "Bio'dagi havola"
+- End card: Bahola logo + "bahola.uz" + CTA "Bio'dagi havola"

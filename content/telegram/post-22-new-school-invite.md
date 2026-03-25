@@ -8,32 +8,32 @@ status: draft
 
 <!-- === UZBEK VERSION === -->
 
-🏫 **Maktabingiz hali TezTekshir-da emas?**
+🏫 **Maktabingiz hali Bahola-da emas?**
 
 Yangi o'quv yili boshlanishidan oldin — bir qadam qo'ying.
 
-TezTekshir — o'qituvchilar uchun AI baholash tizimi.
+Bahola — o'qituvchilar uchun AI baholash tizimi.
 Fotosuratni yuklaysiz → AI tekshiradi → natija tayyor.
 
 **Bepul. Ro'yxatdan o'tish — 2 daqiqa.**
 
 Keyingi yilni osonroq boshlang.
 
-👉 teztekshir.uz
+👉 bahola.uz
 
 ---
 
 <!-- === RUSSIAN VERSION === -->
 
-🏫 **Ваша школа ещё не в TezTekshir?**
+🏫 **Ваша школа ещё не в Bahola?**
 
 До начала нового учебного года — сделайте один шаг.
 
-TezTekshir — система ИИ-проверки работ для учителей.
+Bahola — система ИИ-проверки работ для учителей.
 Загружаете фото → ИИ проверяет → результат готов.
 
 **Бесплатно. Регистрация — 2 минуты.**
 
 Начните следующий год проще.
 
-👉 teztekshir.uz
+👉 bahola.uz

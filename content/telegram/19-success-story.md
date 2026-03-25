@@ -11,7 +11,7 @@
 
 Shodiya opa — matematika o'qituvchisi. 4 sinf, 120 dan ortiq o'quvchi.
 
-U TezTekshir-ni sentyabr oyida boshladi. Avvaliga shubha bilan — "AI to'g'ri baholar beradimi?"
+U Bahola-ni sentyabr oyida boshladi. Avvaliga shubha bilan — "AI to'g'ri baholar beradimi?"
 
 Endi mart oyida u nima deydi?
 
@@ -25,7 +25,7 @@ Bir semestr. Bir o'quvchi emas — butun sinf uchun yangi tizim.
 
 Siz ham sinab ko'ring — **bepul**, hoziroq.
 
-👉 teztekshir.uz | Hamkasbingizga ulashing 👇
+👉 bahola.uz | Hamkasbingizga ulashing 👇
 
 ---
 

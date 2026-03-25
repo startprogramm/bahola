@@ -1,4 +1,4 @@
-# Reel 79 — Weak Spot Finder: Manual vs TezTekshir
+# Reel 79 — Weak Spot Finder: Manual vs Bahola
 
 **Week:** 39 (Mar 1-5, 2027)
 **Theme:** Assessment Analytics — Data-Driven Teaching Insights
@@ -8,13 +8,13 @@
 
 ## Concept
 
-Split-screen showing a teacher manually searching through paper tests to find weak topics (slow, frustrating) vs. TezTekshir instantly surfacing the same insight on the analytics screen.
+Split-screen showing a teacher manually searching through paper tests to find weak topics (slow, frustrating) vs. Bahola instantly surfacing the same insight on the analytics screen.
 
 ---
 
 ## Visual Sequence
 
-| Time | Left Screen (Manual) | Right Screen (TezTekshir) |
+| Time | Left Screen (Manual) | Right Screen (Bahola) |
 |------|---------------------|--------------------------|
 | 0-5s | Teacher at desk, pile of 30 paper tests | Teacher at desk, laptop open |
 | 6-12s | Flipping through pages, making tally marks in notebook | Clicks "Analytics" → topic chart loads in 2 seconds |
@@ -22,15 +22,15 @@ Split-screen showing a teacher manually searching through paper tests to find we
 | 21-28s | Head in hands, calculator out, totaling columns | One tap on red bar → list of 8 students who need help |
 | 29-36s | Clock shows 45 minutes elapsed | Clock shows 90 seconds elapsed |
 | 37-42s | Teacher still analyzing | Teacher already planning remediation activity |
-| 43-45s | Split closes, TezTekshir logo center | "Zaif mavzularni 90 soniyada toping" |
+| 43-45s | Split closes, Bahola logo center | "Zaif mavzularni 90 soniyada toping" |
 
 ---
 
 ## Voiceover (Uzbek)
 
-> *"30 ta ish qog'ozidan zaif mavzuni topish — 45 daqiqa. TezTekshirda? 90 soniya. Analytics panel sinf bo'yicha eng zaif mavzularni avtomatik aniqlaydi. Siz faqat darsni rejalashtiring."*
+> *"30 ta ish qog'ozidan zaif mavzuni topish — 45 daqiqa. Baholada? 90 soniya. Analytics panel sinf bo'yicha eng zaif mavzularni avtomatik aniqlaydi. Siz faqat darsni rejalashtiring."*
 
-**Translation:** "Finding a weak topic from 30 papers — 45 minutes. In TezTekshir? 90 seconds. The analytics panel automatically identifies the weakest topics across the class. You just plan the lesson."
+**Translation:** "Finding a weak topic from 30 papers — 45 minutes. In Bahola? 90 seconds. The analytics panel automatically identifies the weakest topics across the class. You just plan the lesson."
 
 ---
 
@@ -40,13 +40,13 @@ Split-screen showing a teacher manually searching through paper tests to find we
 🔍 Zaif mavzularni qidirmoqdamisiz?
 
 ❌ Qo'lda tahlil: 45 daqiqa
-✅ TezTekshir analytics: 90 soniya
+✅ Bahola analytics: 90 soniya
 
 AI sizning sinfingizning eng zaif joylarini avtomatik topadi.
 
-🔗 teztekshir.uz
+🔗 bahola.uz
 
-#TezTekshir #Analytics #VaqtniTejang #AIGrading
+#Bahola #Analytics #VaqtniTejang #AIGrading
 
 ---
 
@@ -54,13 +54,13 @@ AI sizning sinfingizning eng zaif joylarini avtomatik topadi.
 🔍 Ищете слабые места класса?
 
 ❌ Ручной анализ: 45 минут
-✅ TezTekshir аналитика: 90 секунд
+✅ Bahola аналитика: 90 секунд
 
 ИИ автоматически находит слабые темы в вашем классе.
 
-🔗 teztekshir.uz
+🔗 bahola.uz
 
-#TezTekshir #Аналитика #ЭкономьяВремя
+#Bahola #Аналитика #ЭкономьяВремя
 
 ---
 

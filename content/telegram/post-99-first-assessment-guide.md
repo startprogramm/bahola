@@ -10,7 +10,7 @@ date: 2027-01-25
 
 Yangi o'qituvchilar uchun bosqichma-bosqich qo'llanma 👇
 
-**1-qadam:** TezTekshir'ga kiring va "Sinflar" bo'limiga o'ting.
+**1-qadam:** Bahola'ga kiring va "Sinflar" bo'limiga o'ting.
 
 **2-qadam:** "Yangi sinf" tugmasini bosing — sinf nomi, fan va tavsifni kiriting. Sinf tayyor!
 
@@ -24,4 +24,4 @@ Yangi o'qituvchilar uchun bosqichma-bosqich qo'llanma 👇
 
 Savol bormi? Quyida yozing 👇
 
-#TezTekshir #QoʻllanmaOʻqituvchilar #AIBaholash
+#Bahola #QoʻllanmaOʻqituvchilar #AIBaholash

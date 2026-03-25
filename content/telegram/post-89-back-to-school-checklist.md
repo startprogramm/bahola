@@ -11,7 +11,7 @@ languages: [uz]
 
 📚 **Darslar boshlanmoqda — tayyor bo'ling!**
 
-Yangi yil bayrami o'tdi, endi semestr yana boshlayadi. TezTekshir bilan tayyorgarlik 10 daqiqada tugaydi 💪
+Yangi yil bayrami o'tdi, endi semestr yana boshlayadi. Bahola bilan tayyorgarlik 10 daqiqada tugaydi 💪
 
 Mana 3 ta oson qadam:
 
@@ -26,4 +26,4 @@ Yangi semestr uchun topshiriqlar va mezonlarni oldindan yuklang — baholash pay
 
 Hamma narsa joydami? ✅ Yangi semestringiz muborak bo'lsin!
 
-👉 teztekshir.uz
+👉 bahola.uz

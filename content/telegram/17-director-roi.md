@@ -9,7 +9,7 @@
 
 📊 **Direktor sifatida siz vaqtni, adolatni va hisobotni qadrlaysiz.**
 
-Bir o'qituvchi 30 ta nazorat ishini tekshirishga o'rtacha **2-3 soat** sarflaydi. TezTekshir bilan bu vaqt **15-20 daqiqaga** tushadi.
+Bir o'qituvchi 30 ta nazorat ishini tekshirishga o'rtacha **2-3 soat** sarflaydi. Bahola bilan bu vaqt **15-20 daqiqaga** tushadi.
 
 Faqat vaqt emas — natijalar ham aniqroq:
 
@@ -20,10 +20,10 @@ Faqat vaqt emas — natijalar ham aniqroq:
 
 Prezident maktablarida allaqachon qo'llanilmoqda. Endi barcha maktablar uchun — **bepul**.
 
-Maktabingizda TezTekshir joriy etish haqida gaplashaylik.
+Maktabingizda Bahola joriy etish haqida gaplashaylik.
 
-👉 teztekshir.uz | @teztekshir_uz
+👉 bahola.uz | @bahola_uz
 
 ---
 
-**CTA:** Maktabingiz uchun bepul sinab ko'ring → teztekshir.uz
+**CTA:** Maktabingiz uchun bepul sinab ko'ring → bahola.uz

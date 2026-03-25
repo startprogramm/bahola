@@ -1,11 +1,11 @@
 # Post 107 — Telegram (Uzbek)
 **Campaign:** Week 36 — Teacher Community: Peer Learning & Collaboration
 **Language:** Uzbek
-**Theme:** Top patterns from experienced TezTekshir teachers — concrete tips
+**Theme:** Top patterns from experienced Bahola teachers — concrete tips
 
 ---
 
-⭐ **TezTekshir ustalaridan 5 ta amaliy maslahat**
+⭐ **Bahola ustalaridan 5 ta amaliy maslahat**
 
 Ko'p foydalanuvchi o'qituvchilar bilan suhbatlashib, eng ko'p takrorlanadigan usullarni to'pladik. Mana ular:
 
@@ -26,4 +26,4 @@ Har semestrda rubrikani yangilang — o'quvchilar o'sadi, mezonlar ham o'sishi k
 
 💬 Qaysi maslahat siz uchun eng foydali? Yoki o'zingizning usullaringiz bormi? Izohlarda yozing!
 
-#TezTekshir #OʻqituvchiMaslahatlari #AIBaholash #TajribaliOʻqituvchilar
+#Bahola #OʻqituvchiMaslahatlari #AIBaholash #TajribaliOʻqituvchilar

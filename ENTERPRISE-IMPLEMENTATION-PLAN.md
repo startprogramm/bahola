@@ -1,4 +1,4 @@
-# TezTekshir Enterprise School Management — Implementation Plan
+# Bahola Enterprise School Management — Implementation Plan
 
 **Date:** February 19, 2026 (overnight build)
 **Deadline:** February 20, 2026 — 11:00 AM Tashkent
@@ -8,7 +8,7 @@
 
 ## 🎯 Executive Summary
 
-Transform TezTekshir from a class-based system (like Google Classroom) to a school-based enterprise system where:
+Transform Bahola from a class-based system (like Google Classroom) to a school-based enterprise system where:
 - Schools have unique codes
 - Users join schools via code and auto-enroll in all classes
 - Directors have a dashboard to monitor entire school

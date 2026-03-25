@@ -9,7 +9,7 @@ languages: [uz, ru]
 
 ## Uzbek
 
-🔭 **Keyingi semestrda TezTekshirda yangiliklar**
+🔭 **Keyingi semestrda Baholada yangiliklar**
 
 Bu semestr yaxshi edi. Keyingisi yanada yaxshiroq bo'ladi.
 
@@ -26,7 +26,7 @@ Yangilanishlarni o'tkazib yubormaslik uchun kanalga obuna bo'ling 👆
 
 ## Russian
 
-🔭 **Что нового в TezTekshir в следующем семестре**
+🔭 **Что нового в Bahola в следующем семестре**
 
 Этот семестр был хорошим. Следующий будет ещё лучше.
 

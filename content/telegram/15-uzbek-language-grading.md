@@ -13,7 +13,7 @@ Ko'pchilik o'qituvchilar shunday o'ylaydi: "AI faqat matematika uchun ishlaydi."
 
 Noto'g'ri.
 
-TezTekshir o'zbek tilidagi insholar, diktantlar va erkin yozma ishlarni ham baholaydi — to'liq o'zbek tilida:
+Bahola o'zbek tilidagi insholar, diktantlar va erkin yozma ishlarni ham baholaydi — to'liq o'zbek tilida:
 ✅ Xato va imlo kamchiliklarini aniqlaydi
 ✅ G'oyaning rivojlanishiga baho beradi
 ✅ Har bir o'quvchiga alohida, aniq izoh yozadi
@@ -21,7 +21,7 @@ TezTekshir o'zbek tilidagi insholar, diktantlar va erkin yozma ishlarni ham baho
 
 O'zbek tili darsi — endi engilroq. Siz ijodiy qismga e'tibor qarating, rutinani AIga qoldiring.
 
-📌 Namuna ko'ring → teztekshir.uz
+📌 Namuna ko'ring → bahola.uz
 
 ---
 
@@ -31,7 +31,7 @@ O'zbek tili darsi — endi engilroq. Siz ijodiy qismga e'tibor qarating, rutinan
 
 Нет.
 
-TezTekshir проверяет сочинения, диктанты и письменные работы на узбекском языке — полностью:
+Bahola проверяет сочинения, диктанты и письменные работы на узбекском языке — полностью:
 ✅ Определяет орфографические ошибки
 ✅ Оценивает развитие мысли
 ✅ Пишет отдельный комментарий для каждого ученика
@@ -39,7 +39,7 @@ TezTekshir проверяет сочинения, диктанты и письм
 
 Урок узбекского языка — теперь легче. Сосредоточьтесь на творческой части, рутину доверьте ИИ.
 
-📌 Посмотреть пример → teztekshir.uz
+📌 Посмотреть пример → bahola.uz
 
 ---
 

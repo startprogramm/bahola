@@ -18,7 +18,7 @@ Close-up of teacher's hands at keyboard. Screen shows a blank assessment form.
 
 | Time | Shot | Text Overlay | Voiceover/Caption |
 |------|------|-------------|-------------------|
-| 0-3s | Teacher opens TezTekshir, navigates to "New Assessment" | "1:30 da o'z rubrikingizni yarating" | Upbeat tap sounds |
+| 0-3s | Teacher opens Bahola, navigates to "New Assessment" | "1:30 da o'z rubrikingizni yarating" | Upbeat tap sounds |
 | 4-8s | Types assessment title: "Geografiya — 5-dars" | "Mavzuni kiriting" | — |
 | 9-15s | Clicks "Rubrik qo'shish". First criterion appears: empty field | "Mezonlarni belgilang" | "Har bir mezon — alohida ball" |
 | 16-22s | Types criterion 1: "Asosiy g'oya — 5 ball". Description: "To'liq, mantiqiy, misollar bor" | Criterion 1 fills in ✅ | Click sounds, satisfying UI |
@@ -27,7 +27,7 @@ Close-up of teacher's hands at keyboard. Screen shows a blank assessment form.
 | 34-40s | Assessment created. Teacher shares link with class. Students shown submitting photos of their work. | "O'quvchilar topshirmoqda..." | — |
 | 41-48s | AI grades one submission. Result: rubric breakdown shown — criterion by criterion with scores + comments. | "AI har mezonni alohida baholadi" | "Asosiy g'oya: 4/5 — Kreativlik: 2/2" |
 | 49-55s | Teacher taps feedback — reads specific AI comment in Uzbek. Nods with satisfaction. | "Aniq fikr-mulohaza — avtomatik" | "Bu sizning mezonlaringiz — AI shu asosda ishladi" |
-| 56-60s | End card: TezTekshir logo + "teztekshir.uz — bepul boshlang" | "Birinchi rubrikingizni yarating 👇" | — |
+| 56-60s | End card: Bahola logo + "bahola.uz — bepul boshlang" | "Birinchi rubrikingizni yarating 👇" | — |
 
 ---
 
@@ -44,7 +44,7 @@ AI shu mezonlar asosida baholaydi. Har bir o'quvchi — alohida, batafsil fikr-m
 
 90 soniyada — birinchi rubrikingizni yarating.
 
-📲 teztekshir.uz — bepul sinab ko'ring
+📲 bahola.uz — bepul sinab ko'ring
 
 ---
 
@@ -61,13 +61,13 @@ AI shu mezonlar asosida baholaydi. Har bir o'quvchi — alohida, batafsil fikr-m
 
 За 90 секунд — создайте свою первую рубрику.
 
-📲 teztekshir.uz — попробуйте бесплатно
+📲 bahola.uz — попробуйте бесплатно
 
 ---
 
 ## Hashtags
 
-#TezTekshir #RubrikQuruvchi #AIBaholash #OʻqituvchilarUchun #PresidentSchools #Uzbekistan #EdTech #RubricBuilder #TeacherTools #SmartGrading #UzbekEducation #ClassroomTech #TeacherLife #AssessmentDesign
+#Bahola #RubrikQuruvchi #AIBaholash #OʻqituvchilarUchun #PresidentSchools #Uzbekistan #EdTech #RubricBuilder #TeacherTools #SmartGrading #UzbekEducation #ClassroomTech #TeacherLife #AssessmentDesign
 
 ---
 
@@ -75,7 +75,7 @@ AI shu mezonlar asosida baholaydi. Har bir o'quvchi — alohida, batafsil fikr-m
 Upbeat, focused productivity energy — something like lo-fi study beats with a slight tempo boost. The demo should feel like "watch how fast this is". No heavy bass. Think: satisfying UI sounds (clicks, whooshes) complementing a light background track.
 
 ## Production Notes
-- This is a screen recording demo reel — must use real TezTekshir UI, not mockups
+- This is a screen recording demo reel — must use real Bahola UI, not mockups
 - The rubric builder must look clean and fast — edit tight, show the flow at 1.5-2x speed with natural pauses at key steps
 - The criterion-by-criterion AI breakdown is the key "wow" shot — make sure it's readable on screen, even on mobile
 - Subtitle everything in both Uzbek and Russian — alternate line by line or show both

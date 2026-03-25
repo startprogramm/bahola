@@ -6,7 +6,7 @@ date: 2026-03-26
 
 💡 **Maslahat: birinchi topshiriqni 5 daqiqada yarating**
 
-TezTekshirda birinchi baholashni boshlash juda oddiy:
+Baholada birinchi baholashni boshlash juda oddiy:
 
 1️⃣ Sinf yarating → o'quvchilarga taklif kodi yuboring
 2️⃣ Yangi topshiriq yarating → sarlavha va ball sxemasini kiriting
@@ -14,13 +14,13 @@ TezTekshirda birinchi baholashni boshlash juda oddiy:
 
 Ball sxemasi — bu eng muhim qadam. Qanchalik aniq yozsangiz, AI shunchalik to'g'ri baholaydi.
 
-Sinab ko'ring 👉 teztekshir.uz
+Sinab ko'ring 👉 bahola.uz
 
 ---
 
 💡 **Совет: создайте первое задание за 5 минут**
 
-Начать с TezTekshir очень просто:
+Начать с Bahola очень просто:
 
 1️⃣ Создайте класс → отправьте ученикам код приглашения
 2️⃣ Создайте задание → введите название и схему оценивания
@@ -28,4 +28,4 @@ Sinab ko'ring 👉 teztekshir.uz
 
 Схема оценивания — самый важный шаг. Чем точнее вы её опишете, тем точнее будет оценка ИИ.
 
-Попробуйте 👉 teztekshir.uz
+Попробуйте 👉 bahola.uz

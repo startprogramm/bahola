@@ -27,8 +27,8 @@ Teacher at whiteboard, marker in hand, looks directly at camera with a slight "h
 | 34-40s | RIGHT panel: Split icon — half essay, half list. "Aralash format" label. | **Panel 3: Aralash format** | "Ikki turdagi savollar aralashsa..." |
 | 41-44s | RIGHT panel: Examples: "2 ta qisqa savol + 1 ta kengaytirilgan javob" | "Har qismga alohida mezon" | "ИИ har biri uchun alohida baholaydi" |
 | 45-50s | All 3 panels visible. Teacher reappears — now confident, points to center panel. | "Yangi boshlovchilar uchun maslahat:" | "Avval tuzilgan javobdan boshlang — oson va tez" |
-| 51-56s | TezTekshir UI shown — dropdown of assessment types | "Tur tanlash — 1 bosish" | "Keyin rubrik qo'shing — tayyor" |
-| 57-60s | End card: TezTekshir logo + "teztekshir.uz" | "Birinchi topshiriqni yarating 👇" | — |
+| 51-56s | Bahola UI shown — dropdown of assessment types | "Tur tanlash — 1 bosish" | "Keyin rubrik qo'shing — tayyor" |
+| 57-60s | End card: Bahola logo + "bahola.uz" | "Birinchi topshiriqni yarating 👇" | — |
 
 ---
 
@@ -40,11 +40,11 @@ Qaysi topshiriq turini tanlash kerakligini bilmaysizmi? Biz sizga yordam beramiz
 **Tuzilgan javob** → Aniq qadamlar, formulalar, faktlar
 **Aralash format** → Bir necha turdagi savollar
 
-TezTekshir barcha uchta turni qo'llab-quvvatlaydi. Siz turni tanlaysiz — AI shu asosda baholaydi.
+Bahola barcha uchta turni qo'llab-quvvatlaydi. Siz turni tanlaysiz — AI shu asosda baholaydi.
 
 Yangi boshlayapsizmi? Tuzilgan javobdan boshlang. U eng aniq natija beradi.
 
-📲 teztekshir.uz — bepul sinab ko'ring
+📲 bahola.uz — bepul sinab ko'ring
 
 ---
 
@@ -56,17 +56,17 @@ Yangi boshlayapsizmi? Tuzilgan javobdan boshlang. U eng aniq natija beradi.
 **Структурированный ответ** → Чёткие шаги, формулы, факты
 **Смешанный формат** → Несколько типов вопросов в одном задании
 
-TezTekshir поддерживает все три формата. Вы выбираете тип — ИИ оценивает по вашим критериям.
+Bahola поддерживает все три формата. Вы выбираете тип — ИИ оценивает по вашим критериям.
 
 Начинаете? Попробуйте структурированный ответ — он даёт самые чёткие результаты.
 
-📲 teztekshir.uz — попробуйте бесплатно
+📲 bahola.uz — попробуйте бесплатно
 
 ---
 
 ## Hashtags
 
-#TezTekshir #AssessmentTypes #AIBaholash #OʻqituvchilarUchun #PresidentSchools #Uzbekistan #EdTech #TeacherTools #UzbekEducation #ClassroomTech #RubricBuilder #SmartGrading #TeacherLife #FormativeAssessment
+#Bahola #AssessmentTypes #AIBaholash #OʻqituvchilarUchun #PresidentSchools #Uzbekistan #EdTech #TeacherTools #UzbekEducation #ClassroomTech #RubricBuilder #SmartGrading #TeacherLife #FormativeAssessment
 
 ---
 
@@ -76,7 +76,7 @@ Explanatory, calm but engaging — think explainer video energy. Light backgroun
 ## Production Notes
 - The 3-panel split screen is the core visual — must be clean, readable on mobile (vertical format)
 - Each panel needs a distinct color/icon to help viewers immediately distinguish the three types
-- Use TezTekshir brand colors for the panels where possible
+- Use Bahola brand colors for the panels where possible
 - The "start with structured answer" tip should be a distinct callout (different color text or box) — it's the key takeaway for new users
 - Subtitles in Uzbek throughout (Russian subtitles optional as toggle or alternate caption)
 - Consider a "Save this for later" CTA — this reel has reference value teachers will return to

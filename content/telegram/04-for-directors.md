@@ -4,7 +4,7 @@ channel: telegram
 date: 2026-03-19
 ---
 
-🏫 **Maktab direktorlari uchun TezTekshir**
+🏫 **Maktab direktorlari uchun Bahola**
 
 Chorak oxiridagi hisobotlarni kutmasdan maktab bo'yicha hamma narsani ko'ring:
 
@@ -14,11 +14,11 @@ Chorak oxiridagi hisobotlarni kutmasdan maktab bo'yicha hamma narsani ko'ring:
 
 Muammo kichik bo'lganda ko'ring — kech bo'lishini kutmang.
 
-TezTekshir Prezident maktablarida ishlatilmoqda. Maktabingizni qo'shish uchun bog'laning 👉 teztekshir.uz
+Bahola Prezident maktablarida ishlatilmoqda. Maktabingizni qo'shish uchun bog'laning 👉 bahola.uz
 
 ---
 
-🏫 **TezTekshir для директоров школ**
+🏫 **Bahola для директоров школ**
 
 Видьте всё по школе в реальном времени — не ждите отчётов конца четверти:
 
@@ -28,4 +28,4 @@ TezTekshir Prezident maktablarida ishlatilmoqda. Maktabingizni qo'shish uchun bo
 
 Замечайте проблемы, пока они ещё малы — не после финальных экзаменов.
 
-TezTekshir используется в президентских школах. Подключите вашу школу 👉 teztekshir.uz
+Bahola используется в президентских школах. Подключите вашу школу 👉 bahola.uz

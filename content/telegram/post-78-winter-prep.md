@@ -13,11 +13,11 @@ languages: [uz]
 
 Ko'pchilik dam oladi. Aqlli o'qituvchilar esa tayyorlanadi.
 
-TezTekshirda hoziroq:
+Baholada hoziroq:
 - ✅ Baholar shablonlarini sozlang
 - ✅ Fan rubrikalarini tayyor qiling
 - ✅ Sinf ro'yxatlarini yangilang
 
 Yanvar oyida vaqt tejaymiz — hamma narsa tayyor bo'ladi! 🚀
 
-👉 teztekshir.uz — Bepul ro'yxatdan o'ting
+👉 bahola.uz — Bepul ro'yxatdan o'ting

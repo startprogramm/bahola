@@ -21,13 +21,13 @@ status: draft
 Hisob-kitob oddiy:
 
 30 o'quvchi × 3 imtihon = **90 ta ish** — qo'lda baholasangiz, bir necha kun.
-TezTekshir bilan? **1 soat ichida.**
+Bahola bilan? **1 soat ichida.**
 
 Fotosuratni yuklaysiz — sun'iy intellekt OCR bilan matnni ajratib oladi, belgilash sxemasi bo'yicha baholaydi, har bir o'quvchiga batafsil izoh beradi. Natijalar tayyor.
 
 Siz vaqtingizni keyingi darsga, o'quvchilaringizga sarflaysiz. Baholash — bizga qoldiring.
 
-👉 **teztekshir.uz** — bepul ro'yxatdan o'ting.
-📲 @teztekshir_uz
+👉 **bahola.uz** — bepul ro'yxatdan o'ting.
+📲 @bahola_uz
 
-#TezTekshir #YakuniyImtihon #BaholashTezkor #MaktabUzbekiston
+#Bahola #YakuniyImtihon #BaholashTezkor #MaktabUzbekiston
