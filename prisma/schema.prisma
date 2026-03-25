@@ -1,0 +1,511 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider  = "postgresql"
+  url       = env("DATABASE_URL")
+  directUrl = env("DIRECT_URL")
+}
+
+model User {
+  id                    String                @id @default(cuid())
+  name                  String
+  email                 String?               @unique
+  password              String?
+  avatar                String?
+  subscription          SubscriptionTier      @default(FREE)
+  credits               Int                   @default(50)
+  createdAt             DateTime              @default(now())
+  updatedAt             DateTime              @updatedAt
+  createdById           String?
+  emailVerified         DateTime?             @db.Timestamptz(6)
+  feedbackLanguage      String                @default("en")
+  isPlaceholder         Boolean               @default(false)
+  language              String                @default("en")
+  passwordResetExpires  DateTime?             @db.Timestamptz(6)
+  passwordResetToken    String?               @unique
+  verificationToken     String?               @unique
+  subscriptionExpiresAt DateTime?
+  telegramChatId        String?
+  role                  Role                  @default(STUDENT)
+  schoolId              String?
+  onboardingDone        Boolean               @default(false)
+  assessmentViews       AssessmentView[]
+  teacherClasses        Class[]               @relation("TeacherClasses")
+  creditTransactions    CreditTransaction[]
+  deviceTokens          DeviceToken[]
+  enrollments           Enrollment[]
+  orders                Order[]
+  invitedMemberships    SchoolMembership[]    @relation("InvitedBy")
+  schoolMemberships     SchoolMembership[]
+  directedSchools       School[]              @relation("SchoolDirector")
+  scoreAdjustments      ScoreAdjustment[]     @relation("scoreAdjustments")
+  streamComments        StreamComment[]       @relation("StreamCommentAuthor")
+  streamPosts           StreamPost[]          @relation("StreamPostAuthor")
+  submissions           Submission[]
+  subscriptionRequests  SubscriptionRequest[]
+  school                School?               @relation("SchoolMembers", fields: [schoolId], references: [id])
+
+  @@index([createdAt])
+  @@index([schoolId])
+  @@map("users")
+}
+
+model Class {
+  id          String       @id @default(cuid())
+  name        String
+  description String?
+  code        String       @unique
+  subject     String?
+  createdAt   DateTime     @default(now())
+  updatedAt   DateTime     @updatedAt
+  teacherId   String
+  archived    Boolean      @default(false)
+  headerColor String       @default("#2563eb")
+  bannerStyle String?
+  classAvatar String?
+  schoolId    String?
+  assessments Assessment[]
+  school      School?      @relation("SchoolClasses", fields: [schoolId], references: [id])
+  teacher     User         @relation("TeacherClasses", fields: [teacherId], references: [id], onDelete: Cascade)
+  enrollments Enrollment[]
+  streamPosts StreamPost[]
+
+  @@index([teacherId])
+  @@index([schoolId])
+  @@index([createdAt])
+  @@map("classes")
+}
+
+model Enrollment {
+  id        String         @id @default(cuid())
+  joinedAt  DateTime       @default(now())
+  studentId String
+  classId   String
+  role      EnrollmentRole @default(STUDENT)
+  class     Class          @relation(fields: [classId], references: [id], onDelete: Cascade)
+  student   User           @relation(fields: [studentId], references: [id], onDelete: Cascade)
+
+  @@unique([studentId, classId])
+  @@index([classId])
+  @@index([studentId])
+  @@map("enrollments")
+}
+
+model Assessment {
+  id                        String           @id @default(cuid())
+  title                     String
+  markScheme                String
+  markSchemePdfUrl          String?
+  markSchemeFileUrls        String?
+  questionMarks             String?
+  totalMarks                Int
+  ocrType                   String           @default("handwritten") @db.VarChar(255)
+  feedbackLanguage          String           @default("english") @db.VarChar(255)
+  status                    AssessmentStatus @default(ACTIVE)
+  createdAt                 DateTime         @default(now())
+  updatedAt                 DateTime         @updatedAt
+  classId                   String
+  dueDate                   DateTime?
+  customPrompt              String?
+  questionPaper             String?
+  questionPaperFileUrls     String?
+  assessmentType            String           @default("standard")
+  showAIFeedback            Boolean          @default(true)
+  showTextInput             Boolean          @default(true)
+  studentsSeeMarkScheme     Boolean          @default(false)
+  studentsSeeQP             Boolean          @default(true)
+  studentsCanUpload         Boolean          @default(true)
+  analyticsSummary          String?
+  gradingMode               String           @default("text") @db.VarChar(20)
+  geminiBatchCacheExpiresAt DateTime?
+  geminiBatchCacheId        String?
+  geminiFileIdsExpiresAt    DateTime?
+  markSchemeGeminiIds       String?
+  questionPaperGeminiIds    String?
+  assessmentViews           AssessmentView[]
+  class                     Class            @relation(fields: [classId], references: [id], onDelete: Cascade)
+  submissions               Submission[]
+
+  @@index([classId])
+  @@index([status])
+  @@index([createdAt])
+  @@index([dueDate])
+  @@index([classId, status])
+  @@map("assessments")
+}
+
+model Submission {
+  id               String            @id @default(cuid())
+  imageUrls        String
+  extractedText    String?
+  score            Int?
+  maxScore         Int?
+  feedback         String?
+  status           SubmissionStatus  @default(PENDING)
+  gradedAt         DateTime?
+  createdAt        DateTime          @default(now())
+  updatedAt        DateTime          @updatedAt
+  originalScore    Int?
+  adjustedBy       String?
+  adjustmentReason String?
+  adjustedAt       DateTime?
+  studentId        String
+  assessmentId     String
+  gradingProgress  Int               @default(0)
+  reportReason     String?
+  reportedAt       DateTime?
+  retryCount       Int               @default(0)
+  gradingMetadata  String?
+  gradingMode      String            @default("text") @db.VarChar(20)
+  pageMap          String?
+  questionResults  QuestionResult[]
+  adjustments      ScoreAdjustment[]
+  assessment       Assessment        @relation(fields: [assessmentId], references: [id], onDelete: Cascade)
+  student          User              @relation(fields: [studentId], references: [id], onDelete: Cascade)
+
+  @@unique([studentId, assessmentId])
+  @@index([assessmentId])
+  @@index([studentId])
+  @@index([status])
+  @@index([createdAt])
+  @@index([assessmentId, status])
+  @@index([studentId, status])
+  @@index([assessmentId, status], map: "idx_submissions_assessment_status")
+  @@map("submissions")
+}
+
+model ScoreAdjustment {
+  id           String     @id @default(cuid())
+  submissionId String
+  adjustedBy   String
+  adjustedAt   DateTime   @default(now())
+  scoreBefore  Int
+  scoreAfter   Int
+  changes      String
+  adjuster     User       @relation("scoreAdjustments", fields: [adjustedBy], references: [id])
+  submission   Submission @relation(fields: [submissionId], references: [id], onDelete: Cascade)
+
+  @@index([submissionId])
+  @@map("score_adjustments")
+}
+
+model QuestionResult {
+  id              String     @id @default(cuid())
+  submissionId    String
+  questionNumber  String
+  score           Int
+  maxScore        Int
+  status          String
+  deductionReason String?
+  modelLogicCot   String?
+  feedback        String?
+  containsDiagram Boolean    @default(false)
+  pageNumbers     Int[]
+  createdAt       DateTime   @default(now())
+  updatedAt       DateTime   @updatedAt
+  submission      Submission @relation(fields: [submissionId], references: [id], onDelete: Cascade)
+
+  @@index([submissionId])
+  @@map("question_results")
+}
+
+model StreamPost {
+  id          String          @id @default(cuid())
+  content     String
+  attachments String?
+  pinned      Boolean?        @default(false)
+  createdAt   DateTime        @default(now())
+  updatedAt   DateTime        @updatedAt
+  classId     String
+  authorId    String
+  comments    StreamComment[]
+  author      User            @relation("StreamPostAuthor", fields: [authorId], references: [id], onDelete: Cascade)
+  class       Class           @relation(fields: [classId], references: [id], onDelete: Cascade)
+
+  @@index([authorId], map: "stream_posts_authorid_idx")
+  @@index([classId], map: "stream_posts_classid_idx")
+  @@index([createdAt], map: "stream_posts_createdat_idx")
+  @@index([classId, pinned, createdAt])
+  @@map("stream_posts")
+}
+
+model StreamComment {
+  id        String     @id @default(cuid())
+  content   String
+  createdAt DateTime   @default(now())
+  updatedAt DateTime   @updatedAt
+  postId    String
+  authorId  String
+  author    User       @relation("StreamCommentAuthor", fields: [authorId], references: [id], onDelete: Cascade)
+  post      StreamPost @relation(fields: [postId], references: [id], onDelete: Cascade)
+
+  @@index([authorId], map: "stream_comments_authorid_idx")
+  @@index([createdAt], map: "stream_comments_createdat_idx")
+  @@index([postId], map: "stream_comments_postid_idx")
+  @@map("stream_comments")
+}
+
+/// This model contains row level security and requires additional setup for migrations. Visit https://pris.ly/d/row-level-security for more info.
+model PasswordResetToken {
+  id      String   @id
+  email   String   @unique
+  token   String   @unique
+  expires DateTime @db.Timestamptz(6)
+}
+
+model comments {
+  id        String   @id
+  content   String
+  createdAt DateTime @default(now())
+  updatedAt DateTime
+  streamId  String
+  authorId  String
+
+  @@index([authorId])
+  @@index([createdAt])
+  @@index([streamId])
+}
+
+model streams {
+  id        String   @id
+  title     String
+  content   String
+  createdAt DateTime @default(now())
+  updatedAt DateTime
+  classId   String
+  authorId  String
+
+  @@index([authorId])
+  @@index([classId])
+  @@index([createdAt])
+}
+
+model teacher_verifications {
+  id        String   @id
+  name      String
+  email     String   @unique
+  password  String
+  code      String
+  expiresAt DateTime
+  createdAt DateTime @default(now()) @db.Timestamptz(6)
+
+  @@index([code])
+  @@index([email])
+  @@index([expiresAt])
+}
+
+model SubscriptionRequest {
+  id            String           @id @default(cuid())
+  status        RequestStatus    @default(PENDING)
+  createdAt     DateTime         @default(now())
+  updatedAt     DateTime         @updatedAt
+  userId        String
+  note          String?
+  requestedTier SubscriptionTier
+  reviewNote    String?
+  reviewedAt    DateTime?
+  user          User             @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+  @@index([status])
+  @@index([createdAt])
+  @@map("subscription_requests")
+}
+
+model CreditTransaction {
+  id           String          @id @default(cuid())
+  amount       Int
+  createdAt    DateTime        @default(now())
+  userId       String
+  balanceAfter Int             @default(0)
+  description  String?
+  type         TransactionType @default(USAGE)
+  user         User            @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+  @@index([type])
+  @@index([createdAt])
+  @@map("credit_transactions")
+}
+
+model Order {
+  id            String           @id @default(cuid())
+  numericId     Int              @unique @default(autoincrement())
+  userId        String
+  plan          SubscriptionTier
+  amount        Int
+  status        OrderStatus      @default(PENDING)
+  clickTransId  String?
+  clickPaydocId String?
+  preparedAt    DateTime?
+  completedAt   DateTime?
+  cancelledAt   DateTime?
+  createdAt     DateTime         @default(now())
+  updatedAt     DateTime         @updatedAt
+  user          User             @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+  @@index([status])
+  @@index([createdAt])
+  @@map("orders")
+}
+
+model DeviceToken {
+  id        String   @id @default(cuid())
+  userId    String
+  token     String
+  platform  String   @db.VarChar(20)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, token])
+  @@index([userId])
+  @@index([token])
+  @@map("device_tokens")
+}
+
+model Feedback {
+  id               String         @id @default(cuid())
+  telegramUserId   String
+  telegramUsername String
+  message          String
+  status           FeedbackStatus @default(PENDING)
+  reply            String?
+  repliedAt        DateTime?
+  createdAt        DateTime       @default(now())
+  updatedAt        DateTime       @updatedAt
+
+  @@index([telegramUserId])
+  @@index([status])
+  @@index([createdAt])
+  @@map("feedback")
+}
+
+model AssessmentView {
+  id           String     @id @default(cuid())
+  userId       String
+  assessmentId String
+  viewedAt     DateTime   @default(now())
+  assessment   Assessment @relation(fields: [assessmentId], references: [id], onDelete: Cascade)
+  user         User       @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, assessmentId])
+  @@index([userId])
+  @@index([assessmentId])
+  @@map("assessment_views")
+}
+
+model School {
+  id          String             @id @default(cuid())
+  name        String
+  code        String             @unique
+  directorId  String?
+  address     String?
+  phone       String?
+  email       String?
+  isActive    Boolean            @default(true)
+  createdAt   DateTime           @default(now())
+  updatedAt   DateTime           @updatedAt
+  classes     Class[]            @relation("SchoolClasses")
+  memberships SchoolMembership[]
+  director    User?              @relation("SchoolDirector", fields: [directorId], references: [id])
+  members     User[]             @relation("SchoolMembers")
+
+  @@index([code])
+  @@index([directorId])
+  @@map("schools")
+}
+
+model SchoolMembership {
+  id          String   @id @default(cuid())
+  userId      String
+  schoolId    String
+  role        Role     @default(STUDENT)
+  joinedAt    DateTime @default(now())
+  invitedById String?
+  status      String   @default("active")
+  grade       String?
+  subclass    String?
+  invitedBy   User?    @relation("InvitedBy", fields: [invitedById], references: [id])
+  school      School   @relation(fields: [schoolId], references: [id], onDelete: Cascade)
+  user        User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, schoolId])
+  @@index([schoolId])
+  @@index([userId])
+  @@index([schoolId, role, grade, subclass])
+  @@map("school_memberships")
+}
+
+enum EnrollmentRole {
+  STUDENT
+  TEACHER
+}
+
+enum Role {
+  STUDENT
+  TEACHER
+  DIRECTOR
+}
+
+enum Plan {
+  FREE
+  BASIC
+  PRO
+}
+
+enum ApprovalStatus {
+  PENDING
+  APPROVED
+  REJECTED
+}
+
+enum AssessmentStatus {
+  DRAFT
+  ACTIVE
+  CLOSED
+}
+
+enum SubmissionStatus {
+  PENDING
+  PROCESSING
+  GRADED
+  ERROR
+}
+
+enum SubscriptionTier {
+  FREE
+  PLUS
+  PRO
+  MAX
+}
+
+enum RequestStatus {
+  PENDING
+  APPROVED
+  REJECTED
+}
+
+enum TransactionType {
+  USAGE
+  PURCHASE
+  GRANT
+  REFUND
+  SIGNUP
+}
+
+enum OrderStatus {
+  PENDING
+  PREPARING
+  COMPLETED
+  CANCELLED
+}
+
+enum FeedbackStatus {
+  PENDING
+  REPLIED
+  CLOSED
+}

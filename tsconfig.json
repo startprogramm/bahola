@@ -1,0 +1,65 @@
+{
+  "compilerOptions": {
+    "lib": [
+      "dom",
+      "dom.iterable",
+      "esnext"
+    ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "react-jsx",
+    "incremental": true,
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ],
+    "paths": {
+      "@/*": [
+        "./*"
+      ]
+    },
+    "target": "ES2017"
+  },
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    ".next/types/**/*.ts",
+    ".next/dev/types/**/*.ts",
+    ".next-dev-teztekshir/types/**/*.ts",
+    ".next-dev-teztekshir/dev/types/**/*.ts",
+    ".next-dev-maktab/types/**/*.ts",
+    ".next-dev-maktab/dev/types/**/*.ts",
+    ".next-teztekshir/types/**/*.ts",
+    ".next-teztekshir/dev/types/**/*.ts",
+    ".next-maktab/types/**/*.ts",
+    ".next-maktab/dev/types/**/*.ts",
+    ".next-dev-3011/types/**/*.ts",
+    ".next-dev-3011/dev/types/**/*.ts",
+    ".next-dev-3010/types/**/*.ts",
+    ".next-dev-3010/dev/types/**/*.ts",
+    ".next-dev-tz/types/**/*.ts",
+    ".next-dev-tz/dev/types/**/*.ts",
+    ".next-build-test/types/**/*.ts",
+    ".next-build-test/dev/types/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "landing",
+    "class page",
+    "app copy",
+    "prisma/gen-logins.ts",
+    "prisma/check-enrollment.ts",
+    "prisma/seed-guliston.ts",
+    "prisma/seed-school.ts",
+    "prisma/seed-dummies.ts"
+  ]
+}
